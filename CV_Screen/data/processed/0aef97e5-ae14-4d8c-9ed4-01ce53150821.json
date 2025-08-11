@@ -1,0 +1,77 @@
+﻿{
+  "full_name": "NGUYỄN HẢI NAM",
+  "applied_position": "KỸ SƯ XÂY DỰNG",
+  "gender": "",
+  "dob": "18/06/1996",
+  "email": "hy.ksxd.07.uagmail.com",
+  "address": "137/65- Lê Văn Sỹ- Phường 13- Quận Phú Nhuận- TP.HCM.",
+  "phone": "",
+  "skills": [
+    "Auto Cad",
+    "Excel",
+    "Word",
+    "Powerpoint",
+    "Etabs",
+    "Delta Tip",
+    "Tiếng Anh"
+  ],
+  "experience": [
+    {
+      "company": "Công Ty CPTMDV&XD Tài Phú",
+      "position": "Nhân Viên QC",
+      "start_date": "06/2022",
+      "end_date": "04/2024",
+      "description": [
+        "CÁN BỘ QC HIỆN TRƯỜNG:",
+        "- Nghiệm thu vật liệu đầu vào công trình.",
+        "- Nghiệm thu giai đoạn chuyển bước thi công.",
+        "- Thí nghiệm vật liệu tại hiện trường.",
+        "CÁN BỘ QC VĂN PHÒNG:",
+        "- Triển khai hồ sơ nghiệm thu chất lượng vật liệu đầu vào- Hồ sơ chất lượng công trình.",
+        "THƯ KÝ CÔNG TRÌNH:",
+        "- Viết báo cáo chi tiết công tác Tuần- Tháng- Quý- Năm.",
+        "- Viết báo cáo kế hoạch thi công- nghiệm thu hằng ngày.",
+        "- Giao nhận, lưu trữ hồ sơ công trình.",
+        "- Quản lý Nhật Ký Thi Công Công Trình."
+      ]
+    },
+    {
+      "company": "Công Ty Xây Dựng Bắc Việt",
+      "position": "Nhân Viên QC Hiện Trường",
+      "start_date": "01/2021",
+      "end_date": "06/2021",
+      "description": [
+        "- Kiểm soát chất lượng bê tông đầu vào.",
+        "- Kiểm tra thí nghiệm hiện trường.",
+        "- Tham gia hỗ trợ làm hồ sơ thanh toán.",
+        "- In ấn hồ sơ."
+      ]
+    },
+    {
+      "company": "Công Ty Xây Dựng Hồ Bơi MONDIAL PISCINES",
+      "position": "Họa Viên Auto Cad",
+      "start_date": "01/2020",
+      "end_date": "05/2020",
+      "description": [
+        "- Họa Viên, triển khai bản vẽ thi công hồ bơi dân dụng.",
+        "- In ấn bản vẽ.",
+        "- Viết báo cáo thi công hàng ngày."
+      ]
+    },
+    {
+      "company": "Công ty Xây Dựng ACONS",
+      "position": "Thực Tập Sinh",
+      "start_date": "09/2019",
+      "end_date": "12/2019",
+      "description": [
+        "- Họa viên Auto Cad.",
+        "- In ấn hồ sơ bản vẽ.",
+        "- Giao nhận hồ sơ bản vẽ."
+      ]
+    }
+  ],
+  "university": "ĐẠI HỌC KIẾN TRÚC TM",
+  "major": "Xây dựng dân dụng và công nghiệp",
+  "gpa": "Trung bình",
+  "certifications": []
+}

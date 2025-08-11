@@ -1,0 +1,58 @@
+﻿{
+  "full_name": "VÕ HOÀNG THÁI",
+  "applied_position": "WEB DEVELOPER",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Le Minh Xuan Commune, Binh Chanh District, HCM City",
+  "phone": "",
+  "skills": "HTML, CSS, SASS/SCSS, Bootstrap, Material-UI, jQWidgets, DevExtreme, jQuery, Javascript, TypeScript, AngularJs, ReactJs, Redux, Redux-Thunk, C#, NodeJS, SQL Server, MySQL",
+  "experience": [
+    {
+      "company": "Richy",
+      "position": "Web Developer",
+      "start_date": "Jan 2023",
+      "end_date": "Present",
+      "responsibilities": "- Built-in facial recognition function for AI timekeeping.\n- Integrate store recognition function for employees to come to the store to sell with AI, replacing GPS.\n- Integrate product brand recognition function, and count the number of products in images with AI.\n- Develop the function of running automatic image scoring according to promotions.\n- Database design interface and functions development for promotions.\n- Develop reports as required by departments."
+    },
+    {
+      "company": "One Health",
+      "position": "Web Developer",
+      "start_date": "Sep 2021",
+      "end_date": "Jan 2023",
+      "responsibilities": "- Analyze requirements, research, and develop new features.\n- Develop web applications with Javascript, Bootstrap, and jQWidgets.\n- Maintain functions that already exist.\n- Tracking performance, improving connection speed, customizing SQL statements to improve query database performance."
+    },
+    {
+      "company": "Igrows",
+      "position": "Front-End Developer",
+      "start_date": "Sep 2020",
+      "end_date": "Sep 2021",
+      "responsibilities": "- Analyze requirements, research and develop new features.\n- Develop features and fix bugs, resolve impediments.\n- Develop interface web applications with Javascript, ReactJs, Bootstrap, Material UI."
+    },
+    {
+      "company": "Side project",
+      "position": "Booking movie (Developer)",
+      "start_date": "Apr 2020",
+      "end_date": "Sep 2020",
+      "responsibilities": "- Get information movies, schedule movies by theaters, details box office, sign up, login, validation form.\n- Change information profile, change password, get history booking, CRUD movies.\n- Analyze requirements, research and develop new features.\n- Develop features and fix bugs, resolve impediments."
+    },
+    {
+      "company": "Vascara Franchise Group",
+      "position": "Sales manager",
+      "start_date": "Apr 2015",
+      "end_date": "Apr 2020",
+      "responsibilities": "- Evaluate product code samples before ordering promotions, analysis of inventories, operational costs of the store to enter profitable goods.\n- Business monitoring, inventories, program proposals to increase revenue.\n- Contract and finance management with partners.\n- Training store manager to deploy programs, use the software and support sales resolve issues related to stores."
+    },
+    {
+      "company": "Quang Minh Cooperative",
+      "position": "IT helpdesk & Software Developer",
+      "start_date": "Oct 2013",
+      "end_date": "Apr 2015",
+      "responsibilities": "- Create domains, decentralize users, centrally manage server data.\n- Manage equipment, install software for departments.\n- Deploy product management software - Winform Application.\n- Analysis of operational processes: obtaining customer requirements, designing databases.\n- Implement features to create, read, update, delete, search for product information for departments to use."
+    }
+  ],
+  "university": "Open University HCMC, Vietnam",
+  "major": "Bachelor of Computer Science",
+  "gpa": "",
+  "certifications": ""
+}

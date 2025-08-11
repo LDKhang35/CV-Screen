@@ -1,0 +1,69 @@
+﻿{
+  "full_name": "NGUYỄN TUẤN ĐAN",
+  "applied_position": "Thực tập sinh frontend",
+  "gender": "Nam",
+  "dob": "06/03/2004",
+  "email": "dannguyen000ntd@gmail.com",
+  "address": "Quận Phú Nhuận, TP Hồ Chí Minh",
+  "phone": "0933255737",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ReactJS",
+    "Node.js",
+    "Express",
+    "Flask",
+    "PHP (cơ bản)",
+    "MySQL",
+    "MongoDB",
+    "RESTful API",
+    "Postman",
+    "Git",
+    "Docker (cơ bản)",
+    "Agile"
+  ],
+  "experience": [
+    {
+      "project_name": "LẬP TRÌNH ỨNG DỤNG WEB",
+      "duration": "09/2023-12/2023",
+      "description": "Web kinh doanh cà phê.",
+      "role": "Trưởng nhóm (nhóm 3 thành viên)",
+      "technologies": "HTML/CSS, PHP, MySQL",
+      "responsibilities": [
+        "Thiết kế UI, code frontend responsive",
+        "Xây dựng backend xử lý đặt hàng, đăng nhập",
+        "Kết nối MySQL, triển khai local bằng XAMPP"
+      ]
+    },
+    {
+      "project_name": "LẬP TRÌNH PYTHON NÂNG CAO",
+      "duration": "09/2024-12/2024",
+      "description": "Giao diện web kinh doanh đồ uống và thức ăn nhanh + Docker.",
+      "role": "Trưởng nhóm (nhóm 2 thành viên)",
+      "technologies": "Python (Flask), Docker, HTML/CSS",
+      "responsibilities": [
+        "Xây dựng giao diện web bán đồ ăn nhanh theo mô hình MVC",
+        "Tách file, tối ưu code Flask, session/user management",
+        "Viết Docker file + docker-compose.yml"
+      ]
+    },
+    {
+      "project_name": "LẬP TRÌNH WEB NÂNG CAO",
+      "duration": "01/2025-04/2025",
+      "description": "Giao diện web bán điện thoại và đồ tiêu dùng.",
+      "role": "Trưởng nhóm (nhóm 3 thành viên)",
+      "technologies": "Node.js, React, MongoDB, Postman",
+      "responsibilities": [
+        "Thiết kế kiến trúc backend, frontend",
+        "Thiết kế RESTful API",
+        "Xử lý middleware (auth, logging, validate...)",
+        "Test API bằng Postman, fix bug, triển khai local"
+      ]
+    }
+  ],
+  "university": "Đại học Văn Lang",
+  "major": "Công nghệ phần mềm",
+  "gpa": "",
+  "certifications": []
+}

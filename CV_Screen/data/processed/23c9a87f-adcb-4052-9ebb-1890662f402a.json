@@ -1,0 +1,74 @@
+﻿{
+  "full_name": "CAO VIỆT BÁCH",
+  "applied_position": "",
+  "gender": "Nam",
+  "dob": "17 09 1987",
+  "email": "caobach.gmail.com",
+  "address": "69 đồng tâm p4 đà lạt lâm đồng",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh",
+    "Phần mềm",
+    "Quản trị"
+  ],
+  "experience": [
+    {
+      "title": "Tự kinh doanh",
+      "company": "SELF EMPLOYED",
+      "duration": "01 2020 - 10 2023",
+      "description": "Tự kinh doanh"
+    },
+    {
+      "title": "TECHNICAL MANAGER - MARKETING MANAGER",
+      "company": "LYN PROPERTY ( QUỐC CƯỜNG LAND - HCM)",
+      "duration": "01 2019 - 12 2019",
+      "description": "Trưởng Phòng: Công Nghệ Thông Tin - Marketing"
+    },
+    {
+      "title": "TECHNICAL MANAGER & MARKETING MANAGER",
+      "company": "NAMVIETHOMES ( BITEXCO - HCM)",
+      "duration": "04 2017 - 12 2018",
+      "description": "Trưởng Phòng: Công Nghệ Thông Tin – Marketing"
+    },
+    {
+      "title": "DIGITAL TEAM LEADER",
+      "company": "SACOMREAL ( TTC LAND – HCM)",
+      "duration": "10 2016 - 04 2017",
+      "description": "Trưởng Nhóm Digital Marketing"
+    },
+    {
+      "title": "TECHNICAL MANAGER",
+      "company": "CÔNG TY LUẬT LEGAL UNITED LA W",
+      "duration": "05 2015 - 08 2016",
+      "description": "Trưởng Phòng công nghệ thông tin."
+    },
+    {
+      "title": "ASSISTANT OF SALES DIRECTOR",
+      "company": "– CO.",
+      "duration": "01 2014 - 12 2014",
+      "description": "Trợ lý Tổng Giám Đốc Khối Kinh DoanhMANAGER"
+    },
+    {
+      "title": "ASSISTANT DUTIES (TRỢ LÝ/ PHÓ CHỦ NHIỆM)",
+      "company": "GIẢI PHÓNG FILM STUDIO",
+      "duration": "01 2013 - 12 2013",
+      "description": "Các Phim: Phim Truyền hình: Giải Mã Tìnnh Anh, Phim Điện Ảnh: Cát Nóng & một số phim tài liệu khác."
+    },
+    {
+      "title": "LEADER TECHNICAL & TUTORS",
+      "company": "TINH HOA ( EDUCATION)",
+      "duration": "01 2012 - 12 2012",
+      "description": "Leader technical : Phát triển thương hiệu, định hướng cho sản phẩm tiếp cận thị trường, ( sản phẩm giải toán bằng cách chụp ảnh bài toán ) Tutors : Trợ giảng các lớp kỹ năng Công nghệ thông tin ứng dụng dành cho các doanh nghiệp ( tại phân viện 2 trường Đại Học Ngoại thương )"
+    },
+    {
+      "title": "INTERNS/SEASON STAFF/ WEBMASTER & DATAMASTER",
+      "company": "SILKCOAT (GOOGLE PARTNER - SUBSIDIARIES)",
+      "duration": "01 2009 - 12 2011",
+      "description": "2009 INTERNS / Cộng tác viên: WEBMASTER, media & social; 2010 Season Staff: Webmaster, Datamaster, xây dựng và sắp xếp data Google map của 3 khu vực HCM, Vũng Tàu, Phan Thiết; 2011 Team Leader: Hỗ trợ phát triển, vận hành hệ thống tự động hóa, xử lý dữ liệu... Phân lớp bản đồ, tiện ích, hoàn chỉnh Localtion đưa vào sử dụng."
+    }
+  ],
+  "university": "ĐH CNTT",
+  "major": "CÔNG NGHỆ THÔNG TIN",
+  "gpa": "Khá",
+  "certifications": []
+}

@@ -1,0 +1,118 @@
+﻿{
+  "full_name": "Ngô Tuấn Cường",
+  "applied_position": "",
+  "gender": "Nam",
+  "dob": "",
+  "email": "",
+  "address": "125 Đại Linh, Trung Văn, Nam Từ Liêm, Hà Nội",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh",
+    "Word",
+    "Excel",
+    "Powerpoint",
+    "Photoshop",
+    "Lập kế hoạch",
+    "Giao tiếp",
+    "Làm việc nhóm",
+    "Java",
+    ".NET",
+    "PHP",
+    "HTML",
+    "JavaScript",
+    "Php thuần",
+    "Laravel",
+    "Moodle",
+    "CodeIgniter",
+    "Phalcon",
+    "JSP",
+    "Servlet",
+    "Struts 2",
+    "Swing",
+    "Winform",
+    "Webform",
+    "MVC 3",
+    "MVC 4",
+    "MVC 5",
+    "Oracle",
+    "SQL Server",
+    "MySQL",
+    "Windows Server",
+    "Ubuntu",
+    "CentOS",
+    "Apache",
+    "Firewall",
+    "DirectAdmin",
+    "Supervisor",
+    "PM2",
+    "Git client",
+    "Git server",
+    "Redmine",
+    "Trello",
+    "Project Plan",
+    "TCP-Socket",
+    "Thread",
+    "ISO message 8583",
+    "vBulletin",
+    "Xenforo",
+    "FCM API",
+    "Facebook API",
+    "Amazon AWS",
+    "Amazon SES",
+    "SendGrid",
+    "Mailgun",
+    "Elastic",
+    "SparkPost",
+    "SMTP"
+  ],
+  "experience": [
+    {
+      "company_name": "Công Nghệ Thông Tin Đông Nam Á Seatech",
+      "position": "Lập trình viên Java",
+      "duration": "09/2012 - 04/2013",
+      "description": "Lập trình web, lập trình module, phân tích và thiết kế CSDL Oracle. Phát triển ứng dụng NTDT (Nộp thuế điện tử) phục vụ nộp thuế trực tuyến qua cổng thông tin TCT. Sử dụng Oracle Jdeveloper, Oracle SQL, Struts Framework."
+    },
+    {
+      "company_name": "CÔNG TY CỔ PHẦN THANH TOÁN ĐIỆN TỬ VNPTEPAY",
+      "position": "Nhân viên IT",
+      "duration": "04/2013 – 06/2015",
+      "description": "Phát triển hệ thống CRM bằng PHP (CodeIgniter). Phát triển hệ thống Care 365 (Backend: Java, Frontend: .Net) để đồng bộ dữ liệu khách hàng, xử lý điểm thưởng và xây dựng Webservice. Tham gia phát triển ứng dụng POS-SERVER (Backend: Java - TCP-Socket, Thread, ISO message 8583; Frontend: .Net)."
+    },
+    {
+      "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ OTP FLC",
+      "position": "Lập trình viên",
+      "duration": "06/2015 – 10/2015",
+      "description": "Phát triển dịch vụ đầu số 7x47 để nhận tin nhắn, đăng ký và trả tin kết quả xổ số. Xây dựng hệ thống CMS quản trị (MVC4). Ngôn ngữ: .NET, SQL SERVER."
+    },
+    {
+      "company_name": "CÔNG TY CỔ PHẦN ABC-GROUP",
+      "position": "Lập trình viên",
+      "duration": "10/2015 – 8/2016",
+      "description": "Xây dựng hệ thống ERP nội bộ. Xây dựng trang Game online (Laravel 4.2). Phát triển ứng dụng Android Chợ Online (đăng ký, đăng nhập, xem/upload sản phẩm, chat, sms, gọi điện, tra cứu). Dựng Webservice xử lý đầu số 8x33. Xây dựng trang web tin tức. Ngôn ngữ/công nghệ: PHP Laravel, Java, Oracle, MySQL, Centos."
+    },
+    {
+      "company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ DỊCH VỤ GIÁO DỤC HỌC MÃI",
+      "position": "Trưởng Nhóm Lập trình viên",
+      "duration": "8/2016 – 2/2018",
+      "description": "Chuyển đổi diễn đàn từ vBulletin sang Xenforo và phát triển các add-ons (cộng trừ điểm, quản lý tặng quà, quay số trúng thưởng, oauth2 login). Tham gia xây dựng hệ thống CRM cho các khối Tiểu Học, THCS, THPT. Phát triển các module trong hệ thống học mãi (Phòng thi, báo cáo thống kê, trang tài liệu, quản lý học bạ, tool marketing SMS/email). Ngôn ngữ/framework: PHP Moodle, Xenforo, Phalcon."
+    },
+    {
+      "company_name": "CÔNG TY CỔ PHẦN HẢI PHÁT TECH",
+      "position": "Phó phòng phát triển phần mềm",
+      "duration": "3/2018 – hiện tại",
+      "description": "Chịu trách nhiệm phát triển dự án, tổ chức lập kế hoạch, tiếp nhận yêu cầu kinh doanh, nghiên cứu công nghệ mới, đào tạo sử dụng. Các dự án chính: Quản lý học viên (Msql, Laravel, Php), Hệ thống CRM (Laravel, php, mysql, FCM API, Facebook api, Amazon aws), Quản lý tài sản công ty (Laravel, php, mysql), Sàn giao dịch bất động sản, Hệ thống email marketing (Full stack), Hệ thống CRM khách hàng lẻ (Team leader), Hệ thống livestream (Full stack). Ngôn ngữ/công nghệ: Php Laravel, MySQL, Centos, Java."
+    }
+  ],
+  "university": [
+    "ĐH Công Nghiệp Hà Nội",
+    "ĐH Công Nghệ Đông Á"
+  ],
+  "major": [
+    "Lập trình viên",
+    "Công nghệ thông tin"
+  ],
+  "gpa": "",
+  "certifications": [
+    "HDSE"
+  ]
+}

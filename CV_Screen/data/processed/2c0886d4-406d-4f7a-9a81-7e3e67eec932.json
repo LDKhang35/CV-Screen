@@ -1,0 +1,81 @@
+﻿{
+  "full_name": "PHẠM THỊ NGỌC THẢO",
+  "applied_position": "",
+  "gender": "Female",
+  "dob": "",
+  "email": "",
+  "address": "54B Lê Quyên, Phường 4, Quận 8",
+  "phone": "",
+  "skills": [
+    "Nắm bắt số liệu nhanh chóng",
+    "Báo cáo đúng hạn",
+    "Xử lý công việc mang lại kết quả cao",
+    "Xây dựng, đào tạo, bồi dưỡng nhân viên",
+    "Tư duy tích cực",
+    "Năng động",
+    "Có trách nhiệm trong công việc",
+    "Mối quan hệ tốt với các cơ quan hữu quan"
+  ],
+  "experience": [
+    {
+      "company": "CÔNG TY CỔ PHẦN FIT 24",
+      "position": "Kế toán trưởng",
+      "duration": "Tháng 04/2017 đến nay",
+      "responsibilities": [
+        "Tổ chức & xây dựng hệ thống Kế toán gồm nhiều chi nhánh trực thuộc.",
+        "Thiết lập quy trình và mô tả công việc chi tiết vận hành phần mềm CRM.",
+        "Tư vấn tài chính, dự toán ngân sách, dòng tiền.",
+        "Lập Phương án đầu tư, mở rộng chuỗi CLB Fitness & Yoga Thương hiệu Fit 24.",
+        "Tham gia duyệt quyết toán Thuế hàng năm.",
+        "Làm việc với các đơn vị Kiểm toán BCTC toàn hệ thống."
+      ]
+    },
+    {
+      "company": "CÔNG TY TNHH SX TM PHÚC LONG",
+      "position": "Kế toán trưởng",
+      "duration": "Tháng 10/2016 đến Tháng 03/2017",
+      "responsibilities": [
+        "Lập kế hoạch công việc và hàng tuần/ tháng/ quý.",
+        "Check kế hoạch sản xuất tại nhà máy.",
+        "Xây dựng định mức Giá thành sản phẩm mới.",
+        "Lập định mức tồn kho và kiểm kê hàng tuần tại Kho trung tâm và chuỗi hệ thống.",
+        "Lập ngân sách thu/chi và Kiểm tra quy trình thu/chi chặt chẽ.",
+        "Kiểm soát quy trình Mua hàng/ Bán hàng.",
+        "Quản lý hệ thống Báo cáo tài chính và Báo cáo quản trị."
+      ]
+    },
+    {
+      "company": "CÔNG TY TNHH RỒNG PHƯƠNG BẮC",
+      "position": "Kế toán trưởng",
+      "duration": "Tháng 08/2014 đến Tháng 09/2016",
+      "responsibilities": [
+        "Hệ thống lại sổ sách kế toán các năm cũ.",
+        "Xây dựng KPI năng suất và chính sách khen thưởng cho Team.",
+        "Hướng dẫn và đào tạo nhân viên sử dụng thành thạo phần mềm ERP.",
+        "Tư vấn tài chính & Phương án vay vốn ngân hàng.",
+        "Xây dựng định mức Giá thành.",
+        "Quản trị hàng tồn kho hiệu quả.",
+        "Làm việc với Đơn vị Kiểm toán và tham gia quyết toán thuế."
+      ]
+    },
+    {
+      "company": "HAPPY GROUP",
+      "position": "Kế toán Trưởng",
+      "duration": "Tháng 2/2006 đến Tháng 10/2012",
+      "responsibilities": []
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN XÂY DỰNG HUY THẮNG",
+      "position": "Kế toán Trưởng",
+      "duration": "Tháng 4/2000 đến Tháng 2/2005",
+      "responsibilities": []
+    }
+  ],
+  "university": "Đại học Kinh tế",
+  "major": "Kế toán",
+  "gpa": "",
+  "certifications": [
+    "Chứng chỉ Kế toán Trưởng Bộ Tài chính cấp năm 2006",
+    "Chứng chỉ bồi dưỡng Kế toán Trưởng do Đại Học Kinh tế cấp năm 2000"
+  ]
+}

@@ -1,0 +1,58 @@
+﻿{
+  "full_name": "TRƯƠNG VĂN MINH",
+  "applied_position": "Production Staff ( Văn phòng sản xuất )",
+  "gender": "Nam",
+  "dob": "29/03/1997",
+  "email": "",
+  "address": "Thiệu Vân , TP Thanh Hóa , Tỉnh Thanh Hóa",
+  "phone": "",
+  "skills": [
+    "Kĩ năng Tin học văn phòng thành thạo: Excel, Word, Power point...",
+    "Ngôn ngữ: Tiếng anh giao tiếp",
+    "Khả năng Team work tốt, chịu được áp lực cao trong công việc",
+    "Ham học hỏi, thái độ tích cực trong công việc, trung thực trách nhiệm cao",
+    "Kĩ năng Thuyết trình và đào tạo cán bộ công nhân viên tốt"
+  ],
+  "experience": [
+    {
+      "position": "HSSE SUPERVISOR - GIÁM SÁT AN TOÀN",
+      "company": "CTY GIA QUẢNG PHÁT - LỌC HÓA DẦU NGHI SƠN THANH HÓA",
+      "duration": "04/2019-09/2019",
+      "responsibilities": [
+        "Phát triển và triển khai chính sách an toàn, sức khỏe và môi trường trong tổ chức.",
+        "Thực hiện một loạt các hoạt động như phân tích rủi ro, đánh giá nguy cơ, kiểm tra an toàn và báo cáo xây dựng hệ thống quản lý an toàn.",
+        "Đào tạo, hướng dẫn và nâng cao nhận thức của cán bộ, nhân viên trong các lĩnh vực an toàn, sức khỏe và môi trường.",
+        "Đảm bảo tuân thủ các qui định và các chương trình bảo vệ môi trường.",
+        "Giải quyết các vấn đề an toàn, sức khỏe và môi trường trong quá trình làm việc."
+      ]
+    },
+    {
+      "position": "NHÂN VIÊN BẢO TRÌ VÀ KĨ THUẬT NHÀ MÁY",
+      "company": "CTY WOOSINVINA KOREA - SẢN XUẤT CÁP ĐIỆN Ô TÔ",
+      "duration": "03/2020-04/2021",
+      "responsibilities": [
+        "Thiết kế, Thi công các bảng mạch lắp ráp dây điện ô tô theo yêu cầu của bộ phận Sản xuất, QA.",
+        "Bảo trì bảng mạch lắp ráp theo định kì, xử lí dây chuyền vận hành khi phát sinh vấn đề.",
+        "Thuyết trình, đào tạo cho cán bộ công nhân viên về các hoạt động trong nhà máy, các nội dung tiêu chuẩn làm việc trong quá trình sản xuất, các nội dung liên quan tới An toàn lao động."
+      ]
+    },
+    {
+      "position": "NHÂN VIÊN SẢN XUẤT",
+      "company": "Công ty KOLON KOREA ( May túi khí ô tô )",
+      "duration": "05/2021-06/2024",
+      "responsibilities": [
+        "Tiếp nhận đơn hàng từ khách hàng, kiểm tra và trao đổi hỗ trợ khách hàng đặt đơn hàng.",
+        "Theo dõi nguyên vật liệu để tạo kế hoạch sản xuất cho nhà máy.",
+        "Làm việc với các bộ phận kỹ thuật, R&D, QA để đảm bảo đơn hàng được sản xuất và xuất khẩu như khách hàng yêu cầu.",
+        "Lập kế hoạch sản xuất cho nhà máy dựa vào yêu cầu đơn đặt hàng của khách hàng.",
+        "Quản lý Hệ thống, chương trình sản xuất của nhà máy (Production system; Warehouse management System).",
+        "Control & giám sát, cải tiến các hoạt động sản xuất trong nhà máy (Liên quan tới Chất lượng, Vận hảnh, loại bỏ lãng phí Muda...).",
+        "Phụ trách thuyết trình, đào tạo các nội dung theo yêu cầu của cấp trên: 5S, KAIZEN, ATLD cho cán bộ công nhân viên, công nhân mới trong nhà máy."
+      ]
+    }
+  ],
+  "university": "Đại Học Kinh tế kĩ thuật công nghiệp Hà Nội",
+  "major": "KĨ SƯ ĐIỆN - TỰ ĐỘNG HÓA",
+  "gpa": "",
+  "certifications": ""
+}

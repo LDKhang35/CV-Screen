@@ -1,0 +1,47 @@
+﻿{
+  "full_name": "PHẠM QUỐC TOÀN",
+  "applied_position": "Digital Marketer",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "30 Bế Văn Đàn, phường An Bình, Tp. Dĩ An, Bình Dương",
+  "phone": "",
+  "skills": [
+    "Kiến thức AI (Ứng dụng AI vào digital marketing, tạo nội dung)",
+    "Kiến thức Marketing (Digital marketing, Blogging, SEO, PPC, Google Ads)",
+    "Công cụ Digital Marketing (Canva, Semrush, Screaming Frog SEO)",
+    "Kiến thức Website (Xây dựng, phát triển website bằng WordPress)",
+    "Kỹ năng Phân tích (dữ liệu và xu hướng thị trường)",
+    "Kỹ năng Sáng tạo (tạo nội dung website, social media)",
+    "Kỹ năng Giao tiếp",
+    "Kỹ năng viết lách",
+    "Làm việc nhóm",
+    "Tiếng Anh giao tiếp"
+  ],
+  "experience": [
+    {
+      "title": "Digital Marketer",
+      "period": "2020 - Hiện tại",
+      "description": "Nghiên cứu và tối ưu hóa website. Sáng tạo, quản lý nội dung website. Tạo nội dung mạng xã hội."
+    },
+    {
+      "title": "WordPress Freelancer",
+      "period": "2018 - 2020",
+      "description": "Tư vấn, đàm phán và ký kết hợp đồng làm website với khách hàng. Thiết kế, xây dựng trang website dùng mã nguồn WordPress. Hỗ trợ khách hàng sử dụng, và phát triển trang website giúp khách hàng mang lại lợi nhuận."
+    },
+    {
+      "title": "WordPress Developer",
+      "period": "2016 - 2018",
+      "description": "Xây dựng trang website dùng mã nguồn WordPress. Hỗ trợ khách hàng sử dụng, và phát triển trang website."
+    },
+    {
+      "title": "Chuyên viên hành chính văn phòng",
+      "period": "2013 - 2016",
+      "description": "Soạn thảo văn bản cho lãnh đạo công ty. Hỗ trợ công tác hành chính, Quản lý hồ sơ và tài liệu."
+    }
+  ],
+  "university": "Đại học Bách khoa Hà Nội",
+  "major": "Kỹ sư Công nghệ Hóa học/ Hóa dầu",
+  "gpa": "",
+  "certifications": ""
+}

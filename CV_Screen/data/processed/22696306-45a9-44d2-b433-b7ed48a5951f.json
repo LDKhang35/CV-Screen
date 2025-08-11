@@ -1,0 +1,45 @@
+﻿{
+  "full_name": "Nguyễn Thị Xuân Vi",
+  "applied_position": "",
+  "gender": "Nữ",
+  "dob": "25/10/1982",
+  "email": "",
+  "address": "808/9 Cách Mạng Tháng 8 Phường 5 Quận Tân Bình Thành Phố Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Lãnh đạo",
+    "Làm việc nhóm",
+    "Đàm phán, giải quyết vấn đề",
+    "Làm việc dưới áp lực cao",
+    "Khả năng giao tiếp và thuyết phục tốt"
+  ],
+  "experience": [
+    {
+      "duration": "04/2013 - hiện tại",
+      "company": "CÔNG TY TNHH CÔNG NGHỆ THỰC PHẨM MIKO",
+      "position": "Quản Lý Bán Hàng Kênh Siêu Thị Toàn Quốc"
+    },
+    {
+      "duration": "09/2009 - 03/2013",
+      "company": "CÔNG TY TNHH THỰC PHẨM TRUNG MINH THÀNH",
+      "position": "MT Sales Supervisor"
+    },
+    {
+      "duration": "06/2006 - 08/2009",
+      "company": "CÔNG TY TNHH THỰC PHẨM TRUNG MINH THÀNH",
+      "position": "MT Sales"
+    },
+    {
+      "duration": "06/2002 - 04/2005",
+      "company": "CÔNG TY TNHH TRUNG MINH THÀNH",
+      "position": "MT PG"
+    }
+  ],
+  "university": "Đại Học",
+  "major": "",
+  "gpa": "",
+  "certifications": [
+    "Anh văn giao tiếp",
+    "Vi tính văn phòng"
+  ]
+}

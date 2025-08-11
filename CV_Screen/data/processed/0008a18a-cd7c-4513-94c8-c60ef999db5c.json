@@ -1,0 +1,80 @@
+﻿{
+  "full_name": "Nguyen Dang Binh",
+  "applied_position": "AI/Computer Vision Engineer",
+  "gender": "",
+  "dob": "Jan 8th 1986",
+  "email": "",
+  "address": "Bac Ninh City",
+  "phone": "",
+  "skills": [
+    "Python",
+    "C#",
+    "OpenCV",
+    "Tkinter",
+    "PyQT",
+    "WPF",
+    "C++",
+    "GUI",
+    "Tensorflow",
+    "Pytorch",
+    "protocol"
+  ],
+  "experience": [
+    {
+      "title": "Vision Software Senior",
+      "company": "Luster LightTech",
+      "duration": "Aug 2023 – Now",
+      "responsibilities": [
+        "Develop the low-code software from internal platforms for vision projects.",
+        "Debug the software at AOI machine at Luxshare-ICT, Goerteck factory."
+      ]
+    },
+    {
+      "title": "Software Engineer Senior Leader",
+      "company": "Electronic ACE Antenna Company",
+      "duration": "Mar 2020 – May 2023",
+      "responsibilities": [
+        "Measurement and detection defect software project: Develop the vision-based software to automatically detect the faulty region and measure eccentricity and distance of mechanical components using deep learning architecture such as Medical Image Segmentation, Vision Transformer, segmentation, detection, and classification.",
+        "Measurement of the depth software project: Develop sensor-based software to automatically measure the depth of ceramics.",
+        "Pick and Place software project: Develop a flexible vision-guided alignment solution to quickly and precisely locate and align patterns.",
+        "Inspection software project: Develop the visual inspection software for checking electronic and mechanical components, optical character recognition, and barcodes.",
+        "Monitor the stage project: Analysis of the time series data from driver servo like force, current, and velocity to detect the abnormality.",
+        "Design the hardware architecture of Lenses, Light, and Cameras and lead the concept of smart automation machines. Program the communication between the PC, embedded device, and PLC, Robot, Understand the electronic components, industrial automation.",
+        "Debug program for AOI function in SMT Machines."
+      ]
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Electronic Vinsmart Company",
+      "duration": "July 2019 – Mar 2020",
+      "responsibilities": [
+        "Research Smart City with recognition projects with Camera PTZ, Harassment, and Violence Recognition."
+      ]
+    },
+    {
+      "title": "Automation Engineer",
+      "company": "Electronic Z755 Company",
+      "duration": "Oct 2010 – Oct 2017",
+      "responsibilities": [
+        "Design hardware and Program software on microcontroller AVR, ARM, and develop automation software using PLC, HMI, and Servo."
+      ]
+    }
+  ],
+  "university": [
+    "Vietnamese-German University",
+    "Chung Chen National University",
+    "Vietnam National University HCMC",
+    "Hanoi University of Science and Technology"
+  ],
+  "major": [
+    "Mechatronic and Sensor System Technology",
+    "MBA",
+    "Automation and Control"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Machine Learning by Stanford University Andrew Ng 2018",
+    "Deep Learning Specialization by Andrew Ng 2019",
+    "Machine learning/ MLOps online course 2022"
+  ]
+}

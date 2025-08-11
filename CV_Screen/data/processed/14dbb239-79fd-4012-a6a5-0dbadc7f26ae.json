@@ -1,0 +1,15 @@
+﻿{
+  "full_name": "NGUYỄN VĂN AN",
+  "applied_position": "Lập trình viên AI",
+  "gender": "",
+  "dob": "01/01/1995",
+  "email": "an.nguyenvan@example.com",
+  "address": "123 Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0912345678",
+  "skills": "Python, Java, C++, TensorFlow, PyTorch, Scikit-learn, MySQL, MongoDB, Git, Docker, Tiếng Anh (IELTS 7.0)",
+  "experience": "Thực tập sinh AI Developer - Công ty ABC (06/2022 - 12/2022): Phát triển mô hình nhận diện hình ảnh, tham gia tối ưu hóa thuật toán học máy. Lập trình viên Backend - Công ty XYZ (01/2020 - 05/2022): Xây dựng và duy trì API, tích hợp các hệ thống.",
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Khoa học Máy tính",
+  "gpa": "3.5/4.0",
+  "certifications": "AWS Certified Machine Learning – Specialty (2023), Azure AI Engineer Associate (2022)"
+}

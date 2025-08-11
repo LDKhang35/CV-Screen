@@ -1,0 +1,56 @@
+﻿{
+  "full_name": "HOÀNG THỊ NHINH",
+  "applied_position": "",
+  "gender": "",
+  "dob": "17/10/2001",
+  "email": "",
+  "address": "Ba Vì-Hà Nội",
+  "phone": "",
+  "skills": [
+    "Chuyên viên mảng dịch vụ du lịch",
+    "Hướng dẫn viên du lịch",
+    "Sale tour du lịch",
+    "Nhân viên tổ chức sự kiện",
+    "Lễ tân & Chăm sóc khách hàng",
+    "Kỹ năng giao tiếp và xây dựng mối quan hệ giỏi",
+    "Khả năng làm việc theo nhóm hoặc độc lập",
+    "Khả năng theo sát hướng dẫn và đạt kết quả chất lượng",
+    "Kỹ năng tin học văn phòng",
+    "Kỹ năng sơ cấp cứu",
+    "Kỹ năng thuyết phục",
+    "Kỹ năng làm việc nhóm",
+    "Kỹ năng lead team",
+    "Thiết kế đồ họa"
+  ],
+  "experience": [
+    {
+      "position": "Nhân viên Kinh doanh Tư vấn",
+      "company": "TRUNG TÂM ANH NGỮ QUỐC TẾ ALASKA (CHI NHÁNH BA VÌ)",
+      "duration": ""
+    },
+    {
+      "position": "Nhân viên Lễ tân",
+      "company": "CÔNG TY CỔ PHẦN ĐẦU TƯ BĐS XUÂN MAI",
+      "duration": "Tháng 2/2023 đến Tháng 7/2023"
+    },
+    {
+      "position": "Nhân viên kinh doanh Du Lịch",
+      "company": "CÔNG TY DU LỊCH CẢM XÚC VIỆT",
+      "duration": ""
+    },
+    {
+      "position": "Thực tập sinh Điều hành du lịch",
+      "company": "CÔNG TY CỔ PHẦN GIÁO DỤC & TRUYỀN THÔNG WONDER",
+      "duration": "Tháng 1 đến Tháng 5/2020"
+    },
+    {
+      "position": "Nhân viên phục vụ",
+      "company": "Nhà hàng LAHATA",
+      "duration": ""
+    }
+  ],
+  "university": "Đại học Công nghiệp Hà Nội",
+  "major": "Cử nhân Du Lịch, Chuyên ngành Du Lịch",
+  "gpa": "",
+  "certifications": ""
+}

@@ -1,0 +1,48 @@
+﻿{
+  "full_name": "TRẦN ĐỨC VIỆT",
+  "applied_position": "Developer",
+  "gender": "",
+  "dob": "15/12/1996",
+  "email": "",
+  "address": "Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    ".NET C#",
+    "MVC",
+    "WPF",
+    "SQL",
+    "My SQL",
+    "API",
+    "Xamarin Form (Android, IOS)",
+    "Vietnamese (Native)",
+    "English",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Powerpoint"
+  ],
+  "experience": [
+    {
+      "duration": "2017 - NOW",
+      "company": "Company TNHH SG SAGAWA VIET NAM",
+      "position": "Software Manager",
+      "projects": [
+        "Home website SAGAWA (MVC)",
+        "Evaluation system (MVC)",
+        "Test online system (MVC)",
+        "Salary view system (MVC, Mobile Xamarin form IOS, ANDROID)",
+        "Annual leave system (MVC)",
+        "Human resource system: Staff profile, Finger Print, salary, Contract (c#, WPF, DEVEXPRESS)",
+        "Ware house system and customs declaration auto (MVC, winform)",
+        "CFS, bonded warehouse system (MVC)",
+        "Asset management system (MVC)",
+        "Domestic delivery system (Operation Management - Winform DEVEXPESS, mobile; Management system - Winform DEVEXPESS; Booking Online - MVC DEVEXPESS; API with ESMS, VIETCOMBANK, Microad)"
+      ]
+    }
+  ],
+  "university": "Đại Học Khoa Học Tự Nhiên",
+  "major": "Information Technology",
+  "gpa": "",
+  "certifications": [
+    "2018: Excellent staff"
+  ]
+}

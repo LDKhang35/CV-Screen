@@ -1,0 +1,85 @@
+﻿{
+  "full_name": "Tran Anh Tuan",
+  "applied_position": "",
+  "gender": "",
+  "dob": "17-08-1991",
+  "email": "",
+  "address": "66/16 Phan Sao Nam Street, Ward 11, Tan Binh District",
+  "phone": "",
+  "skills": [
+    "PHP",
+    "Wordpress",
+    "Laravel",
+    "Odoo",
+    "Prism",
+    "HTML",
+    "CSS",
+    "Github",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft Power Point",
+    "Basic communication English",
+    "Leadership",
+    "Able to work under pressure",
+    "Creative thinking",
+    "Negotiation",
+    "Teamwork",
+    "Personal career development",
+    "Effective work organization"
+  ],
+  "experience": [
+    {
+      "title": "Senior Team Lead",
+      "company": "Floating Cube Studios",
+      "duration": "August 2022 - Present",
+      "responsibilities": [
+        "Build a WordPress team",
+        "Recruiting developers",
+        "Plan your way",
+        "Develop a to-do process",
+        "Project management",
+        "Review code from the developer",
+        "Website and Systems programming in pure PHP, WordPress, Laravel, Odoo, Shopify",
+        "Create a new plugin",
+        "Setup Github, Gitlab, Server, Hosting, Domain",
+        "Cut CSS, JS, HTML, and responsive standards from PSD or Figma files"
+      ]
+    },
+    {
+      "title": "Web and System Developer",
+      "company": "QLM Group",
+      "duration": "July 2018 - August 2022",
+      "responsibilities": [
+        "Website and Systems programming in pure PHP, Wordpress, Odoo, Laravel, C#, Github",
+        "Cut css, js, html, reponsive standards from psd files",
+        "Other work required by the supervisor"
+      ]
+    },
+    {
+      "title": "Web design staff",
+      "company": "Netviet Technology Co., Ltd",
+      "duration": "July 2016 - July 2018",
+      "responsibilities": [
+        "Web programming in pure PHP, Wordpress",
+        "Cut css, html, reponsive standards from psd files",
+        "Other work required by the supervisor"
+      ]
+    },
+    {
+      "title": "Programmers",
+      "company": "FPT Information System",
+      "duration": "May 2014 - July 2016",
+      "responsibilities": [
+        "Meet customers to introduce the product",
+        "Design of the test machine system according to the prototype",
+        "Work in provinces across the country"
+      ]
+    }
+  ],
+  "university": "FPT University",
+  "major": "",
+  "gpa": "",
+  "certifications": [
+    "Communication Skills (2011)"
+  ]
+}

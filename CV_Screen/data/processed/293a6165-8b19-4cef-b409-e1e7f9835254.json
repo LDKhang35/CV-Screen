@@ -1,0 +1,63 @@
+﻿{
+  "full_name": "Trần Đức Duy",
+  "applied_position": "Nhân viên kinh doanh",
+  "gender": "Nam",
+  "dob": "24-11-1993",
+  "email": "",
+  "address": "226 Xã Bình Nam, Huyện Thăng Bình, Tỉnh Quảng Nam",
+  "phone": "0905951",
+  "skills": [
+    "Kỹ năng đàm phán, thương lượng",
+    "Kỹ năng lập kế hoạch và quản lý thời gian",
+    "Kỹ năng tự động hóa công việc để tối ưu hóa năng suất và hiệu quả",
+    "Kỹ năng sử dụng các công cụ Microsoft Office",
+    "Tiếng Anh trung bình"
+  ],
+  "experience": [
+    {
+      "title": "Chuyên viên tư vấn mua bán bất động sản / Nhân viên kinh doanh",
+      "company": "Công ty cổ phần địa ốc FIRST REAL",
+      "duration": "07-2016 - 03-2020 (overlapping with next role)",
+      "description": [
+        "Tìm kiếm, thu hút và duy trì khách hàng để đạt được mục tiêu doanh số và lợi nhuận của công ty.",
+        "Tạo và duy trì mối quan hệ tốt với các khách hàng hiện có bằng cách cung cấp dịch vụ chăm sóc khách hàng tốt nhất có thể.",
+        "Đàm phán và ký kết các hợp đồng bán hàng, cam kết với khách hàng về chất lượng sản phẩm và dịch vụ.",
+        "Xây dựng và phát triển mối quan hệ với các đối tác, nhà cung cấp và đối tác kinh doanh khác."
+      ]
+    },
+    {
+      "title": "Nhân viên kinh doanh",
+      "company": "Công ty bất động sản DANH KHÔI",
+      "duration": "2019-2020",
+      "description": [
+        "Hỗ trợ các hoạt động kinh doanh của công ty.",
+        "Phân tích thị trường và đề xuất các chiến lược kinh doanh phù hợp.",
+        "Hỗ trợ đàm phán và ký kết các hợp đồng bán hàng."
+      ]
+    },
+    {
+      "title": "Kỹ sư xây dựng / Quản lý thi công xây dựng",
+      "company": "CÔNG TY TNHH XD CÔNG NÔNG NGHIỆP THADICONS (TẬP ĐOÀN THACO)",
+      "duration": "07-2019 - 02-2023",
+      "description": [
+        "Dự án: khu phức hợp 2A – 250 căn Villa III quận",
+        "Dự án: nông nghiệp trại heo CNC 1,2,3 An Giang",
+        "Tham gia lập và theo dõi, giám sát tiến độ thực hiện dự án/gói thầu.",
+        "Tiếp nhận và quản lý các mốc cao độ tọa độ.",
+        "Thực hiện công tác đo đạc, trắc đạc tại công trường.",
+        "Triển khai thi công tại hiện trường.",
+        "Phối hợp với các bên BQLDA và nhà thầu cho công tác nghiệm thu, bàn giao.",
+        "Theo dõi thực hiện hợp đồng của các nhà thầu.",
+        "Giám sát công tác hoàn thiện, lắp đặt thiết bị tại dự án.",
+        "Giám sát thi công phần thô & hoàn thiện.",
+        "Kiểm tra duyệt phương án biện pháp thi công dự án.",
+        "Kiểm tra tiến độ, chất lượng, an toàn lao động trong quá trình thi công của các nhà thầu chính tại dự án.",
+        "Báo cáo công việc tuần, tháng, quý thực hiện của các nhà thầu trên công trường cho Trưởng Ban và Ban Tổng Giám Đốc công ty."
+      ]
+    }
+  ],
+  "university": "Trường Cao đẳng Giao thông vận tải 2",
+  "major": "Xây dựng dân dụng",
+  "gpa": "Khá",
+  "certifications": []
+}

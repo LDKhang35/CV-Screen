@@ -1,0 +1,15 @@
+﻿{
+  "full_name": "Nguyen Ngoc Dang",
+  "applied_position": "",
+  "gender": "Male",
+  "dob": "17/02/1983",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": "Operating Systems: Windows, Centos Linux. Programming Languages: PHP (osCommerce, Joomla, Symfony, PEAR, Phalcon, Slim, Laravel), JavaScript (jQuery, Prototype, NodeJs, Ext), HTML/DHTML/CSS, C#, Linux Bash Shell. IDEs/Tools: Editplus, PhpStorm, Zend Studio, Eclipse PDT, Visual Studio .Net, Visual Basic 6.0, Visual C++ 6.0, Dreamweaver, Microsoft Visio. Databases: MySQL, Microsoft SQL Server, MongoDB, MariaDB. Application Servers: Apache, Nginx, MS IIS, ActiveMQ. Version Control: Git, Subversion. Technologies mentioned in projects: Redis, Laravel, jQuery, PWA (Progressive Web Apps), Firebase Messaging, Web Service, Restful, Slim Framework, Ajax, Mootools, JSON, Joomla CMS.",
+  "experience": "Over 17 years of experience in IT, starting as a PHP Developer and progressing to Technical Manager roles. Employment history includes: BigWall (2006-2007), PHP Developer at SIC Joint Stock Company (2007-2011), Technical Manager at Minh Châu Corp (2011-2015), Technical Manager at SUN VN MEDIA TRADING AND SERVICE JOINT STOCK COMPANY (2015-2017), Technical Manager at VNS Joint Stock Company (2017-2020), and currently Technical Manager at MOBI-GAME TECHNOLOGY JOINT STOCK COMPANY (2020-Present). Extensive project experience includes developing centralized sales management systems, credit data processing, online game platforms, game portals, electronic contact books, mobile health applications (MeBe), and payment systems. Often involved in leadership, server setup, API development, database design, and working with teams of developers and designers.",
+  "university": "Hanoi University of Science and Technology",
+  "major": "Information Technology",
+  "gpa": "Good",
+  "certifications": ""
+}

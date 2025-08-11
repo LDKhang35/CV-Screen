@@ -1,0 +1,65 @@
+﻿{
+  "full_name": "HUỲNH BÍCH QUÂN",
+  "applied_position": "Kế Toán Trưởng",
+  "gender": "",
+  "dob": "09/06/1979",
+  "email": "huynhbichquagmail.com",
+  "address": "183 Tăng Bạt Hỗ, Yên Đỗ, Pleiku",
+  "phone": "",
+  "skills": [
+    "Tin học văn phòng",
+    "Tiếng Anh",
+    "Nhanh nắm bắt và hoà nhập với công việc",
+    "Tổ chức, quản lý và điều hành hoạt động kế toán",
+    "Quản trị sản xuất kinh doanh",
+    "Quản trị hoạt động sản xuất - kinh doanh",
+    "Thiết lập và quản lý chính sách Tài chính Kế toán",
+    "Thiết lập và duy trì mối quan hệ với các cơ quan ban ngành, đối tác",
+    "Kiểm kê, đánh giá tài sản (TSCĐ, CCDC, tiền mặt, thành phẩm, hàng hóa)",
+    "Quản trị nhân sự Kế toán (tuyển dụng, đào tạo, phát triển)"
+  ],
+  "experience": [
+    {
+      "company": "Công ty TNHH MTV Đức Đạt Thành GL",
+      "position": "Kế toán trưởng",
+      "duration": "07/2022 - 07/2024",
+      "description": [
+        "Tham gia vào việc phát triển chính sách của công ty.",
+        "Thiết lập các chính sách và quy trình của phòng ban chức năng để giảm thiểu các sai sót và nâng cao hiệu quả quản lý.",
+        "Đảm bảo việc theo dõi, quản lý số liệu doanh số một cách chính xác/ kịp thời.",
+        "Chịu trách nhiệm về việc lập, hoàn thiện các báo cáo nộp cơ quan quản lý Nhà nước theo qui định.",
+        "Kiểm tra, phê duyệt các khoản thanh toán đã được BGĐ phê duyệt.",
+        "Quản lý các khoản phải thu và cung cấp hỗ trợ cho hoạt động thu tiền.",
+        "Lập kế hoạch và cân đối dòng tiền; đảm bảo đáp ứng tốt nhu cầu của công ty.",
+        "Làm việc với Cơ quan thuế, Ngân hàng ..."
+      ]
+    },
+    {
+      "company": "Công Ty Cổ Phần Golden Asia Food (Cùng Hệ Thông Công Ty Dhk)",
+      "position": "Kế Toán Trưởng",
+      "duration": "01/2019 - 11/2019",
+      "description": [
+        "Tham gia vào việc phát triển chính sách của công ty.",
+        "Thiết lập các chính sách và quy trình của phòng ban chức năng để giảm thiểu các sai sót và nâng cao hiệu quả quản lý.",
+        "Đảm bảo việc theo dõi, quản lý số liệu doanh số một cách chính xác/ kịp thời.",
+        "Chịu trách nhiệm về việc lập, hoàn thiện các báo cáo nộp cơ quan quản lý Nhà nước theo qui định.",
+        "Kiểm tra, phê duyệt các khoản thanh toán đã được BGĐ phê duyệt.",
+        "Quản lý các khoản phải thu và cung cấp hỗ trợ cho hoạt động thu tiền.",
+        "Lập kế hoạch và cân đối dòng tiền; đảm bảo đáp ứng tốt nhu cầu của công ty.",
+        "Làm việc với Cơ quan thuế, Ngân hàng ..."
+      ]
+    },
+    {
+      "company": "Công Ty TNHH SX TM DV Đại Hàn Kim",
+      "position": "Kế Toán Trưởng",
+      "duration": "09/2016 - 12/2018",
+      "description": []
+    }
+  ],
+  "university": "TRƯỜNG KỸ THUẬT KINH TẾ TM",
+  "major": "Kế Toán Hạch Toán Sản Xuất",
+  "gpa": "Khá",
+  "certifications": [
+    "Chứng chỉ kế toán trưởng (Trường Đại Học Kinh Tế - Tp Hồ Chí Minh)"
+  ]
+}

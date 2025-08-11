@@ -1,0 +1,65 @@
+﻿{
+  "full_name": "LƯƠNGTỰ DO",
+  "applied_position": "NHÂN VIÊN TRIỂN KHAI PHẦN MỀM",
+  "gender": "Nam",
+  "dob": "03/12/1990",
+  "email": "",
+  "address": "Kha Vạn Cân, Phường Hiệp Bình Chánh, Thủ Đức, Thành phố Thủ Đức, Hồ Chí Minh, Việt Nam",
+  "phone": "+84-985164166",
+  "skills": [
+    "Làm việc độc lập",
+    "Phối hợp làm việc nhóm",
+    "IT Helpdesk",
+    "IT Phần Mềm",
+    "Tin Học Văn Phòng",
+    "Kế Toán Nội Bộ",
+    "Tiếng Anh"
+  ],
+  "experience": [
+    {
+      "position": "Nhân viên IT",
+      "company": "Điện tử máy tính",
+      "duration": "08/2012-08/2014 (2 năm)",
+      "description": [
+        "Cấu hình hệ thống.",
+        "Hỗ trợ cài đặt, cấu hình, bảo trì cơ sở hạ tầng CNTT.",
+        "Lắp ráp, cài đặt sửa chữa máy tính.",
+        "Sửa chữa, bảo trì, bơm mực máy in, máy photocopy.",
+        "Sửa chữa thiết bị văn phòng.",
+        "Báo cáo công việc."
+      ]
+    },
+    {
+      "position": "Triển khai phần mềm kế toán",
+      "company": "Tin Học ứng dụng",
+      "duration": "01/2018-03/2024 (6 năm 2 tháng)",
+      "description": [
+        "Cài đặt, hướng dẫn khách hàng sử dụng phần mềm kế toán",
+        "Hỗ trợ kiểm tra và giải đáp các thắc mắc của khách hàng khi sử dụng phần mềm",
+        "Cài đặt và cấp lại bản quyền phần mềm trong trường hợp khách hàng cài lại máy tính hoặc thay đổi máy tính",
+        "Kiểm tra số liệu, hỗ trợ số liệu cho khách hàng khi có yêu cầu",
+        "Tư vấn nghiệp vụ phát sinh và cách thức hạch toán trên phần mềm",
+        "Thông báo và cập nhật phiên bản mới khi có yêu cầu hoặc có sự thay đổi của cơ quan thuế",
+        "Nhắc nhỡ và hỗ trợ khách hàng sao lưu dữ liệu định kỳ",
+        "Chỉnh sửa báo cáo, các mẫu in, khắc phục lỗi phần mềm (nếu có)",
+        "Hỗ trợ khách hàng hoá đơn điện tử, hợp đồng điện tử, chứng từ khấu trừ thuế, chữ ký số.."
+      ]
+    }
+  ],
+  "university": [
+    {
+      "name": "Trường Đại học Công nghiệp TP. HCM",
+      "degree": "Cao đẳng",
+      "major": "Điện tử máy tính",
+      "duration": "09/2008 -07/2011 (2 năm 10 tháng)"
+    },
+    {
+      "name": "Trường Đại học Công nghiệp TP. HCM",
+      "degree": "Cử nhân",
+      "major": "Điện tử viễn thông",
+      "duration": "01/2019 -07/2022 (3 năm 6 tháng)"
+    }
+  ],
+  "gpa": "",
+  "certifications": []
+}

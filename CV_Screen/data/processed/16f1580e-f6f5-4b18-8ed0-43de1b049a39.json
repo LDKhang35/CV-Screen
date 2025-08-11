@@ -1,0 +1,78 @@
+﻿{
+  "full_name": "NGUYỄN TRƯỜNG VŨ",
+  "applied_position": "NHÂN VIÊN KINH DOANH",
+  "gender": "Nam",
+  "dob": "16/08/1997",
+  "email": "",
+  "address": "96/26A/8 Lê Văn Chí, Linh Trung, Thủ Đức",
+  "phone": "",
+  "skills": [
+    "Quản lý thời gian",
+    "Microsoft Office",
+    "Teamwork",
+    "Lắng nghe",
+    "Giao tiếp"
+  ],
+  "experience": [
+    {
+      "title": "SALES ADMIN",
+      "company": "CÔNG TY TNHH NÔNG SẢN HỒNG NGUYÊN",
+      "duration": "06/2024-09/2024",
+      "description": [
+        "Điều phối phương tiện xe và sà lan để giao hàng đúng tiến độ cho khách hàng.",
+        "Xuất, nhập đơn hàng và xử lý các vấn đề phát sinh liên quan đến giao nhận hàng.",
+        "Soạn thảo, cập nhật, chỉnh sửa và quản lý các tài liệu về hoạt động kinh doanh.",
+        "Chuẩn bị hồ sơ chứng từ hải quan để nhập khẩu nguyên liệu thức ăn chăn nuôi.",
+        "Nhận và giải quyết phản hồi của khách hàng nếu có vấn đề phát sinh liên quan đến hoạt động kinh doanh.",
+        "Tư vấn kinh doanh sản phẩm, thuyết phục khách hàng mua sản phẩm, ký hợp đồng, hoàn tất đăng ký thủ tục, nhận tiền thanh toán.",
+        "Duy trì mối quan hệ với khách hàng và thu hồi công nợ.",
+        "Lập báo cáo tình tình và kế hoạch giao nhận cho cấp trên."
+      ]
+    },
+    {
+      "title": "TRỢ LÝ KINH DOANH",
+      "company": "Công ty Cổ Phần ECO-VIỆT",
+      "duration": "11/2021-05/2024",
+      "description": [
+        "Hỗ trợ kinh doanh nguyên liệu sản xuất thuốc thú y, chăn nuôi, dung môi, hóa chất cho các nhà máy.",
+        "Xuất, nhập đơn hàng và xử lý các vấn đề phát sinh liên quan đến giao nhận hàng.",
+        "Soạn thảo, cập nhật, chỉnh sửa và quản lý các tài liệu về hoạt động kinh doanh.",
+        "Nhận và giải quyết phản hồi của khách hàng nếu có vấn đề phát sinh liên quan đến hoạt động kinh doanh.",
+        "Tư vấn kinh doanh sản phẩm, thuyết phục khách hàng mua sản phẩm, ký hợp đồng, hoàn tất đăng ký thủ tục, nhận tiền thanh toán.",
+        "Duy trì mối quan hệ với khách hàng và thu hồi công nợ.",
+        "Tìm hiểu thông tin và phân loại khách hàng kịp thời xây dựng các chính sách chăm sóc phù hợp.",
+        "Thiết kế cơ bản hình ảnh sản phẩm bằng Illustrator và Photoshop.",
+        "Lập báo cáo về hoạt động và tình hình kinh doanh."
+      ]
+    },
+    {
+      "title": "NHÂN VIÊN GIAO NHẬN",
+      "company": "Công ty TNHH CHỨNG TỪ VIỆT",
+      "duration": "04/2019-07/2021",
+      "description": [
+        "Tiếp nhận hồ sơ chứng từ của khách hàng để hoàn tất thủ tục thông quan hàng xuất, nhập khẩu các sản phẩm Hạt Điều, Cà phê, Tiêu.",
+        "Làm việc với các cơ quan Nhà nước như Kiểm dịch, Sở Công Thương, VCCI, Ngân hàng, Hãng tàu, Forwarder, Hải quan và các đơn vị kiểm tra chuyên ngành.",
+        "Làm việc tại các Cảng tại Hồ Chí Minh, Cái Mép, Bình Dương, Bình Phước, Đồng Nai để hoàn thành các thủ tục xuất nhập khẩu hàng hóa.",
+        "Quản lý thời gian, sắp xếp công việc để kịp thời thông quan hàng hóa cho khách hàng.",
+        "Chịu được áp lực cao trong công việc."
+      ]
+    },
+    {
+      "title": "THỰC TẬP SINH",
+      "company": "Công Ty Cổ Phần Thương Mại Dịch Vụ G-Logistics",
+      "duration": "01/2019-04/2019",
+      "description": [
+        "Tiếp nhận hồ sơ chứng từ của khách hàng để hoàn tất thủ tục thông quan hàng xuất, nhập khẩu nhiều loại mặt hàng máy móc, trái cây, thịt đông lạnh, y tế, thiết bị điện,...",
+        "Làm việc với các cơ quan Nhà nước như Kiểm dịch, Sở Công Thương, VCCI, Ngân hàng, Hãng tàu, Forwarder, Hải quan và các đơn vị kiểm tra chuyên ngành.",
+        "Làm việc tại các Cảng và sân bay tại Hồ Chí Minh.",
+        "Quản lý thời gian, sắp xếp công việc để kịp thời thông quan hàng hóa cho khách hàng."
+      ]
+    }
+  ],
+  "university": "TRƯỜNG ĐẠI HỌC KINH TẾ THÀNH PHỐ HỒ CHÍ MINH",
+  "major": "Quản trị kinh doanh",
+  "gpa": "Khá",
+  "certifications": [
+    "Bằng lái xe B2"
+  ]
+}

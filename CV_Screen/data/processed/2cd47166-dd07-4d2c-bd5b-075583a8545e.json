@@ -1,0 +1,54 @@
+﻿{
+  "full_name": "HUỲNH BÁ TRƯỜNG GIANG",
+  "applied_position": "",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "QUẬN 12, TP HỒ CHÍ MINH",
+  "phone": "",
+  "skills": [
+    "CƠ KHÍ",
+    "AUTOCAD"
+  ],
+  "experience": [
+    {
+      "title": "KĨ THUẬT CƠ KHÍ",
+      "company": "HIROTA",
+      "start_date": "2016",
+      "end_date": "2019",
+      "description": "LÀM VIỆC TẠI NHẬT BẢN, GIA CÔNG LẮP ĐẶT KẾT CẤU CỦA CÁC BỘ PHẬN SẮT THÉP, TÍNH TOÁN NGUYÊN VẬT LIỆU CHO SẢN PHẨM, ĐỀ PHÒNG SAI SÓT TRÊN BVKT VÀ NẾU CÓ SAI SÓT THÌ TÌM CÁCH KHẮC PHỤC."
+    },
+    {
+      "title": "TRƯỞNG PHÒNG KINH DOANH BẤT ĐỘNG SẢN",
+      "company": "NAM PHONG SÀI GÒN",
+      "start_date": "2019",
+      "end_date": "2020",
+      "description": "TƯ VẤN SẢN PHẨM DỊCH VỤ CHO KHÁCH HÀNG. NÊU RÕ ƯU NHƯỢC ĐIỂM CỦA SẢN PHẨM VÀ NẮM BẮT THÔNG TIN KHÁCH HÀNG ĐỂ CHỐT SẢN PHẨM."
+    },
+    {
+      "title": "KINH DOANH RIÊNG",
+      "company": "",
+      "start_date": "2020",
+      "end_date": "2021",
+      "description": ""
+    },
+    {
+      "title": "KĨ THUẬT Ô TÔ",
+      "company": "HYUN DAI",
+      "start_date": "12/2021",
+      "end_date": "03/2022",
+      "description": "GIA CÔNG, KIỂM TRA CỦA BỘ PHẬN KHUNG GẦM VÀ THÙNG HÀNG XE TẢI. ĐỀ PHÒNG SAI SÓT TRÊN BVKT VÀ ĐƯA RA Ý KIẾN CHO CÁC CÔNG ĐOẠN SẢN XUẤT."
+    },
+    {
+      "title": "QUẢN LÝ CHẤT LƯỢNG VÀ GIÁM SÁT CÔNG TRÌNH NỘI THẤT",
+      "company": "TNHH TRÍ LỰC VIỆT",
+      "start_date": "03/2022",
+      "end_date": "HIỆN TẠI",
+      "description": "KIỂM TRA NGUYÊN VẬT LIỆU TỪ ĐẦU VÀO VÀ SẢN PHẨM ĐẦU RA. KIỂM TRA TỪNG CÔNG ĐOẠN SẢN PHẨM Ở CÁC NHÀ THẦU VỀ CÁC CÔNG ĐOẠN SẢN PHẨM. KHẢO SÁT CÔNG TRÌNH, ĐI GẶP KHÁCH HÀNG ĐỂ LẤY THÔNG TIN CẦN THIẾT VÀ ĐƯA RA KIẾN NGHỊ CHO KHÁCH HÀNG. PHỐI HỢP VỚI TỪNG BỘ MÔN, TỪNG NHÀ THẦU ĐỂ SẢN PHẨM HOẶC CÔNG TRÌNH ĐẠT CHẤT LƯỢNG."
+    }
+  ],
+  "university": "CAO ĐẲNG KỸ THUẬT VIỆT-HÀN",
+  "major": "CÔNG NGHỆ Ô TÔ",
+  "gpa": "",
+  "certifications": []
+}

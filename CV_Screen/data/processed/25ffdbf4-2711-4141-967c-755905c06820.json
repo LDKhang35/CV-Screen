@@ -1,0 +1,27 @@
+﻿{
+  "full_name": "Đoàn Đức Anh",
+  "applied_position": "Quản lý chi nhánh",
+  "gender": "",
+  "dob": "27/11/1995",
+  "email": "",
+  "address": "số nhà 13 đường Lưu Trọng Lư, Phường Trần Quang Khải, thành phố Nam Định",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh (cơ bản)",
+    "Kỹ năng sale",
+    "Quản lý cửa hàng",
+    "Hiểu biết về thị trường bán lẻ của hệ thống chuỗi các cửa hàng"
+  ],
+  "experience": [
+    {
+      "title": "Quản lý cửa hàng",
+      "company": "CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT TẠI HÀ NỘI",
+      "duration": "01/2021-08/2024",
+      "description": "Quản lý các công việc tại cửa hàng về nhân viên, hoạt động kinh doanh. Triển khai các công việc từ giám đốc vùng xuống nhân viên. Chịu trách nhiệm về doanh thu cũng như lãi gộp của cửa hàng. Lên lịch cho nhân viên làm các hoạt động thị trường. Đào tạo nhân viên theo tác phong và văn hóa của công ty."
+    }
+  ],
+  "university": "Cao đẳng du lịch",
+  "major": "Hướng dẫn viên du lịch",
+  "gpa": "Khá",
+  "certifications": []
+}

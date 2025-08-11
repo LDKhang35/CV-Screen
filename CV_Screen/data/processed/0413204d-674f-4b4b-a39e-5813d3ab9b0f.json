@@ -1,0 +1,59 @@
+﻿{
+  "full_name": "THANH NGUYET",
+  "applied_position": "Graphic Designer",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": [
+    "Excellent active listening abilities",
+    "Awareness of yourself and also of others",
+    "Strong research & analytical skills",
+    "High logical thinking",
+    "Adobe Illustrator (Ai)",
+    "Adobe Photoshop (Ps)",
+    "Adobe InDesign (Id)",
+    "Adobe Premiere Pro (Pr)",
+    "Adobe Lightroom (Lr)"
+  ],
+  "experience": [
+    {
+      "title": "Graphic Designer",
+      "company": "Mirei Viet Nam",
+      "dates": "Jun 2022 - Present",
+      "description": [
+        "Designed promotional images for web & Facebook advertisements",
+        "Managed the creation of images for e-commerce platforms including Shopee, Tiki, Lazada & TikTok",
+        "Results: Post likes increased by 163% (322 to 846), Post shares increased by 250% (2 to 7), Comments on posts increased by 11% (35 to 38)"
+      ]
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Benh Vien Cong Dong",
+      "dates": "Feb 2021 - Dec 2021",
+      "description": [
+        "Designed visuals for monthly sales campaigns & livestreams",
+        "Created landing pages and product guidelines",
+        "Conducted research to develop taglines & content for banners",
+        "Designed engaging visual content for Facebook posts"
+      ]
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Coi Xay Gio Club Fanpage",
+      "dates": "Feb 2018 – Jun 2021",
+      "description": [
+        "Led the creation of key visual designs for publications",
+        "Managed the publication timeline & coordinated media posts for various events",
+        "Results: Increase views by 493%, Sales from confirmed orders increased by 285%, Page bounce rate reduced to 4.56%, improving user interaction and retention, New visitors increased by 394% & new followers by 451%"
+      ]
+    }
+  ],
+  "university": "Ho Chi Minh University of Education",
+  "major": "Chemistry",
+  "gpa": "",
+  "certifications": [
+    "Certiﬁcate in Graphic Design (ColorME Sai Gon, Nov 2022 - Dec 2023)"
+  ]
+}

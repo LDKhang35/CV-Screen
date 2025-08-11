@@ -1,0 +1,54 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Kỹ sư phần mềm",
+  "gender": "Nam",
+  "dob": "01/01/1995",
+  "email": "nva@email.com",
+  "address": "123 Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0912345678",
+  "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Spring Boot",
+    "Django",
+    "ReactJS",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "Jira",
+    "Giao tiếp",
+    "Làm việc nhóm",
+    "Giải quyết vấn đề"
+  ],
+  "experience": [
+    {
+      "title": "Kỹ sư phần mềm",
+      "company": "Công ty X",
+      "duration": "01/2020 – Hiện tại",
+      "responsibilities": [
+        "Phát triển và bảo trì các module phần mềm sử dụng Java và Spring Boot.",
+        "Tham gia thiết kế kiến trúc hệ thống và tích hợp API.",
+        "Viết unit test và thực hiện kiểm thử tự động."
+      ]
+    },
+    {
+      "title": "Thực tập sinh phát triển phần mềm",
+      "company": "Công ty Y",
+      "duration": "06/2019 – 12/2019",
+      "responsibilities": [
+        "Hỗ trợ phát triển giao diện người dùng bằng ReactJS.",
+        "Tìm hiểu và áp dụng các nguyên lý lập trình hướng đối tượng."
+      ]
+    }
+  ],
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Kỹ thuật Phần mềm",
+  "gpa": "3.5/4.0",
+  "certifications": [
+    "AWS Certified Developer – Associate (2021)",
+    "Lập trình Python cơ bản (Coursera, 2018)"
+  ]
+}

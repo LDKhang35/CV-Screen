@@ -1,0 +1,90 @@
+﻿{
+  "full_name": "Trịnh Minh Trang",
+  "applied_position": null,
+  "gender": "Nữ",
+  "dob": "20 – 03 – 1987",
+  "email": null,
+  "address": "Phạm Thế Hiển, P.5, Q.8",
+  "phone": null,
+  "skills": [
+    "Sử dụng vi tính (rất tốt)",
+    "Fast Kế Toán",
+    "Gstar Kế Toán",
+    "Ms Word",
+    "Ms Excel",
+    "Bravo",
+    "Kế toán công nợ",
+    "Kế toán bán hàng",
+    "Điều phối đơn hàng",
+    "Quản lý cửa hàng",
+    "Kiểm tra hàng hóa",
+    "Theo dõi vật tư",
+    "Đặt hàng",
+    "Giao hàng",
+    "Kiểm kê sổ sách",
+    "Quản lý thu chi",
+    "Quản lý xuất nhập hàng hóa",
+    "Báo cáo tình hình cửa hàng",
+    "Tính lương nhân viên",
+    "Kiểm tra phiếu xuất",
+    "Làm bảng kê hóa đơn",
+    "In hóa đơn",
+    "Tìm kiếm khách hàng mới",
+    "Chăm sóc khách hàng cũ",
+    "Lên đơn hàng",
+    "Xử lý chứng từ",
+    "Lập kế hoạch thu hồi công nợ",
+    "Thu hồi hợp đồng",
+    "Phát triển sản phẩm mới",
+    "Xây dựng chính sách bán hàng",
+    "Tổ chức chương trình khuyến mãi",
+    "Giải quyết phản hồi khách hàng",
+    "Quản lý nhóm kinh doanh",
+    "Đôn đốc doanh số"
+  ],
+  "experience": [
+    {
+      "company_name": "Công Ty Cổ Phần Vĩnh Tiến",
+      "position": "Kế toán bán hàng, Kế toán công nợ, Nhân viên điều phối",
+      "start_date": "Tháng 8 năm 2007",
+      "end_date": "Tháng 1 năm 2013",
+      "description": "Kế toán công nợ: Theo dõi chi tiết công nợ đến hạn, quá hạn của khách hàng. Nhắc nhở và đôn đốc nhân viên phụ trách theo dõi khách hàng mà mình đảm nhận đến ngày thu tiền. Và chủ động gọi điện khách đến lịch ngày thanh toán.\nKế toán bán hàng: Xuất hóa đơn tài chính cho tài xế và nhân viên đi giao hàng.\nNhân viên điều phối: Điều phối đơn hàng khách hàng gọi điện đặt hàng cho công ty hay fax đơn hàng qua. Kịp thời lên đơn hàng và giải quyết giao hàng cho khách trong ngày."
+    },
+    {
+      "company_name": "Công Ty Cổ Phần Nhà Hòa Bình",
+      "position": "Kế toán công nợ",
+      "start_date": "Tháng 10 năm 2014",
+      "end_date": "Tháng 1 năm 2015",
+      "description": "Theo dõi chi tiết công nợ đến hạn, quá hạn của khách hàng. Nhắc nhở và đôn đốc nhân viên phụ trách theo dõi khách hàng mà mình đảm nhận đến ngày thu tiền. Và chủ động gọi điện khách đến lịch ngày thanh toán."
+    },
+    {
+      "company_name": "Cửa Hàng 238",
+      "position": "Quản lý, Kế toán công nợ (đầu ra và đầu vào), Kế toán bán hàng",
+      "start_date": "Tháng 5 năm 2015",
+      "end_date": "Tháng 6 năm 2016",
+      "description": "Kiểm tra hàng hóa và theo dõi vật tư, linh động trong việc đặt hàng và giao hàng cho khách. Kiểm kê sổ sách công nợ, thu chi và xuất nhập hàng hóa. Báo cáo tình hình cửa hàng và tính lương cho nhân viên."
+    },
+    {
+      "company_name": "Công Ty Cổ Phần Ba Huân",
+      "position": "Kế toán bán hàng",
+      "start_date": "Tháng 3 năm 2017",
+      "end_date": "Tháng 6 năm 2017",
+      "description": "Kiểm tra phiếu xuất và xuất hóa đơn tài chính, làm bảng kê và in hóa đơn."
+    },
+    {
+      "company_name": "Công Ty TNHH Di Đại Hưng",
+      "position": "Nhân viên kinh doanh, Trưởng nhóm NVKD",
+      "start_date": "Tháng 10 năm 2017",
+      "end_date": "Tháng 10 năm 2023",
+      "description": "Nhân viên kinh doanh: tìm kiếm khách hàng mới và chăm sóc khách hàng cũ, lên đơn hàng và chứng từ, lên kế hoạch nhắc nhở thu hồi công nợ, thu hồi hợp đồng.\nTrưởng nhóm: tìm kiếm phát triển sản phẩm mới, chính sách bán hàng và các chương trình khuyến mãi, giải quyết và phản hồi thông tin của khách hàng, nhắc nhở nhóm chạy target doanh số theo yêu cầu của BGĐ."
+    }
+  ],
+  "university": "Trường Cao Đẳng Kinh Tế",
+  "major": "Quản Trị Kinh Doanh",
+  "gpa": null,
+  "certifications": [
+    "Chứng chỉ Kế Toán và Kiểm Toán (học lực khá)",
+    "Chứng chỉ Tin Học (học lực giỏi)",
+    "Chứng chỉ Quản Lý Nhà Hàng (học lực xuất sắc)"
+  ]
+}

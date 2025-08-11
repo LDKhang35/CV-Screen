@@ -1,0 +1,80 @@
+﻿{
+  "full_name": "Nguyễn Hữu Huy",
+  "applied_position": "",
+  "gender": "Nam",
+  "dob": "15-08-1996",
+  "email": "",
+  "address": "Viêm xá, Hòa Long, TP Bắc Ninh, Bắc Ninh",
+  "phone": "",
+  "skills": [
+    "PHP",
+    "TypeScript",
+    "Kafka",
+    "Microservices",
+    "Domain-Driver Design (DDD)",
+    "SOLID",
+    "MySQL",
+    "OOP",
+    "Docker",
+    "Redis",
+    "Unit test",
+    "Vuejs",
+    "HTML",
+    "CSS",
+    "Jquery",
+    "JS",
+    "Laravel",
+    "CakePHP",
+    "Git"
+  ],
+  "experience": [
+    {
+      "duration": "02-2020 - 03-2024",
+      "company": "CT Cổ phần giao hàng tiết kiệm",
+      "position": "Backend Dev",
+      "description": "Tham gia vào các dự án về Backend và Frontend của công ty bằng ngôn ngữ lập trình PHP(laravel, cakePHP), TypeScript, Javascript(vuejs, nodejs, jquery). Xử lý, cải tiến, cập nhật và xây dựng các màn hình mới phục vụ cho việc vận chuyển đơn hàng trên Web như: tìm kiếm tra cứ thông tin đơn hàng, sửa đơn hàng, chốt ca làm việc, danh sách đơn của COD. Thiết kế, xây dựng API cho app COD, Driver. Xây dựng, thiết kế database cho các tính năng mới trong các dự án. Phối hợp với các team khác như Bigdata, Map để xây dựng các tính năng có độ phức tạp lớn như: tự động xây dựng lộ trình di chuyển của COD, tính toán quãng đường di chuyển của COD khi giao hàng. Tham gia xây dựng Microservices, tách API sang các services khác đúng với tính năng đang sử dụng. Tối ưu hệ thống, fix slow query, slow url, thực hiện các tính năng về Security(phân quyền, xác thực). Thực hiện tác tác vụ chạy ngầm như cron job, consumer lắng nghe bin log của database bằng kafka. Viết unit test cho các chức năng mình đã làm. Hướng dẫn, phần tích công việc cần làm cho thành viên mới trong team. Tích lũy kinh nghiệm, kiến thức về logic xử lý, tối ưu hệ thống, thiết kế database với dữ liệu lớn và nhiều người truy cập cùng lúc. Học hỏi thêm được nhiều công nghệ mới, làm việc trên một quy trình làm việc chuẩn.",
+      "technologies": [
+        "PHP(Laravel, CakePHP)",
+        "TypeScript",
+        "Unit test",
+        "MySQL",
+        "Domain-Driver Design(DDD)",
+        "SOLID",
+        "Redis",
+        "Kafka",
+        "HTML",
+        "CSS",
+        "VueJs",
+        "Jquery"
+      ]
+    },
+    {
+      "duration": "08-2019 - 01-2020",
+      "company": "Công ty TNHH BẢO LINK",
+      "position": "Backend và Frontend DEV",
+      "description": "Lập trình và phát triển dự án web của công ty. Trực tiếp xây dựng và hoàn thành gần như 100% dự án Tubead Network: Tham gia thảo luận để đưa ra phương pháp, hướng giải quyết các vấn đề của dự án. Xây dựng vào chỉnh sửa giao diện bằng htnl,css và jquery. Xây dựng CSDL bằng MYSQL. Viết các API và bảo mật liện lạc giữa các server bằng PHP(Laravel, Lumen). Tích lũy và có thêm được rất nhiều kinh nghiệm làm việc và kiến thức về lập trình web.",
+      "technologies": [
+        "PHP(Laravel, Lumen)",
+        "HTML",
+        "CSS",
+        "Jquery"
+      ]
+    },
+    {
+      "duration": "04-2019 - 07-2019",
+      "company": "CT CỔ PHẦN ĐỔI MỚI CÔNG NGHỆ TÀI CHÍNH FIIN",
+      "position": "Backend DEV",
+      "description": "Tham gia vào các dự án của công về về lập trình web, API bằng ngôn ngữ lập trình PHP trên nền tảng Laravel: Viết API nạp rút tiền nhanh và chậm. Viết API Nạp tiền và nạp thẻ cho các tài khoản. Xây dựng hệ thống web S4S (Trung gian môi giới các dịch vụ sửa chữa, lắp đặt thiết bị... giữa người dùng và đối tác). Xây dựng giao diện bằng html, css và viết các API. Tích lũy kinh nghiệm, kiến thức về lập trình web bằng PHP(Laravel) và kinh nghiệm làm việc ở môi trường doanh nghiệp.",
+      "technologies": [
+        "PHP(Laravel)",
+        "HTML",
+        "CSS",
+        "Jquery"
+      ]
+    }
+  ],
+  "university": "Đại Học Bách Khoa Hà Nội",
+  "major": "Điện tử - Viễn thông",
+  "gpa": "Khá",
+  "certifications": []
+}

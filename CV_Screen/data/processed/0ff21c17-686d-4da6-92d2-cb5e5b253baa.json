@@ -1,0 +1,64 @@
+﻿{
+  "full_name": "TRẦN DUY TÂN",
+  "applied_position": "",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Ninh Kiều, TP Cần Thơ",
+  "phone": "",
+  "skills": [
+    "Flutter (Dart)",
+    "HTML5",
+    "CSS",
+    "MVC",
+    "MVVM",
+    "Firebase",
+    "MongoDB",
+    "Python",
+    "C",
+    "C++",
+    "Java",
+    "PHP",
+    "MySQL",
+    "NodeJS (Express)",
+    "Git (GitHub, GitLab)",
+    "Subversion",
+    "Tiếng Anh (Đọc hiểu và giao tiếp)",
+    "Tự học"
+  ],
+  "experience": [
+    {
+      "title": "DEVIER: TÌM KIẾM DÂN TỘC DỰA TRÊN VĂN PHI VẬT THỂ BẰNG TRÍ TUỆ NHÂN TẠO: ĐỒNG BẰNG SÔNG CỬU LONG (LUẬN VĂN TỐT NGHIỆP)",
+      "duration": "8/2023-12/2023",
+      "description": "Ứng dụng giúp tìm kiếm dân tộc dựa trên văn hóa phi vật thể bằng AI. Được xây dựng bằng framework Flutter(Dart). Mô hình AI được xây dựng bằng Python với kiến trúc mạng CNN và mô hình SVM. Server được xây dựng bằng Python. Tích hợp Google Bard AI cho ChatBot. Chức năng chính: Tìm kiếm dân tộc bằng hình ảnh và âm thanh, ChatBot trả lời câu hỏi liên quan đến dân tộc Việt Nam."
+    },
+    {
+      "title": "CÔNG TY TNHH DI4L (THỰC TẬP)",
+      "duration": "3/2023-5/2023",
+      "description": "Viết giao diện chức năng cho ứng dụng Sales. Xây dựng bằng Dart (Flutter) với quản lý trạng thái bằng Bloc và Provider. Học hỏi kinh nghiệm làm việc với dự án thực tế."
+    },
+    {
+      "title": "ỨNG DỤNG QUẢN LÝ NHÀ TRẺ (NIÊN LUẬN NGÀNH)",
+      "duration": "1/2023-5/2023",
+      "description": "Ứng dụng giúp quản lý nhà trẻ và điểm danh bằng QR code. Xây dựng bằng framework Flutter(Dart), Firebase được dùng làm cơ sở dữ liệu. Chức năng chính: CRUD thông tin giáo viên, lớp học, trẻ em, phụ huynh; Điểm danh bằng QR code."
+    },
+    {
+      "title": "ỨNG DỤNG NHẬT KÝ ĐỒNG RUỘNG (NIÊN LUẬN CƠ SỞ)",
+      "duration": "8/2022-10/2022",
+      "description": "Ứng dụng ghi chép lại nhật ký trong quá trình sản xuất nông nghiệp. Xây dựng bằng framework Flutter(Dart), Firebase được dùng làm cơ sở dữ liệu. Chức năng chính: CRUD thông tin người dùng, nhật ký trong nông nghiệp."
+    }
+  ],
+  "university": "Đại học Cần Thơ (CTU)",
+  "major": "Khoa học Máy tính",
+  "gpa": "",
+  "certifications": [
+    {
+      "name": "Khóa học lập trình ứng dụng di động đa nền tảng với Flutter",
+      "date": "8/2022"
+    },
+    {
+      "name": "Chứng chỉ Anh Văn B1",
+      "date": "9/2023"
+    }
+  ]
+}

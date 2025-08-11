@@ -1,0 +1,61 @@
+﻿{
+  "full_name": "Phạm Ngọc Quan",
+  "applied_position": "Development Leader",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "07, 5F Street, Binh Hung Hoa A, Binh Tan, HCM City.",
+  "phone": "",
+  "skills": [
+    "Team Management",
+    "MS SQL",
+    "C#",
+    ".NET Framework",
+    ".NET Core",
+    "MVC",
+    "Windows Forms",
+    "Dev Express",
+    "HTML",
+    "JS",
+    "CSS",
+    "AngularJS",
+    "MQTT",
+    "Kafka",
+    "Redis cache",
+    "Redis",
+    "Elastic",
+    "GitHub",
+    "Gitlab",
+    "Jira",
+    "Jenkin",
+    "Logical Thinking",
+    "Creativity",
+    "High Work Pressure Tolerance"
+  ],
+  "experience": [
+    {
+      "company": "Cooky Corporation",
+      "position": ".Net Development Manager",
+      "duration": "05/2020 - 04/2024"
+    },
+    {
+      "company": "Foody Corporation",
+      "position": ".Net Development Manager",
+      "duration": "01/2015 - 04/2020"
+    },
+    {
+      "company": "IVG Vietnam Corporation",
+      "position": ".Net Development Leader",
+      "duration": "10/2010 - 11/2014"
+    },
+    {
+      "company": "Viet Software - Communication Joint Stock Company",
+      "position": ".Net Development Leader",
+      "duration": "11/2007 - 09/2010"
+    }
+  ],
+  "university": "College of Technology and Industrial Management",
+  "major": "Information Technology",
+  "gpa": "",
+  "certifications": []
+}

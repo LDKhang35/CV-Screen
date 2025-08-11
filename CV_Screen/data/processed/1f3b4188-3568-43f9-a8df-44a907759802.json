@@ -1,0 +1,45 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Lập trình viên Python",
+  "gender": "Nam",
+  "dob": "15/05/1998",
+  "email": "vana.dev@gmail.com",
+  "address": "Số 10, Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0987-654-321",
+  "skills": [
+    "Python (Nâng cao)",
+    "Java (Cơ bản)",
+    "Django",
+    "Flask",
+    "Spring Boot",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "Jira",
+    "RESTful API",
+    "OOP",
+    "Agile/Scrum"
+  ],
+  "experience": [
+    {
+      "title": "Lập trình viên Python",
+      "company": "Công ty XYZ",
+      "duration": "Tháng 06/2020 – Hiện tại",
+      "description": [
+        "Phát triển và bảo trì các ứng dụng web sử dụng Django và RESTful API.",
+        "Thiết kế cơ sở dữ liệu và tối ưu hiệu suất truy vấn.",
+        "Tham gia vào quy trình phát triển Agile/Scrum.",
+        "Hỗ trợ triển khai và vận hành hệ thống trên môi trường Docker."
+      ]
+    }
+  ],
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Khoa học Máy tính",
+  "gpa": "3.5/4.0",
+  "certifications": [
+    "AWS Certified Solutions Architect – Associate",
+    "PCEP – Certified Entry-Level Python Programmer"
+  ]
+}

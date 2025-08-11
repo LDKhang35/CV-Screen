@@ -1,0 +1,118 @@
+﻿{
+  "full_name": "NGUYỄN TRUNG HIẾU",
+  "applied_position": "",
+  "gender": "Nam",
+  "dob": "1981-06-22",
+  "email": "",
+  "address": "26/26 Tư Đình - Long Biên - Hà Nội",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh",
+    "Tiếng Hàn",
+    "Quản trị hệ thống máy chủ Oracle",
+    "Quản trị hệ thống máy chủ MySQL",
+    "PL/SQL Oracle",
+    "DB Job",
+    "BigData",
+    "Javascript",
+    "Jquery",
+    "Bootstraps",
+    "C#",
+    "React",
+    "MS Office",
+    "MS POWER BI (kết nối CSDL)",
+    "Làm việc nhóm",
+    "Phối hợp nhiều đơn vị",
+    "Chịu áp lực cao",
+    "Lập trình",
+    "Quản trị cơ sở dữ liệu",
+    "Tư duy logic",
+    "Sáng tạo",
+    "Xây dựng quy trình, nghiệp vụ hệ thống"
+  ],
+  "experience": [
+    {
+      "duration": "05/2022 - 09/2023",
+      "position": "Chuyên viên cao cấp",
+      "company": "PHÒNG GIẢI PHÁP - VINAPHONE HÀ NỘI",
+      "responsibilities": [
+        "Tham gia quản lý các hệ thống ứng dụng, mô hình bán hàng.",
+        "Tham gia triển khai các ứng dụng đến khách hàng, tích hợp các sản phẩm dịch vụ với yêu cầu riêng của khách hàng.",
+        "Tham gia triển khai các đề án, giải pháp số hóa cho trường học, bệnh viện, doanh nghiệp."
+      ]
+    },
+    {
+      "duration": "01/2022 - 04/2023",
+      "position": "Phó trưởng Phòng",
+      "company": "PHÒNG KỸ THUẬT NGHIỆP VỤ - VINAPHONE HÀ NỘI",
+      "responsibilities": [
+        "Chỉ đạo chung quản lý các hệ thống số liệu, dữ liệu kinh doanh, phân tích dữ liệu kinh doanh.",
+        "Xây dựng các giải pháp cung cấp sản phẩm dịch vụ CNTT, phối hợp xây dựng các ứng dụng đáp ứng yêu cầu của khách hàng.",
+        "Tích hợp hệ thống báo cáo trên nền tảng PowerBI, dữ liệu Oracle cho phân tích kinh doanh (2022).",
+        "Tích hợp các hệ thống chung điều hành kinh doanh trên một nền tảng OneBss (2021)."
+      ]
+    },
+    {
+      "duration": "04/2019 - 12/2021",
+      "position": "Chuyên viên cao cấp",
+      "company": "PHÒNG KỸ THUẬT NGHIỆP VỤ - VINAPHONE HÀ NỘI",
+      "responsibilities": [
+        "Quản lý các hệ thống số liệu, dữ liệu kinh doanh, xử lý tập trung dữ liệu.",
+        "Phối hợp xây dựng các công cụ ứng dụng theo dõi sản xuất kinh doanh, các hệ thống quản lý sản phẩm, bán hàng, kết nối hệ thống back-end.",
+        "Tham gia nghiên cứu phát triển các ứng dụng chuyển đổi số như eKYC, eContract (2019).",
+        "Tham gia xây dựng tích hợp ứng dụng Mobile trong Điều hành kinh doanh (2020)."
+      ]
+    },
+    {
+      "duration": "01/2011 - 03/2019",
+      "position": "Chuyên viên",
+      "company": "PHÒNG PHÁT TRIỂN PHẦN MỀM - TT CNTT - VNPT HÀ NỘI",
+      "responsibilities": [
+        "Phát triển các ứng dụng nền tảng Web, Winform sử dụng C#, C++.",
+        "Quản trị cơ sở dữ liệu Oracle, MySQL.",
+        "Xây dựng hệ thống dữ liệu, báo cáo phục vụ số liệu điều hành kinh doanh.",
+        "Xây dựng hệ thống Quản lý khiếu nại - CCS (2012) sử dụng Jquery, Oracle.",
+        "Xây dựng hệ thống Điều hành xử lý sự cố - BSS (2015) sử dụng mô hình MVC, Bootstraps, Oracle."
+      ]
+    },
+    {
+      "duration": "11/2009 - 12/2010",
+      "position": "Chuyên viên",
+      "company": "PHÒNG QUẢN LÝ DỮ LIỆU - TT ĐHTT - VNPT HÀ NỘI",
+      "responsibilities": [
+        "Phát triển các ứng dụng nền tảng Web, Winform sử dụng C#, C++.",
+        "Quản trị cơ sở dữ liệu Oracle, MySQL.",
+        "Xây dựng hệ thống dữ liệu, báo cáo phục vụ số liệu điều hành kinh doanh.",
+        "Xây dựng hệ thống Quản lý khiếu nại - CCS (2012) sử dụng Jquery, Oracle.",
+        "Xây dựng hệ thống Điều hành xử lý sự cố - BSS (2015) sử dụng mô hình MVC, Bootstraps, Oracle."
+      ]
+    },
+    {
+      "duration": "07/2007 - 10/2009",
+      "position": "Kỹ sư tin học",
+      "company": "PHÒNG CHẤT LƯỢNG CÔNG TRÌNH - CÔNG TY TNHH SACIDELTA",
+      "responsibilities": [
+        "Tham gia phân tích các yêu cầu, đóng góp ý tưởng cho thiết kế hệ thống thông tin tòa nhà.",
+        "Kiểm thử và đảm bảo chất lượng hệ thống thông tin tòa nhà.",
+        "Giám sát và hỗ trợ vận hành hệ thống thông tin tòa nhà."
+      ]
+    },
+    {
+      "duration": "06/2005 - 06/2007",
+      "position": "Kỹ sư tin học",
+      "company": "PHÒNG SẢN PHẨM - CÔNG TY TNHH VIỆT TÍN",
+      "responsibilities": [
+        "Tham gia thiết kế, lập trình các sản phẩm bán dẫn.",
+        "Kiểm thử chất lượng sản phẩm."
+      ]
+    }
+  ],
+  "university": "Đại học Bách Khoa Hà Nội",
+  "major": "Công nghệ Thông tin",
+  "gpa": "Khá",
+  "certifications": [
+    "CCNA (Cisco Certified Network Associate)",
+    "TOEIC 450",
+    "PMP"
+  ]
+}

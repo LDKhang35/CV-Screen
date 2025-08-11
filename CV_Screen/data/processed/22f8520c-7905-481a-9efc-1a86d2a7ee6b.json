@@ -1,0 +1,37 @@
+﻿{
+  "full_name": "NGUYEN THI TRUC THUY",
+  "applied_position": "LEADER QC",
+  "gender": "Female",
+  "dob": "Jan 06, 1988",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": [
+    "8 years of experience in POS system testing",
+    "8 years of experience in testing electronic wallet system",
+    "5 years of experience connecting Bank integration on POS (VTB, BIDV, VCB, STB, EIB)",
+    "Good team work",
+    "Ability to work well under pressure",
+    "Open-minded, hard-working and fast learning",
+    "Received requests, research, analyze, write documents that detailed descriptions of technical requirements",
+    "Designing Test plan",
+    "Analyzing and designing Test-case, checklist",
+    "Deploy service, web, Gateway, integration in POS (Payoo app, and app bank)",
+    "Log bug, report bug on Jira, Trello, PHP Bug Tracker, Gitlab",
+    "Executing test connect API with a partner (Paycode, Paybill, Paytopup, service of Payoo)",
+    "Writing user guide",
+    "Drafting technical acceptance minutes (banking integration, partner integration)"
+  ],
+  "experience": [
+    {
+      "company": "Vietuion - Payoo",
+      "position": "QC",
+      "duration": "Jul 2013 – Present",
+      "description": "Project: The Payoo POS system. Payoo has a large network of payment channels and supports a variety of payment services: utility bills, tuition fees, insurance, public fees, and financial bills. POS System provides series of POS to stores, supermarkets, apartments, medical stores, enabling sale transactions and other types of transactions. Worked with Payoo POS as a standalone POS (SSC School Payment System, Hanoi Bus system, Saigon Waterbus system, mPOS system, ACS system, Paytouch system) and as a link POS (integrating with convenience store POS systems like Circle K, Family mart, MINISTOP). Collaborated with POS hardware providers: PAX, Ingenico, Nexgo. Project Team Size: 100. Responsibilities included communicating with clients, partners, and banks to verify specifications; performing acceptance tests and writing test acceptance cases with banks; testing functions following specifications and business requirements; planning and managing team tasks; reviewing test cases, checklists, and regression tests of the team; and verifying new flows related to current business Payoo services."
+    }
+  ],
+  "university": "Natural of Science University",
+  "major": "Information Technology",
+  "gpa": "",
+  "certifications": []
+}

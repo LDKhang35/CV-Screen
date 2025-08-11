@@ -1,0 +1,74 @@
+﻿{
+  "full_name": "Nguyễn Thành Nguyên",
+  "applied_position": "FLUTTER DEVELOPER",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "239 Hoa Binh street, Hiep Tan Ward, Tan Phu District, HCM City",
+  "phone": "",
+  "skills": [
+    "FLUTTER",
+    "PHP",
+    "RESTFul API",
+    "Firebase",
+    "Push Notification",
+    "Provider (Flutter)",
+    "Deeplink",
+    "Ahamove (integration)",
+    "WordPress",
+    "Kotlin",
+    "Git",
+    "Dartcore",
+    "Widget Tree",
+    "Debugging",
+    "Application Performance Optimization",
+    "Getx",
+    "MVP",
+    "MVVM",
+    "Clean Architecture",
+    "Google Login Integration",
+    "Apple ID Login Integration",
+    "Momo Payment Integration",
+    "VNPAY Payment Integration",
+    "App Store Deployment",
+    "Google Play Deployment",
+    "QR Code Scanning"
+  ],
+  "experience": [
+    {
+      "company": "CNV HOLDINGS JOINT STOCK COMPANY",
+      "position": "MOBILE DEVELOPER",
+      "start_date": "May 2021",
+      "end_date": "Mar 2023",
+      "responsibilities": [
+        "Able to working with RESTFul API, Firebase, Push Notification, Provider with Flutter.",
+        "Deeplink open app payment Momo",
+        "Embed payment and delivery app Ahamove",
+        "Participate in developing some projects running on App Store and Google Play.",
+        "Teamwork and independence.",
+        "Research and Learning."
+      ]
+    },
+    {
+      "company": "JASON DIGITAL MEDIA SERVICES TRADING COMPANY LIMITED",
+      "position": "WEB DEVELOPER AND MOBILE FLUTTER BASIC",
+      "start_date": "Dec 2018",
+      "end_date": "Dec 2020",
+      "responsibilities": [
+        "Custom add rental Point of sale for WooCommerce.",
+        "Used to manipulate wordpress hooks.",
+        "Used RESTful API",
+        "Kotlin basic",
+        "Proficient in using Git to manage source code",
+        "Dartcore and Widget Tree",
+        "Debug and optimize application performance",
+        "Proficient use of Getx",
+        "Knowledge of MVP, MVVM, Clean Architecture"
+      ]
+    }
+  ],
+  "university": "CAN THO UNIVERSITY",
+  "major": "INFOTMATION TECHNOLOGY",
+  "gpa": "",
+  "certifications": []
+}

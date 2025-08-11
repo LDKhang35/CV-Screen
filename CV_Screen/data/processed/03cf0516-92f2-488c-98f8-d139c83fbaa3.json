@@ -1,0 +1,115 @@
+﻿{
+  "full_name": "Nguyen Tung",
+  "applied_position": "Director",
+  "gender": "Nam",
+  "dob": "17/09/1982",
+  "email": "",
+  "address": "Hà Nội, Quận Hoàng Mai, Thành phố Hà Nội",
+  "phone": "",
+  "skills": [
+    "Công Nghệ Thông Tin",
+    "Java",
+    "Javascript",
+    "Japanese",
+    "Software",
+    "Điện Tử Viễn Thông",
+    "Phần Cứng",
+    "Organizational Skill",
+    "Java Web",
+    "ICT"
+  ],
+  "experience": [
+    {
+      "title": "Director",
+      "company": "OnlineCRM (Chi nhánh Hà Nội)",
+      "duration": "10/2019 - Hiện tại",
+      "responsibilities": [
+        "Giám đốc chi nhánh miền bắc.",
+        "Chịu trách nhiệm về tất cả các phần mềm CRM của doanh nghiệp.",
+        "Tư vấn khách hàng, tư vấn giải pháp."
+      ]
+    },
+    {
+      "title": "CTO",
+      "company": "Thời trang Elise",
+      "duration": "4/2017 - 12/2019",
+      "responsibilities": [
+        "Kế hoạch phát triển Elise và quản lý vận hành công nghệ thông tin hệ thống cơ sở hạ tầng của Elise;",
+        "Xây dựng quy trình, kế hoạch và tổ chức thực hiện công tác đảm bảo bảo mật và an toàn thông tin của Elise;",
+        "Phối hợp làm việc với các trung tâm, phòng ban trong công ty để tổ chức nguồn lực để tham gia vào việc thực hiện các kế hoạch cơ sở hạ tầng liên quan dự án kinh doanh của khách hàng;",
+        "Xây dựng kế hoạch nhân sự và quản lý công việc của nhân viên kỹ thuật trong Hệ thống Phòng hành chính nhân sự.",
+        "Báo cáo định kỳ và theo yêu cầu của Ban Giám đốc về thông tin của Elise hạ tầng công nghệ và hệ thống an toàn thông tin.",
+        "Chịu trách nhiệm phát triển hệ thống CNTT phần mềm: Là đầu mối làm việc với các nhà cung cấp, các đối tác triển khai các dự án CNTT.",
+        "Tìm hiểu, phân tích và triển khai CNTT để chuyên nghiệp hóa các hoạt động, quy trình làm việc của các phòng ban.",
+        "Quản trị và vận hành các hệ thống phần mềm (ERP, CRM, các phần mềm tiện ích để hỗ trợ các hoạt động kinh doanh).",
+        "Chịu trách nhiệm triển khai và quản lý hệ thống CNTT phần cứng: Hệ thống máy chủ, Mạng wan, lan, Hệ thống tường lửa, Hệ thống tổng đài kết nối 2 site, Hệ thống camera, Hệ thống máy tính, email, điện thoại,…. ",
+        "Nghiên cứu, đề xuất ứng dụng công nghệ mới vào hoạt động kinh doanh.",
+        "Đào tạo, hướng dẫn sử dụng CNTT cho các bộ phận.",
+        "Xây dựng và kiểm soát việc thực hiện các quy định về an toàn thông tin.",
+        "Tổ chức công việc và quản lý nhân sự bộ phận CNTT.",
+        "Các công việc khác do Ban Giám đốc yêu cầu."
+      ]
+    },
+    {
+      "title": "IT Director",
+      "company": "ABCGROUP.",
+      "duration": "6/2010 - 3/2017",
+      "responsibilities": [
+        "Kiểm soát tất cả CƠ SỞ DỮ LIỆU của phần mềm tất cả các Phòng.",
+        "Mã hóa, sửa chữa và viết mềm mới cho bất kỳ mục đích nào.",
+        "Luôn kiểm tra PC, UPS, Máy in và tất cả các thiết bị hoạt động.",
+        "Giao diện đến và đi từ Hệ thống Quản lý Tài sản Front Office và các hệ thống khác.",
+        "Quản lý Máy chủ Email.",
+        "Máy POS.",
+        "Hệ thống tổng đài.",
+        "Kết nối. (Cáp, Swiths, Modems ……)",
+        "Hệ thống cửa an ninh và camera ..",
+        "Quản lý tất cả các cách dữ liệu Inside, Outsite.",
+        "Báo cáo cho Quản lý nếu xảy ra sai sót.",
+        "Đào tạo để cung cấp thông tin cho nhân viên về Phần mềm mới."
+      ]
+    },
+    {
+      "title": "IT manager",
+      "company": "Câu lạc bộ Hà Nội",
+      "duration": "5/2007 - 5/2010",
+      "responsibilities": [
+        "Luôn kiểm tra PC, UPS, Máy in và tất cả các thiết bị hoạt động.",
+        "Giao diện đến và đi từ Hệ thống Quản lý Tài sản Front Office và các hệ thống khác.",
+        "Quản lý Máy chủ Email.",
+        "Máy POS.",
+        "Hệ thống tổng đài.",
+        "Kết nối. (Cáp, Swiths, Modems ……)",
+        "Hệ thống cửa an ninh và camera ..",
+        "Quản lý tất cả các cách dữ liệu Inside, Outsite.",
+        "Báo cáo cho Quản lý nếu xảy ra sai sót.",
+        "Đào tạo để cung cấp thông tin cho nhân viên về Phần mềm mới."
+      ]
+    },
+    {
+      "title": "IT Manager",
+      "company": "SATOVIETNAM",
+      "duration": "5/2004 - 5/2007",
+      "responsibilities": [
+        "Quản lý hệ thống bao gồm: Cấu hình / quản trị Windows 2003 Server / Windows XP, Cấu hình / quản trị DNS / WINS / DHCP, Cấu hình / quản trị RAS / IIS / Dịch vụ máy chủ đầu cuối, Quản trị AD trên môi trường mạng quy mô lớn, Cấu hình / quản trị bộ định tuyến Cisco / phần cứng viễn thông, Cấu hình / quản trị MS SQL 2000/2005 Server, Tuân thủ các tiêu chuẩn bảo mật CNTT của công ty, Kiến thức cơ bản về ứng dụng Solomon hoặc hệ thống ERP tương đương, Kiến thức cơ bản về Java / ASP / SQL.",
+        "Phân tích yêu cầu và xác định yêu cầu trên mạng (hình thức sử dụng, yêu cầu kết nối, nhu cầu hiệu suất xử lý, yêu cầu bảo mật, yêu cầu nền kinh tế và lập kế hoạch trong tương lai).",
+        "Thiết kế toàn bộ hệ thống mạng (Quyết định chính sách liên quan đến dự báo hiệu suất, đảm bảo độ tin cậy và quyết định chính sách bảo mật, phương pháp quản lý mạng).",
+        "Quyết định phương án triển khai hệ thống mạng (lắp đặt, thực hiện quy trình thi công và hệ thống thí điểm).",
+        "Thi công lắp đặt và thi công hệ thống mạng.",
+        "Thực hiện kiểm tra đặc tả hệ thống mạng và thực hiện kiểm tra.",
+        "Công nghệ phần tử mạng truyền thông TCP / IP / UDP / ICMP / IPv6 / VoIP.",
+        "Truyền thông mạng server LAN, WAN, IP-VPN, wide Ethernet, wirelessLAN, kỹ thuật XDSL.",
+        "Mạng thiết kế: LAN, WAN.",
+        "Duy trì mạng: Equitment, Officetools ..",
+        "Công nghệ của Nexans, Alcatel Sản phẩm: Cables & Accesslori, Siwtch, FireWall, Router…. (Cấu hình và hỗ trợ).",
+        "Máy tính để bàn máy tính trợ giúp."
+      ]
+    }
+  ],
+  "university": "Thai Nguyen University of Technology",
+  "major": "Electronics and Telecommunication",
+  "gpa": "",
+  "certifications": [
+    "CCNA (CISSCO SYSTEMS)"
+  ]
+}

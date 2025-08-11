@@ -1,0 +1,54 @@
+﻿{
+  "full_name": "NGUYEN THI THANH PHUONG",
+  "applied_position": "RECRUITMENT STAFF",
+  "gender": "Female",
+  "dob": "15/04/2000",
+  "email": "",
+  "address": "32-34 Lam Van Ben Street, Tan Thuan Tay Ward, Ho Chi Minh City.",
+  "phone": "",
+  "skills": [
+    "TEAMWORK",
+    "HANDING THE SITUATION",
+    "STORE AND ORGANIZE PAPERWORK",
+    "MANAGE PERSONNEL RECORDS",
+    "CLASSIFY AND PROFILE CANDIDATES",
+    "TIME MANAGEMENT",
+    "INFORMATION TECHNOLOGY",
+    "ENGLISH"
+  ],
+  "experience": [
+    {
+      "title": "Customer care consultant",
+      "company": "TRAN TRAN PERFECT SKIN COMPANY LIMITED",
+      "duration": "02/2018-09/2018",
+      "description": "Consulting products over the phone, introducing products and promotions to member customers. Supporting to answer questions and complaints of customers when necessary. Working directly with the shipping unit about the status of goods before, during and after completing the order."
+    },
+    {
+      "title": "Full-time recruitment and human resources administrative intern",
+      "company": "REPRESENTATIVE OFFICE OF RUDOLF LIETZ, INC.",
+      "duration": "08/2023-10/2023",
+      "description": "Search, filter, conduct preliminary interviews as well as arrange interview appointments for candidates. Complete administrative documents, build job descriptions and job analysis for each recruitment position. Receive requests to organize monthly, quarterly and major events during the year, from there make plans, estimate costs, prepare and decorate according to the requirements of superiors."
+    }
+  ],
+  "university": "HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY (HUTECH)",
+  "major": "Business Administration - Human Resource Management",
+  "gpa": "2.8/4.0",
+  "certifications": [
+    {
+      "name": "COMMUNICATION AND TEAMWORK SKILL CERTIFICATE",
+      "date": "11/2022"
+    },
+    {
+      "name": "CERTIFICATE OF ENGLISH PROFICIENCY B1",
+      "date": "12/2023"
+    },
+    {
+      "name": "IMPORT - EXPORT CERTIFICATE",
+      "date": "02/2024"
+    },
+    {
+      "name": "APPLIED COMPUTER SCIENCE COURSE (WORD; EXCEL)",
+      "date": "09/2024"
+    }
+  ]
+}

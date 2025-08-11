@@ -1,0 +1,37 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Kỹ sư phần mềm",
+  "gender": "Nam",
+  "dob": "01/01/1995",
+  "email": "nva@example.com",
+  "address": "Số 123, Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0912345678",
+  "skills": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "C++",
+    "Spring Boot",
+    "ReactJS",
+    "Node.js",
+    "Django",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "Jira",
+    "Tiếng Anh (IELTS 7.0)"
+  ],
+  "experience": [
+    "Kỹ sư phát triển phần mềm | Công ty Tech Solution | 01/2020 – Hiện tại\nMô tả: Tham gia phát triển các ứng dụng web sử dụng Java Spring Boot và ReactJS; Thiết kế và triển khai API RESTful; Hỗ trợ bảo trì và nâng cấp hệ thống.",
+    "Thực tập sinh phần mềm | Công ty Startup XYZ | 06/2019 – 12/2019\nMô tả: Hỗ trợ team phát triển tính năng mới cho ứng dụng di động; Viết unit test và thực hiện debug mã nguồn."
+  ],
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Kỹ thuật phần mềm",
+  "gpa": "3.5/4.0",
+  "certifications": [
+    "AWS Certified Solutions Architect – Associate (2021)",
+    "ISTQB Certified Tester Foundation Level (2020)"
+  ]
+}

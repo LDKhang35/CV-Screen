@@ -1,0 +1,44 @@
+﻿{
+  "full_name": "QUANGHUYCHU",
+  "applied_position": "",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "",
+  "phone": "(+81)7043849325",
+  "skills": [
+    "Python (4 years)",
+    "SQL (2 years)",
+    "R",
+    "HTML/CSS",
+    "AWS",
+    "Spark",
+    "Airflow",
+    "BI Tools (Tableau, PowerBI)",
+    "Python Web framework (Django, Flask)",
+    "Database (PostgresSQL, MySQL, Cassandra, MongoDB)",
+    "English",
+    "Japanese",
+    "Vietnamese"
+  ],
+  "experience": [
+    {
+      "title": "Data Engineer",
+      "company": "FPT Japan Software",
+      "location": "Osaka, Japan",
+      "duration": "4/2021-Present",
+      "description": "Working in a on-site team directly with B2B customer to build, deploy and maintain data pipelines of an Analysis/Reporting dashboard service for multiple businesses such as Railway, Building, Hotel, and Convenience store. Mainly working with Python 3, PrestoSQL, combine with other platforms: Amazon Web Services (AWS): Lambda, ECS, S3, RDS, Glue, Athena; Tableau for data visualization, reporting."
+    }
+  ],
+  "university": [
+    "Nagaoka University of Technology",
+    "Ho Chi Minh University of Technology"
+  ],
+  "major": "Electrical, Electronics and Communications",
+  "gpa": "",
+  "certifications": [
+    "Udacity Nanodegree Program Data Engineering",
+    "IBM Data Science Professional Certificate",
+    "Google Data Analytics Specialization"
+  ]
+}

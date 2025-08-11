@@ -1,0 +1,28 @@
+﻿{
+  "full_name": "Nguyễn Thị Ngọc Ánh",
+  "applied_position": "Chuyên viên Phân tích Dữ liệu",
+  "gender": "Nữ",
+  "dob": "10/05/2000",
+  "email": "ngocanh.data@example.com",
+  "address": "123 Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0912 345 678",
+  "skills": [
+    "Phân tích dữ liệu: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R (dplyr, ggplot2), Excel, Power BI, Tableau.",
+    "Thống kê và Mô hình hóa: Hồi quy, Phân loại, Chuỗi thời gian, K-means, PCA.",
+    "Trực quan hóa dữ liệu: Power BI, Tableau, Matplotlib, Seaborn, ggplot2.",
+    "Ngoại ngữ: Tiếng Anh (IELTS 7.0).",
+    "Kỹ năng mềm: Tư duy phản biện, Giải quyết vấn đề, Giao tiếp, Làm việc nhóm."
+  ],
+  "experience": [
+    "Chuyên viên Phân tích Dữ liệu | Công ty TNHH Giải pháp Dữ liệu Thông minh (06/2022 - Hiện tại)",
+    "Thực tập sinh Phân tích Dữ liệu | Ngân hàng TMCP Phương Đông (03/2021 - 05/2022)"
+  ],
+  "university": "Đại học Kinh tế Quốc dân",
+  "major": "Kinh tế học",
+  "gpa": "3.6/4.0",
+  "certifications": [
+    "Google Data Analytics Professional Certificate (Coursera)",
+    "Microsoft Certified: Power BI Data Analyst Associate",
+    "IELTS (Academic) 7.0"
+  ]
+}

@@ -1,0 +1,77 @@
+﻿{
+  "full_name": "NGUYỄN ĐĂNG KHÔI",
+  "applied_position": "Quản Lý Trung Tâm",
+  "gender": "",
+  "dob": "01/05/1996",
+  "email": "",
+  "address": "50/4 liên tỉnh 5 phường 6 quận 8",
+  "phone": "",
+  "skills": [
+    "Setup và đào tạo kỹ năng chuyên môn F&B",
+    "Lên menu, chương trình",
+    "Chăm sóc khách hàng (CSKH)",
+    "Vận hành và giải quyết vấn đề trung tâm",
+    "Nghiên cứu và pha chế các loại thức uống mới",
+    "Quản lý trung tâm hội nghị tiệc cưới",
+    "Quản lý chuỗi cửa hàng",
+    "Vận hành và setup nhà hàng & resorts",
+    "Pha chế tổng hợp nâng cao"
+  ],
+  "experience": [
+    {
+      "title": "Quản lí điều hành",
+      "company": "Samten Hill",
+      "start_date": "04/2022",
+      "end_date": "01/2024",
+      "description": "vận hành setup nhà hàng & resorts Khu nghỉ dưỡng."
+    },
+    {
+      "title": "Quản lí chuỗi cửa hàng",
+      "company": "MONTE ROSA",
+      "start_date": "04/2020",
+      "end_date": "03/2022",
+      "description": "quản lí chuỗi cửa hàng ở các trung tâm thương mại"
+    },
+    {
+      "title": "Quản Lí",
+      "company": "Diamond Place",
+      "start_date": "05/2018",
+      "end_date": "01/2020",
+      "description": "quản lí trung tâm hội nghị tiệc cưới."
+    },
+    {
+      "title": "Tổ Trưởng",
+      "company": "Highlands Coffe",
+      "start_date": "03/2016",
+      "end_date": "03/2018",
+      "description": "tổ trưởng pha chế."
+    },
+    {
+      "title": "Tổ trưởng Pha Chế",
+      "company": "Viva Star",
+      "start_date": "2015",
+      "end_date": "05/2016",
+      "description": "nghiên cứu & pha chế các loại thức uống mới."
+    },
+    {
+      "title": "Tình nguyện viên",
+      "company": "Nhóm Tình Nguyện TOPCV",
+      "start_date": "10/2013",
+      "end_date": "08/2014",
+      "description": "Tập hợp các món quà và phân phát tới người vô gia cư. - Chia sẻ, động viên họ vượt qua giai đoạn khó khăn, giúp họ có những suy nghĩ lạc quan."
+    }
+  ],
+  "university": [
+    "Đại Học Nông Lâm",
+    "Hướng Nghiệp Á Âu"
+  ],
+  "major": [
+    "Quản Lí Nhà Hàng Khách Sạn",
+    "Pha chế tổng hợp"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Tốt nghiệp pha chế Hướng Nghiệp Á Âu 2015",
+    "Pha chế tổng hợp nâng cao"
+  ]
+}

@@ -1,0 +1,38 @@
+﻿{
+  "full_name": "Nguyễn Thị Thu",
+  "applied_position": "Nhân Viên Hành Chính Văn Phòng",
+  "gender": "Nữ",
+  "dob": "15 09 1992",
+  "email": "Nguyentail.com",
+  "address": "P. Tam Bình. TP Thủ Đức, Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Giao tiếp tốt",
+    "Làm việc nhóm",
+    "Chịu áp lực trong công việc"
+  ],
+  "experience": [
+    {
+      "title": "Nhân viên chăm sóc khách hàng",
+      "company": "Công ty Khương thịnh",
+      "duration": "04/2014 - 08/2015",
+      "description": "Tìm kiếm khách hàng và tư vấn khách hàng có nhu cầu; Chăm sóc khách hàng cũ và mới; Chốt đơn hàng; Từng đạt vị trí thứ 3 trong 1 dự án của công ty."
+    },
+    {
+      "title": "Nhân viên văn phòng",
+      "company": "Công ty TNHH Cường Lâm",
+      "duration": "04/2018 - 06/2021",
+      "description": "Chăm sóc khách hàng cũ và mới; Báo giá, lên đơn hàng, tìm kiếm hàng cho khách hàng; Tiếp nhận đơn hàng và điều phối giao hàng; Làm phiếu xuất nhập tồn, kiểm kê kho hàng tháng; Từng đạt nhân viên tiêu biểu năm 2019."
+    },
+    {
+      "title": "Nhân viên chăm sóc khách hàng",
+      "company": "Công Ty CP TM DV KT Cao Nam Phát",
+      "duration": "03/2022 - 05/2024",
+      "description": "Theo dõi lịch thay vật tư; Báo giá, lên đơn hàng, nhắc khách hàng lịch thay thiết bị định kỳ; Nhận thông tin từ khách hàng các vấn đề liên quan tới kỹ thuật hoặc hoá đơn và chuyển tới các bộ phận liên quan; Chăm sóc, tư vấn các dịch vụ mới, tìm kiếm thêm khách hàng mới; Chốt đơn hàng, lên lịch thực hiện."
+    }
+  ],
+  "university": "Cao đẳng kinh tế kỹ thuật vinatex tp hồ chí minh",
+  "major": "Quản trị kinh doanh",
+  "gpa": "Khá",
+  "certifications": []
+}

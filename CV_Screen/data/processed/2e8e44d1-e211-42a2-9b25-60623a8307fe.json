@@ -1,0 +1,99 @@
+﻿{
+  "full_name": "Tran Duc Anh",
+  "applied_position": "Project Manager",
+  "gender": "",
+  "dob": "26/11/1987",
+  "email": "",
+  "address": "Ha Noi, Vietnam",
+  "phone": "",
+  "skills": [
+    "Software Development",
+    "Hardware Deployment",
+    "Information System design",
+    "Engineering",
+    "English (good)",
+    "Vietnamese (native)",
+    "Quality Management",
+    "Project Management (Waterfall, Agile)",
+    "Change Management",
+    "Scheduled",
+    "Resources plan",
+    "Comunication"
+  ],
+  "experience": [
+    {
+      "company": "VTC digicom, Vietnam",
+      "position": "Technical project manager",
+      "duration": "2022 – Present",
+      "responsibilities": [
+        "Anticipated in requirement identification process with project sponsor and BA team to build user stories, systems requirements specifications, BRD for LMS, CMS, CRM, and loyalty systems.",
+        "Collaborated with DevOps and stakeholders to refactor, design, and implement cloud-native and on-premises solutions.",
+        "Consulted stakeholders on information systems, environments, and infrastructure based on systems requirements, and cyber securities requirements.",
+        "Compiled the project schedule plan, the resources plan and business case to higher management help kickstart the projects or sales action.",
+        "Engaged in preparation of bidding documents, successfully awarded more than 10 contracts.",
+        "Alliance leader of AWS with VTC Digicom. In addition, I work on the Openstack project and do coordinating the implementation of cloud-related projects."
+      ]
+    },
+    {
+      "company": "Viidc, Vietnam",
+      "position": "Project manager – Cofounder",
+      "duration": "2019 - 2022",
+      "responsibilities": [
+        "Established and expanded strategic partnership with solution provider for virtual realities and digital transformation, successfully consolidating partnerships with 10+ vendors.",
+        "Assembled and directed subcontractors and project team, overseeing seamless operations, and achieving the successful closure of multiple project phases using.",
+        "Consulted with clients to design and organize optimal tech stacks for delivering solutions, resulting in the successful delivery of over twenty solutions to satisfied customers, resulting in a 95% customer satisfaction rate.",
+        "Conducted in-depth research and analysis of virtual reality and related technologies markets, providing crucial insights to the management board for investment decisions resulting in an 80% success rate in profitable investments."
+      ]
+    },
+    {
+      "company": "Hanelcom, Vietnam",
+      "position": "Technical lead/ project manager",
+      "duration": "2016 – 2020",
+      "responsibilities": [
+        "Lead team of more than 20 engineers, successfully delivered 9 information systems (Fiber optical network, LAN network, IT equipment, CCTV, Servers, and Storage equipment …) and 2 softwares packages of Hanoi - metro line 3 project.",
+        "Empowered communication skill in Interface with 9 other sub-groups, the consultant, project sponsor as well as PMO in Hanoi - metro line 3 project.",
+        "Supervised the risk plan and change documentation such as configuration, change request…",
+        "Collaborated closely with French subject matter experts in metro to customize the system design and functions development to align with and project requirements and standards of Hanoi - metro line 3 project management board.",
+        "Engaged in formulating the project proposal and contract negotiation for contractual packages 6c, 6e, 9 of Hanoi - metro line 3 project and other projects.",
+        "Spearheaded in preparation of project schedule, work breakdown structure, project budget, resources plan, technical documents, bidding documents, technical design, acceptance documents.",
+        "Utilized data-driven insights to strategize and optimize project workflows and resource allocation, improved order fulfillment by 20%.",
+        "Planned and prepared work package deployments of DR site (Network, and storage solution) at Hanel DC.",
+        "Collaborated with developer team, designed system architecture, overseeing successful migration and deployment of disaster recovery site with zero downtime for a large-scale IoT device monitoring and data collection system, supporting over 100,000 devices."
+      ]
+    },
+    {
+      "company": "AGRIBANK",
+      "position": "Technical project officer",
+      "duration": "2013 – 2016",
+      "responsibilities": [
+        "Planned and Deployed software solution and hardware package for Branch and office.",
+        "Prepared Project documents such as system requirements and planning budget according to Agribank regulations."
+      ]
+    },
+    {
+      "company": "TOPEXPRESS HK",
+      "position": "Technical project officer",
+      "duration": "2010 – 2013",
+      "responsibilities": [
+        "Conducted and completed more than 500 survey reports for NodB site.",
+        "Scheduled and monitored installation activities for over 1500 NodeB of EVN Telecom 3G network.",
+        "Scheduled and managed commissioning activities for EVN Telecom 3G network, joined over 1000 NodeB to the network with 90% NodeB turn on without technical issues.",
+        "Validated handover report for more than 1500 NodeB while successfully negotiated to close 100% of issues list.",
+        "Acted as Brcs Engineer for team of 5 Developers, success on handover 3G networks monitoring system with over 100 usecases.",
+        "Validated and closed optimization phase for 100 NodeB site in Bangkok Thailand for Truemove 3G network."
+      ]
+    }
+  ],
+  "university": "Hanoi University of Science and Technology",
+  "major": "Computer sciences",
+  "gpa": "",
+  "certifications": [
+    "Google specialization of project management",
+    "Scrum/agile training",
+    "Thales KPI and Procedure for project deployment",
+    "Certification for Plan and Management IT project",
+    "Certification for Monitor of IT project",
+    "Certification for installation manager of IT project",
+    "Certification for bidding manager of IT project"
+  ]
+}

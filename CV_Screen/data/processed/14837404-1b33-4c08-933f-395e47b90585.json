@@ -1,0 +1,15 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Chuyên viên phân tích dữ liệu",
+  "gender": "Nam",
+  "dob": "15/05/1998",
+  "email": "nguyen.van.a@example.com",
+  "address": "Số 123, Đường XYZ, Quận ABC, TP.HCM",
+  "phone": "0912 345 678",
+  "skills": "Phân tích dữ liệu: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R (dplyr, ggplot2); Trực quan hóa dữ liệu: Tableau, Power BI, Excel; Machine Learning: Scikit-learn, TensorFlow, Keras; Ngôn ngữ: Tiếng Việt (Bản ngữ), Tiếng Anh (IELTS 7.0)",
+  "experience": "Data Analyst - Công ty TNHH Giải pháp Dữ liệu Thông minh (06/2022 - Hiện tại): Phân tích dữ liệu khách hàng, hành vi người dùng để tối ưu chiến dịch marketing; Xây dựng các báo cáo tương tác và dashboard bằng Tableau/Power BI; Hỗ trợ team phát triển sản phẩm trong việc định hướng dữ liệu.\nThực tập sinh Phân tích Dữ liệu - Ngân hàng TMCP Dịch vụ Số (01/2022 - 05/2022): Thu thập và làm sạch dữ liệu từ nhiều nguồn khác nhau; Tham gia xây dựng mô hình dự đoán xu hướng thị trường.",
+  "university": "Đại học Bách Khoa, Đại học Quốc gia TP.HCM",
+  "major": "Khoa học Máy tính",
+  "gpa": "3.5/4.0",
+  "certifications": "Google Data Analytics Professional Certificate; Microsoft Certified: Azure Data Scientist Associate; IELTS 7.0 (Academic)"
+}

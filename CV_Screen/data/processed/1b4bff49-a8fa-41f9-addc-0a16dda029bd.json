@@ -1,0 +1,43 @@
+﻿{
+  "full_name": "QUACH BAO HUNG",
+  "applied_position": "Manual Tester",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Binh Thanh District, HCMC",
+  "phone": "",
+  "skills": [
+    "Test Management",
+    "Test Execution & Reporting",
+    "Analysis & Improvement",
+    "Functional & System Testing",
+    "Integration Testing",
+    "API Testing",
+    "Performance Testing",
+    "Continuous Learning",
+    "Process Improvement & Innovation"
+  ],
+  "experience": [
+    {
+      "title": "MANUAL TESTER",
+      "company": "VMED GROUP JOIN STOCK COMPANY",
+      "dates": "May 2023 - Aug 2024"
+    },
+    {
+      "title": "MANUAL TESTER",
+      "company": "QAS CORPORATION",
+      "dates": "May 2022 - May 2023"
+    },
+    {
+      "title": "MANUAL TESTER",
+      "company": "FPT Telecommunication Joint Stock Company",
+      "dates": "May 2021 - May 2022"
+    }
+  ],
+  "university": "University of Information Technology",
+  "major": "Information Systems",
+  "gpa": "Good",
+  "certifications": [
+    "TOEIC: 600"
+  ]
+}

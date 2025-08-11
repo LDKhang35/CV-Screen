@@ -1,0 +1,116 @@
+﻿{
+  "full_name": "NHUNG HOÀNG",
+  "applied_position": "OPERATION MANAGER",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Tan Quy District 7 HCMC",
+  "phone": "",
+  "skills": [
+    "Strategic Planning",
+    "Operations Management",
+    "Personnel and Facilities Management",
+    "Business Analysis",
+    "Technology Application",
+    "Agency/Department Coordination",
+    "Cost Management",
+    "Digital Marketing (GDN system, DSP, Adnetwork, Facebook Ads)",
+    "Online Marketing Solutions Presentation",
+    "Proposal Development",
+    "Account Portfolio Management",
+    "Client Relationship Management",
+    "Campaign Tracking",
+    "Project Management (Planning, Budgeting, Documentation, Risk Management)",
+    "Brand Management (360-degree marketing strategy)",
+    "Customer Service",
+    "Supplier Interaction",
+    "Employee Recruitment and Training",
+    "Financial Analysis",
+    "Business Opportunity Identification",
+    "Sales Development"
+  ],
+  "experience": [
+    {
+      "title": "General Manager Operations and Head of Marketing",
+      "company": "NewStyle Service And Entertainment",
+      "location": "HCMC",
+      "dates": "2024 - 2024",
+      "responsibilities": [
+        "Take full responsibility for the company's brand and 360-degree marketing strategy",
+        "Provide good customer service, interact with suppliers, recruit and train employees",
+        "Work with department managers to implement plans and policies throughout the organization, coordinate business operations, and monitor and motivate employees",
+        "Allocating budget resources, coordinating budget policies, managing operating costs",
+        "Analyze the company's financial statements and other performance indicators to assess financial position and position",
+        "Identify business opportunities, plan to upgrade equipment and facilities to ensure service quality"
+      ]
+    },
+    {
+      "title": "Project Manager",
+      "company": "TCM - BLTL & ABTL Agency",
+      "location": "HCMC",
+      "dates": "2017 - 2017",
+      "responsibilities": [
+        "Planned, budgeted, overseed and documented all aspects of the specific project",
+        "Worked closely with upper management to make sure that the scope and direction of each project is on schedule",
+        "Worked with other departments for support",
+        "Identified and managed risks to ensure delivery is on time",
+        "Implemented any necessary changes throughout the process",
+        "Reported regularly to management and the client",
+        "Closed the project - including evaluating successes and challenges"
+      ]
+    },
+    {
+      "title": "Digital Account Executive",
+      "company": "Ureka Media",
+      "location": "HCMC",
+      "dates": "2015 - 2015",
+      "responsibilities": [
+        "Specializing in digital marketing (GDN system, DSP, Adnetwork, Facebook Ads)",
+        "Introducing and presenting online marketing solutions to client",
+        "Making plan & proposal base on client's brief",
+        "Managing a portfolio of accounts",
+        "Maintaining and expending relationships with client",
+        "Working with both client and media team",
+        "Tracking and ensuring campaign running smoothly"
+      ]
+    },
+    {
+      "title": "Account Manager",
+      "company": "ORIENTAL MEDIA VIETNAM - Travel/Resort/Watch Magazine",
+      "location": "HCMC",
+      "dates": "2014 - 2014",
+      "responsibilities": [
+        "Took care for customer accounts relating to F&B and Resorts & Spas, Horeca channel (4-5*)",
+        "Kept relationship with customer",
+        "Responsible for the development and achievement of sales",
+        "Focused on growing and developed existing customer, together with generated new business",
+        "Managed a portfolio of accounts",
+        "Maintained and expanded relationships with existing customer"
+      ]
+    },
+    {
+      "title": "Deputy Head of Mission Assistant",
+      "company": "EMBASSY OF THE ARGENTINE REPUBLIC IN VIETNAM",
+      "location": "HCMC",
+      "dates": "2012 - 2012",
+      "responsibilities": [
+        "In charge of Viet Nam’s Foods and Beverage companies",
+        "Searched the information of the companies and their boards",
+        "Contacted and invited them to the Viet Nam – Argentina trading conference",
+        "Followed and reminded them to send the form to attend",
+        "Arranged meetings for Vietnam and Argentina companies",
+        "Welcomed companies to the meeting occurred at Sheraton Hotel, HCMC"
+      ]
+    }
+  ],
+  "university": [
+    "HCMC University of Foreign Languages - Information Technology (HUFLIT- HCMC)",
+    "Phu Nhuan Highschool - HCMC",
+    "TIANJIN College of Commerce - TCC"
+  ],
+  "major": "Bachelor of Business Administration (BBA), International Business Administration",
+  "gpa": "",
+  "certifications": [
+    "Chinese Training Programme - 6 months (TIANJIN College of Commerce, 2019)"
+  ]
+}

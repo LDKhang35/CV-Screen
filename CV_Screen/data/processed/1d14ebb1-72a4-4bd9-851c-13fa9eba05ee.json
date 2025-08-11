@@ -1,0 +1,49 @@
+﻿{
+  "full_name": "Phan Quốc Hùng",
+  "applied_position": "TRƯỞNG PHÒNG KINH DOANH",
+  "gender": "",
+  "dob": "01/12/1998",
+  "email": "",
+  "address": "Cổ Nhuế- Bắc Từ Liêm- Hà Nội",
+  "phone": "",
+  "skills": [
+    "Quản lý đội nhóm",
+    "Tư duy bán hàng",
+    "Giao tiếp và xử lý tình huống",
+    "Phân tích thị trường",
+    "Xây dựng quy trình bán hàng"
+  ],
+  "experience": [
+    {
+      "title": "TRƯỞNG NHÓM KINH DOANH",
+      "company": "Công ty Cổ phần Giáo dục và Công nghệ Hùng Vương",
+      "duration": "3/2022 - 12/2022",
+      "description": [
+        "Giới thiệu, tư vấn, thuyết phục khách hàng sử dụng sản phẩm của công ty",
+        "Tối ưu kịch bản bán hàng, bộ câu hỏi xử lý từ chối để tăng tỷ lệ chuyển đổi từ 9% lên 13%",
+        "Điều hướng kịch bản bán hàng theo hướng cá nhân hóa giúp tăng giá trị trung bình các đơn hàng",
+        "Đảm bảo tỷ lệ chuyển đổi và doanh số của cá nhân và đội nhóm",
+        "Báo cáo tiến độ kinh doanh theo tuần, tháng và đề xuất giải pháp cho quản lý",
+        "Doanh số nhóm cao nhất tháng 800.000.000đ"
+      ]
+    },
+    {
+      "title": "TRƯỞNG PHÒNG KINH DOANH",
+      "company": "Công ty Cổ phần Giáo dục và Công nghệ Hùng Vương",
+      "duration": "12/2022 - 5/2024",
+      "description": [
+        "Quản lý, đào tạo, dẫn dắt đội ngũ sale quy mô 20 nhân sự fulltime đảm bảo mục tiêu doanh thu KPI phụ trách 1.800.000.000đ/tháng",
+        "Xây dựng kịch bản, quy trình bán hàng Telesale, thường xuyên cập nhật, tối ưu để nâng cao doanh số, tỷ lệ chuyển đổi",
+        "Xây dựng kế hoạch kinh doanh, theo dõi quá trình thực hiện và chịu trách nhiệm về kết quả của Team",
+        "Xây dựng Timeline làm việc, quy trình chăm sóc data đảm bảo tỷ lệ chuyển đổi ở mức 10-12%",
+        "Tuyển dụng, đào tạo, đánh giá nhân sự mới, mở rộng quy mô từ 10 lên 18 nhân sự trong 2 tháng, doanh số tăng trưởng 35%",
+        "Quản trị, theo dõi hiệu suất nhân sự qua các bộ chỉ số công việc qua đó có hành động và hỗ trợ kịp thời như tái đào tạo, review quy trình làm việc, sửa log... nhằm duy trì hiệu suất kinh doanh ở mức >85%",
+        "Lập báo cáo hàng ngày, tuần, tháng để có những đánh giá nhân sự và các vấn đề khác tham mưu cho Giám Đốc"
+      ]
+    }
+  ],
+  "university": "HA NOI TOURISM COLLEGE",
+  "major": "QUẢN TRỊ KHÁCH SẠN",
+  "gpa": "Giỏi",
+  "certifications": []
+}

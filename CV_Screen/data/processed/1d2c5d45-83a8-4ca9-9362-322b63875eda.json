@@ -1,0 +1,27 @@
+﻿{
+  "full_name": "NGUYỄN THẮNG TÀI",
+  "applied_position": "NHÂN VIÊN KINH DOANH",
+  "gender": "Male",
+  "dob": "19/05/1993",
+  "email": "",
+  "address": "Bình Tú, Thang Binh District, Quang Nam, Vietnam",
+  "phone": "",
+  "skills": [
+    "Bán hàng",
+    "Giao tiếp",
+    "Làm việc nhóm",
+    "Lãnh đạo",
+    "Kết nối với khách hàng"
+  ],
+  "experience": [
+    "10/2022 - 05/2023 : Trưởng Phòng Kinh Doanh - CÔNG TY TNHH TM&DV ELECTRIC CARE SOLUTION",
+    "2/2022 - 8/2022 : Đại Diện Kinh Doanh - CÔNG TY CỔ PHẦN TẬP ĐOÀN DAT",
+    "4/2020 - 2/2022 : Sales Engineer - TNHH Điện Tự Động Thuận Nhật ( IAS ) & Cty TNHH Hoàng Vina"
+  ],
+  "university": "Cao Đẳng Nghề Đà Nẵng",
+  "major": "Điện Công Nghiệp",
+  "gpa": "Giỏi",
+  "certifications": [
+    "BẰNG LÁI XE B2"
+  ]
+}

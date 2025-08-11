@@ -1,0 +1,41 @@
+﻿{
+  "full_name": "LÊ NHẬT LÂM",
+  "applied_position": "NHÂN VIÊN KINH DOANH",
+  "gender": "",
+  "dob": "10/12",
+  "email": "",
+  "address": "Vườn Lài, An Phú Đông, Quận 12",
+  "phone": "",
+  "skills": [
+    "Kỹ năng giao tiếp, tư vấn",
+    "Khả năng tiếp cận công nghệ nhanh",
+    "Làm việc nhóm, làm việc độc lập",
+    "Chịu được áp lực công việc",
+    "Vui vẻ, hòa đồng với mọi người",
+    "Làm việc hết mình không ngại khó"
+  ],
+  "experience": [
+    {
+      "company": "Công ty TNHH Tân Kỹ",
+      "position": "Nhân viên kỹ thuật điện công nghiệp",
+      "duration": "2017-2018",
+      "description": ""
+    },
+    {
+      "company": "Công ty cổ phần Thế Giới Di Động",
+      "position": "Nhân viên All in one",
+      "duration": "07/2019-04/2024",
+      "description": "Nhân viên tư vấn bán hàng Điện tử điện lạnh, gia dụng tại Điện Máy Xanh.\nNhân viên All in one (Tư vấn bán hàng, Thu Ngân, Kho kiêm hỗ trợ kỹ thuật) tại cửa hàng Thế giới di động."
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN KỸ THUẬT & KHOA HỌC VĨNH KHANG",
+      "position": "Nhân viên kinh doanh",
+      "duration": "06/2024-09/2024",
+      "description": "Quản lý đội nhóm PG bán hàng tại chuỗi cửa hàng.\nXử lý các tồn đọng dẫn đến số bán giảm và các phát sinh từ nhân sự, đối tác.\nThúc đẩy số bán hàng ngày, hàng tuần.\nBáo cáo hàng ngày lên cấp trên."
+    }
+  ],
+  "university": "Trường Cao đẳng Điện lực",
+  "major": "Quản lý công nghiệp",
+  "gpa": "",
+  "certifications": ""
+}

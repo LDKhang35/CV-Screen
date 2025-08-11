@@ -1,0 +1,19 @@
+﻿{
+  "full_name": "Lê Quang Minh",
+  "applied_position": "Nhân Viên Văn Phòng",
+  "gender": "Nam",
+  "dob": "11-11-1988",
+  "email": "",
+  "address": "1a 203, ấp 1, Phạm Văn Hai, Bình Chánh, Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Tin học",
+    "Phần mềm",
+    "Tiếng Anh"
+  ],
+  "experience": "11-2017 03-2024: Quản lý tại Pouyen. Nhiệm vụ: Quản lý, sắp xếp công việc cho nhóm. Quản lý khuôn - kho, xuất kho cho hiện trường ép đế giày. Lập báo kiểm kê định kỳ: tài sản khuôn, số lượng sản xuất, số lượng xuất nhập hàng.",
+  "university": "Cao Đẳng công nghệ thông tin",
+  "major": "Công nghệ thông tin",
+  "gpa": "Khá",
+  "certifications": []
+}

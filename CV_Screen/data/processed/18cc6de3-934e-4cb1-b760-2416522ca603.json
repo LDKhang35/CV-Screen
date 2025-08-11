@@ -1,0 +1,62 @@
+﻿{
+  "full_name": "TRẦN TUẤN ANH",
+  "applied_position": "",
+  "gender": "Nam",
+  "dob": "06/02/1984",
+  "email": "",
+  "address": "Đặng Tiến Đông - Đống Đa - Hà Nội",
+  "phone": "",
+  "skills": [
+    "Tin học văn phòng: Sử dụng thành thạo các công cụ Word, Excel, Power Point",
+    "Tiếng Trung: Khả năng giao tiếp Tiếng Trung trôi chảy"
+  ],
+  "experience": [
+    {
+      "company": "Chuỗi cửa hàng thực phẩm BigGreen",
+      "position": "Quản lý kho",
+      "duration": "3/2024 - 9/2024",
+      "description": [
+        "Quản lý kho hàng, quản lý xuất nhập tồn, kiểm kê hàng hóa",
+        "Phối hợp với bộ phận kinh doanh để sắp xếp lịch giao nhận hàng hóa",
+        "Theo dõi số lượng hàng tồn kho, đảm bảo không xảy ra tình trạng thiếu hụt hoặc tồn kho",
+        "Tiến hành kiểm kê định kỳ, đối chiếu số liệu với sổ sách kế toán",
+        "Xử lý các vấn đề phát sinh liên quan đến kho hàng"
+      ]
+    },
+    {
+      "company": "Công ty TNHH Bảo hiểm nhân thọ Cathay Việt Nam",
+      "position": "Chuyên viên tư vấn bảo hiểm, Chăm sóc khách hàng",
+      "duration": "6/2023 - 3/2024",
+      "description": [
+        "Chuyên viên tư vấn bảo hiểm",
+        "Chăm sóc khách hàng"
+      ]
+    },
+    {
+      "company": "Công ty TNHH SX & TMDV Hùng Clê",
+      "position": "Quản lý kho, bán hàng",
+      "duration": "2021 - 6/2023",
+      "description": [
+        "Tư vấn, bán hàng, giới thiệu các sản phẩm phụ tùng xe máy",
+        "Lập báo giá, kiểm kê hàng hóa",
+        "Quản lý kho phụ tùng, lập báo cáo số lượng hàng hóa hàng ngày",
+        "Phụ trách quản lý đơn hàng, làm việc trực tiếp với các đơn vị vận chuyển",
+        "Giao hàng, phụ trách vận hành đơn hàng trên hệ thống"
+      ]
+    },
+    {
+      "company": "Công ty VMEP",
+      "position": "Nhân viên phòng Vật tư",
+      "duration": "2014 - 2020",
+      "description": [
+        "Nhân viên phòng vật tư, mua bán linh kiện, phụ tùng phục vụ sản xuất cho nhà máy",
+        "Tìm kiếm các đầu mối có giá cả cạnh tranh để đưa về báo giá tốt nhất",
+        "Lập báo cáo, tổng hợp báo giá, phụ trách giấy tờ, hóa đơn, làm việc trực tiếp với phòng kế toán"
+      ]
+    }
+  ],
+  "university": "Đại học Khoa học Kỹ thuật Hoa Trung",
+  "major": "Hán ngữ Đối ngoại",
+  "gpa": "",
+  "certifications": ""
+}

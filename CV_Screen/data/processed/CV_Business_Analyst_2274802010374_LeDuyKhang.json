@@ -1,0 +1,46 @@
+﻿{
+  "full_name": "LE DUY KHANG",
+  "applied_position": "Business Analyst Intern",
+  "gender": "",
+  "dob": "30/05/2004",
+  "email": "ld.khang305204@gmail.com",
+  "address": "An Phu Dong, District 12, Ho Chi Minh City",
+  "phone": "0961125575",
+  "skills": [
+    "Power BI",
+    "Python",
+    "SQL",
+    "Pandas",
+    "Numpy",
+    "Hadoop (basic)",
+    "Spark (basic)",
+    "MySQL",
+    "SQLite",
+    "MongoDB",
+    "GitHub",
+    "Docker",
+    "Google Colab",
+    "Linux",
+    "Strong teamwork abilities",
+    "Quick to learn new technologies",
+    "Proactive and highly responsible"
+  ],
+  "experience": [
+    {
+      "title": "ANIMAL IMAGE CLASSIFICATION USING CNN",
+      "role": "Build CNN model from scratch",
+      "duration": "01/2025 - 02/2025",
+      "description": "Built an image classification system for animals using Convolutional Neural Networks (CNN). Collected 26,200 images from Kaggle, performed preprocessing, and divided the dataset. Built and trained a CNN model from scratch using TensorFlow. Evaluated the model, visualized the training process, and developed a user-friendly interface. Achieved 92.41% accuracy on the test set."
+    },
+    {
+      "title": "LUNG CANCER PATIENT RECORDS MANAGEMENT USING HADOOP & SPARK",
+      "role": "Data processing and analysis using Spark, storing on HDFS",
+      "duration": "03/2025 - 04/2025",
+      "description": "Built a lung cancer patient management system. Collected dataset from Kaggle and performed data cleaning/preprocessing using Pandas. Stored data using Hadoop Distributed File System (HDFS). Built and trained a Random Forest model to predict disease risk. Used Spark to count common disease characteristics by age. Deployed a web app interface using Flask to display analysis results and support CSV uploads."
+    }
+  ],
+  "university": "Van Lang University",
+  "major": "Data Technology",
+  "gpa": "",
+  "certifications": ""
+}

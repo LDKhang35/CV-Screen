@@ -1,0 +1,155 @@
+﻿{
+  "full_name": "Trần Trung Khuyến",
+  "applied_position": "IT Technical Delivery Manager",
+  "gender": "",
+  "dob": "1986",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": [
+    "Cloud technologies (RDS, Kubernetes, Kafka, S3, SES, AWS cloud)",
+    "Open-source technologies (NodeJS, Golang, PHP, React Native, Elasticsearch)",
+    "Databases (MongoDB, Redis, MySQL, SQL Server, DB2 9.7)",
+    "API Management (Kraken, Kong, Digi runner)",
+    "Project/Task Management (Jira, Azure board)",
+    "Deployment (Jenkin)",
+    "Monitoring (New Relic, Grafana)",
+    "ERP (SAP ERP - SD, PP, MM, HR SuccessFactors)",
+    "CRM (Salesforce CRM)",
+    "Business systems (AX, BI, DMS, Echo-plus, E-contract, E-invoice, HR system, Financial workflow system, Tender system)",
+    ".NET technology",
+    "C#",
+    "ASP",
+    "MVC",
+    "LinQ",
+    "Ajax",
+    "Source Control (GitHub)",
+    "Quality (SonarQube)",
+    "RPA",
+    "Professional ethics",
+    "Industriousness",
+    "High sense of responsibility",
+    "Leadership skills",
+    "Proactive attitude",
+    "Budget management",
+    "Team management",
+    "Project management",
+    "Business analysis",
+    "Solution proposing",
+    "Technical architecture",
+    "Code and workflow standardization",
+    "Training",
+    "SOP documentation"
+  ],
+  "experience": [
+    {
+      "company": "PHARMACITY, Ho Chi Minh City",
+      "dates": "Mar 2022 - Current",
+      "role": "IT Technical Delivery Manager",
+      "responsibilities": [
+        "Report to the CIO and oversee a team of over 10 professionals (Backend, Frontend, Mobile, BA, Designer, and DevOps).",
+        "Ensure the smooth functioning of all internal IT applications.",
+        "Work towards enhancing the current system by implementing microservices and leveraging the AWS cloud.",
+        "Oversee the management of all in-house applications on AWS utilizing open-source technologies such as NodeJS, Golang, PHP, React Native, Mongo, Redis, and MySQL.",
+        "Successfully managed third-party integrations such as E-Contract and ensured API security using tools like Kraken, Kong, and Digi runner.",
+        "Developed standard code and workflow, built an engaged team, and positively impacted the team's behavior. Effectively planned and controlled the team.",
+        "Built the technical architecture including standard code/SonarQube; Source control (GitHub); Task control (Jira and azure board); Deployment (Jenkin); API gateway (Kraken); Monitoring (New Relic/Grafana).",
+        "Work closely with business owners, managing project delivery timelines, proposing solutions and best practices, and ensuring the timely delivery of results."
+      ],
+      "projects": [
+        "HR system, E-contract system, AI chatbot, Salesforce implementation with the vendor.",
+        "Manage the videos running at the store (control video running at the store on smart Tivi, staff office can be removed, or upload new videos on the web page).",
+        "Stock count at the store (built mobile app for pharmacists to count the stock at the store which will be integrated with the ERP system)."
+      ]
+    },
+    {
+      "company": "DKSH VIETNAM, Ho Chi Minh City",
+      "dates": "June 2018 – Mar 2022",
+      "role": "IT Business Solutions Manager",
+      "responsibilities": [
+        "Ensure smooth IT development, delivery, and maintenance for four different Business Units (BUs) - Healthcare, FMCG, Technology, and PM.",
+        "Manage a team of three people along with outsourced vendor teams, including Hitachi, VNPT, Planet Press from Thailand, and CRM-Thailand.",
+        "Owner of all in-house applications (web, Windows application, and windows services, API, SQL server, C#) and support the operation for global applications such as DMS, Echo-plus, and Salesforce CRM global.",
+        "Support the operation for taking orders with huge transactions and big data by web, PDA, or customer connect, and E-commerce order (Lazada) integration with SAP.",
+        "Support business following the government degree and Audit.",
+        "Propose solutions for business and IT Director.",
+        "Enhancing systems to scale up easily.",
+        "Integrated SAP ERP with in-house-developed applications (web-ordering, SAP contract, SAP pricing).",
+        "Integrated with a third-Party company such as B2B and Lazada for order processing.",
+        "Manage a team of 3 people and an outsourced vendors’ team to propose solutions, design, develop and support users; manage outsourced vendors and the global IT team to support business."
+      ],
+      "projects": [
+        "Redesign the web-order to adapt to business growth by enhancing SQL query and applying LinQ and Ajax (C#, SQL server, SAP).",
+        "SFA (Salesforce administration project to manage sales KPI and sales performance, and manage the sales mapping integrated with HEC echo-plus).",
+        "Upgrade DMS web and PDA system to enhance performance and apply new technology (MVC, new PDA application) for FMCG.",
+        "Develop SAP and Echo-plus for sales HEC to take the order on PDA and integrate with SAP to create the sales order.",
+        "Develop Full E-invoice systems with 32 Degrees (about 15,000 to 20,000 bills per day). Implement E-invoice for Agency with VNPT and Soft Dream vendor.",
+        "Develop a Tender system for full-agency clients and internal user access to control and manage the tender, update status win-fail, and integrate with SAP (ASP, C#, SQL server).",
+        "RPA for finance process: automation the workflow and replace human workload."
+      ],
+      "awards": [
+        "Committed to the DKSH award 2019.",
+        "HEC award in 2020 for a new entity project."
+      ]
+    },
+    {
+      "company": "MARICO SOUTHEAST ASIA, Ho Chi Minh City",
+      "dates": "Sep 2014 – June 2018",
+      "role": "Senior IT Supervisor, Applications",
+      "responsibilities": [
+        "Manage a team of 2 people.",
+        "Provide SAP ERP functional support for SD, PP, MM, HR SuccessFactors, and Master data.",
+        "Discuss with business users to understand requirements, write functional specifications, obtain sign-off, and work with the SAP team for configuration or enhancement.",
+        "Participate in all related SAP and Master data management portal projects implemented in VN.",
+        "Work with function heads to get requirements and discuss with the IT Head and the CFO to decide business processes and project priorities.",
+        "Review technical feasibility and work with the team to develop timelines for product development.",
+        "Manage projects to upgrade and enhance business system software. Create training and SOP documents and provide training.",
+        "Integrate SAP ERP with in-house-developed applications."
+      ],
+      "projects": [
+        "Planning and delivering the development of the financial workflow system (ASP, C#, SQL server).",
+        "SAP ERP implementation for the Food business go-live smoothly.",
+        "Successfully developed In-house application workflow systems such as Expense Claim, Travel request, Contract Management, In-direct procurement, document control (ASP, C#, SQL server)."
+      ],
+      "awards": [
+        "Group award - Team values award.",
+        "Excellent employee award."
+      ]
+    },
+    {
+      "company": "THÁI TUÂN GROUP/BEAUTY COSMETICS, Ho Chi Minh City",
+      "dates": "Sep 2008 – Sep 2014",
+      "role": "Developer and Business Analyst/ IT Supervisor, Applications",
+      "responsibilities": [
+        "Manage 1 person.",
+        "Managed all IT systems for the company (budget, help desk team, application team, and IT planning).",
+        "Collaborate with cross-functional teams in global locations to build software architectures that resolve complex business problems.",
+        "Work with senior management and executive staff to develop cohesive plans for the development of innovative software products.",
+        "End-to-end development process (BA -> DB Design -> Development -> Implementation).",
+        "SQL development for background jobs and enhancement of SQL query performance.",
+        "Ensure all systems work correctly and smoothly.",
+        "Support end users."
+      ],
+      "projects": [
+        "Implement a successful finance system /Sales system/ Inventory system and reduce order processing (ASP, C#, SQL server).",
+        "Implement successful documents Management/IT requirement/HR management (ASP, C#, SQL server)."
+      ],
+      "awards": [
+        "Award for the most improvement in 2013."
+      ]
+    }
+  ],
+  "university": [
+    "Mekong University",
+    "University of Science HCM",
+    "University of Economics"
+  ],
+  "major": [
+    "IT Engineer",
+    "Network admin"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Database DB2 9.7, IBM information management software"
+  ]
+}

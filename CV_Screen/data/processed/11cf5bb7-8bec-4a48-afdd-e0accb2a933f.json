@@ -1,0 +1,145 @@
+﻿{
+  "full_name": "Nguyen Thi My Thanh",
+  "applied_position": "",
+  "gender": "Female",
+  "dob": "August 4,1991",
+  "email": "",
+  "address": "352 Ten Lua Street, Binh Tri Dong B Ward, Binh Tan District, Ho Chi Minh City",
+  "phone": "",
+  "skills": [
+    "Communication skills",
+    "Ability to manage requirements of customers and partners",
+    "Capable of analyzing and evaluating the importance of each request to determine the order of priority",
+    "Good at writing documents and training employees",
+    "Studying by myself",
+    "Ability to work in groups and work independently",
+    "Ability to work in high pressure and challenging environment",
+    "Good knowledge of card payments (MasterCard, Visa, JCB, Napas)",
+    "Strong knowledge of E-Banking",
+    "Good knowledge of payment (e-commerce, ATM, Interfund transfer, online transaction)",
+    "Good knowledge of transaction processing flow (Card and E-Banking)",
+    "Experience in the implementation Card Management System Project",
+    "Experience in working and testing with many partners (Moca, VNPay, Napas)",
+    "Good knowledge of Banking Accounting",
+    "Strong knowledge of Chargeback Guide",
+    "Strong knowledge of specification documents about settlement in banking",
+    "Ability to understand IT technical language (ISO 8583)",
+    "Experience working according to the Agile model and Scrum process",
+    "Proficient in creating and managing requirements on relevant project management tools (Jira, Gitlab)",
+    "Good knowledge of E-commerce (inventory, products, price, Omnichannel)",
+    "Good knowledge of business analysis from e-commerce projects (inventory sync, product sync, order sync, API integration with 3rd parties)",
+    "High sense of responsibility",
+    "Teamwork",
+    "Ability to work in different working environments",
+    "Strong knowledge of business analysis from IT projects (Core Banking, Core Card, payment technologies)",
+    "Ability to keep calm under high pressure",
+    "Good knowledge about electricity collection, water collection, fee collection (SCC), Cooperative business",
+    "Strong knowledge of cycle EOD of the card system",
+    "Improving problem analysis and evaluation skills",
+    "Good at planning",
+    "Technical skills",
+    "Analytical skills",
+    "Problem solving skills",
+    "Negotiation and persuasion skills",
+    "Testing skills",
+    "Training skills",
+    "Honesty at work",
+    "Knowledge of accounting and card payment"
+  ],
+  "experience": [
+    {
+      "title": "Senior Business Analyst Specialist",
+      "company": "Haravan Technology Joint Stock Company",
+      "duration": "07/2022 - 08/2023 (1 year 1 month)",
+      "achievements": [
+        "Receiving all requests from customers.",
+        "Analyzing and evaluating the importance of each request to determine the order of priority.",
+        "Always update new information and propose optimal solutions for customers.",
+        "Planning solution design, business design for functions, modules according to customer requirements and developing use cases.",
+        "Writing URD, FSD.",
+        "Participate in product prototyping and mockups.",
+        "Communicate regularly with the technical team to clarify business requirements.",
+        "Support the QC team during testing.",
+        "Assist in the testing and verification of bugs and issues with the client.",
+        "Report weekly work or upon request from management."
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": "AlttekGlobal Joint Stock Company (ATG)",
+      "duration": "05/2021 - 07/2022 (1 year 2 months)",
+      "achievements": [
+        "Receiving, surveying and analyzing all requirements from customers to define business scope.",
+        "Analyze all business requirements.",
+        "Planning solution design, business design for functions, modules according to customer requirements.",
+        "Always listen to suggestions from management and colleagues to improve the solution.",
+        "Writing SRS, URD, FSD.",
+        "Work with QC to verify that all requirements of the system are fulfilled.",
+        "Assist in the testing and verification of bugs and issues with the client.",
+        "Report weekly work or upon request from management."
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Hoa Binh Investment Technology Trading Service Co., Ltd.",
+      "duration": "07/2019 - 03/2020 (8 months)",
+      "achievements": [
+        "Receiving, surveying, and analyzing all requirements from partners and users.",
+        "Analyzing requirements and data, describing business processes, and developing use cases.",
+        "Build and agree with project teams about functional and business descriptions and specifications for products and services.",
+        "Participate in product prototyping and mockups.",
+        "Ensure that solutions are in line with objectives, business strategies, and company technology standards.",
+        "Test product quality, support UAT testing, and deploy training for users.",
+        "Acting as the communication point between the client and the software development team (DEV).",
+        "Stay up to date on new business analysis trends and best practices, and share my knowledge with others."
+      ]
+    },
+    {
+      "title": "Team Leader of Chargeback and Risk Management",
+      "company": "Card Center - Orient Commercial Joint Stock Bank (OCB)",
+      "duration": "08/2017 - 06/2019 (1 year 11 months)",
+      "achievements": [
+        "Receiving all requests from customers and other Banks.",
+        "Analyzing and evaluating the importance of each request to determine the order of priority. Give feedback to customers and other Banks.",
+        "Lead the team to resolve disputes daily, monitoring transactions to prevent fraud and risk.",
+        "Check transaction data and make payment to organizations such as Mastercard, JCB, Napas, Moca, and Vnpay daily, and weekly.",
+        "Make monthly & quarterly & annual reports as required by Card Organizations.",
+        "Working with Technical teams and partners to update new features and payment utilities for customers.",
+        "Participate in a new card management system project.",
+        "Make a task list, and discuss it directly with the technical teams and partners to build.",
+        "Writing documents and training."
+      ]
+    },
+    {
+      "title": "Chargeback and Risk Management Specialist",
+      "company": "Card Center - NAM A Bank",
+      "duration": "01/2014 - 07/2017 (3 years 7 months)",
+      "achievements": [
+        "Receiving all complaint requests from customers in many channels such as e-commerce, purchase on pos, purchase via app, cash withdrawal ATM, and Interbank fund transfer.",
+        "Understand transaction data flow through all payment channels.",
+        "Check transaction data and make payment to organizations such as Mastercard, Napas, Vnpay, etc.",
+        "Contact other Banks to check the transactions online and offline.",
+        "Check invoice and settlement to Mastercard.",
+        "Resolve disputes daily, monitoring transactions to prevent fraud and risk.",
+        "Participate in a new card management system project."
+      ]
+    },
+    {
+      "title": "Accountant",
+      "company": "Card Center - NAM A Bank",
+      "duration": "01/2013 - 12/2013 (1 year)",
+      "achievements": [
+        "Carrying out the checking and reconciliation of card transaction data and clearing payment balances with MasterCard and Napas.",
+        "Accounting for settlement.",
+        "Balance data ATM.",
+        "Payment of annual fee."
+      ]
+    }
+  ],
+  "university": "Lac Hong University",
+  "major": "Finance",
+  "gpa": "",
+  "certifications": [
+    "Management for Middle Managers Course (40 hours in 2017 – PACE)"
+  ]
+}

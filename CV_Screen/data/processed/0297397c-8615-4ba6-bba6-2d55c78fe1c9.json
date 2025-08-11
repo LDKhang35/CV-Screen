@@ -1,0 +1,47 @@
+﻿{
+  "full_name": "Nguyễn Giang Nam",
+  "applied_position": "Trưởng phòng Sales",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Đồng Phú- Đồng Hới - Quảng Bình",
+  "phone": "",
+  "skills": [
+    "Thuyết trình",
+    "Chốt sale",
+    "Bán hàng",
+    "Quan sát"
+  ],
+  "experience": [
+    {
+      "company": "NOKIA VIỆT NAM",
+      "position": "NHÂN VIÊN THỊ TRƯỜNG (SALE)",
+      "start_date": "02/2012",
+      "end_date": "02/2015",
+      "description": "Thiết lập mạng lưới nhà phân phối, đại lý ở khu vực thông qua các hình thức: quảng cáo, giới thiệu chương trình khuyến mãi, thưởng. Tiếp cận chăm sóc khách hàng đại lý cũ - mới trong khu vực phụ trách: giải đáp những khó khăn, thắc mắc, đưa ra các chương trình khuyến mãi mới của công ty, bảng báo giá của công ty, hàng hóa dịch vụ."
+    },
+    {
+      "company": "SONY VIỆT NAM",
+      "position": "GIÁM SÁT KINH DOANH",
+      "start_date": "01/2015",
+      "end_date": "03/2024",
+      "description": "Quản lý, giám sát bán hàng mặt hàng Sony trong khu vực tỉnh Quảng Bình - Quảng Trị. Tuyển dụng đào tạo, quản lý nhân viên thị trường trong khu vực Quảng Bình - Quảng Trị. Nghiên cứu thị trường, phát triển tiêu thụ sản phẩm. Tìm kiếm thị trường phát triển khách hàng tiềm năng. Khai thác nhu cầu khách hàng, tạo niềm tin để họ hợp tác tiêu thụ sản phẩm của công ty. Tư vấn hỗ trợ nhà phân phối quản lý và phát triển hệ thống bán hàng. Thống kê, tổng hợp kết quả thực hiện nhiệm vụ hàng ngày và gửi báo cáo về công ty đúng giờ. Hiểu rõ ưu nhược điểm của sản phẩm, biết về sản phẩm và phương thức bán hàng của đối thủ cạnh tranh báo cáo thường xuyên về cho cấp trên. Đảm bảo doanh số chỉ tiêu và phát triển hàng tháng. Khuyến khích đảm bảo đại lý tham gia chương trình trưng bày, duy trì hình ảnh của nhãn hàng bằng các dụng cụ trưng bày của công ty cung cấp."
+    },
+    {
+      "company": "COCA COLA VIỆT NAM",
+      "position": "AUDITOR",
+      "start_date": "03/2024",
+      "end_date": "11/2024",
+      "description": "Giám sát việc trưng bày hoàng hóa khu vực tỉnh Quảng Bình, hỗ trợ cửa hàng về hàng hóa, tủ, quầy kệ Nokia khi bị hư hỏng, báo về công ty để kịp thời hỗ trợ cho cửa hàng. Báo cáo kết quả thanh kiểm tra và đề xuất giải pháp cải tiến. Đề xuất những cải tiến liên quan đến quá trình thanh kiểm tra chất lượng Điểm bán."
+    }
+  ],
+  "university": "ĐẠI HỌC QUỐC GIA TPHCM",
+  "major": "Công nghệ thông tin - Quản trị mạng",
+  "gpa": "",
+  "certifications": [
+    "Quản trị Mạng",
+    "Kế Toán (Issued: 27/02/2008, Expired: Unlimited)",
+    "Chuyên viên bán hàng chuyên nghiệp quốc tế SCPS (Issued: 15/05/2022, Expired: Unlimited)",
+    "Kỹ năng bán hàng Selling Skill KHÁ (Issued: 27/02/2021, Expired: Unlimited)"
+  ]
+}

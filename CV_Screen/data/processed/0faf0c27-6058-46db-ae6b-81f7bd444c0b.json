@@ -1,0 +1,47 @@
+﻿{
+  "full_name": "PHAM DO TU ANH",
+  "applied_position": "Product Owner / UX Researcher",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "HCM, Vietnam",
+  "phone": "",
+  "skills": [
+    "Data Analysis (SQL/ Python)",
+    "User Experience (UX)",
+    "Product Analysis",
+    "Customer Journeys",
+    "Market Research",
+    "Stakeholder Management",
+    "Knowledge of Scrum & Agile",
+    "Leadership"
+  ],
+  "experience": [
+    {
+      "title": "Product Owner",
+      "company": "Aeon Vietnam Corp (AEON E-commerce)",
+      "duration": "2023 - Present",
+      "description": "Take initiatives to help AEON E-commerce adopt a data-as-a-product mindset from traditional retail mindset.\nChange UX/UI which can help familiar with VN's customers shopping behavior based on user research.\nBuild AEON Member Point (loyalty program) to convert offline consumers to online channels."
+    },
+    {
+      "title": "UX Research Analyst",
+      "company": "BAEMIN - Woowa Brothers Vietnam",
+      "duration": "2021 - 2023",
+      "description": "Contribute to defining user segments in order to give input to new business verticals and define new experiences on BAEMIN app.\nAlign business strategies and user insights activities across multiple teams (Sales & Marketing; Strategy Office; Operation) throughout the product development process - from ideation to post launch - creating business impact.\nInform product decision by research practice to uncover user painpoint, in collaboration with UI/UX Designer & Writer, Data Analysts; Software Developers & multiple stakeholders across functions to influence product features.\nConduct experience tests, concept/feature tests, usability tests, exploratory interviews, etc. for the Product team to ensure that all work is high quality & meet business goals of the initiative.\nSupport to define & analyze product metrics and customer satisfaction to ensure products contribute to the company’s growth.\nUse quantitative data to help sharpen user insights, contributing in driving product and business outcome.\nBuilt & Monitored User/Merchant NPS as UX metrics at BAEMIN."
+    },
+    {
+      "title": "Senior UX Researcher & Product Management",
+      "company": "MOMO - Mobile Service Joint Stock Company",
+      "duration": "2020 - 2021",
+      "description": "Helped to inform strategies for many successful product concepts by researches: Tui Than Tai; Momo Insurance, etc.\nConducted ongoing market research and competitive analysis to possess in-depth knowledge of markets, customers, and products.\nIdentified product gaps and generated innovative ideas to expand market share, improve customer experience and drive growth.\nExecuted research projects from start to end (planning, fieldwork setup, data collection and analysis, report).\nBuilt personas, empathy map, customer journey map.\nResearched landscape & benchmarking features.\nConducted the stream of exploratory research (personas, empathy map, customer journey map, value proposition, concept test) to make informed business decisions for Tui Than Tai - MoMo Strategic Source of Fund. This is MoMo's best product of 2021, helping to increase MFU (Monthly Funded Users) by 58% and Payment Penetration Rate by 2 in less than 2 years.\nHelped to develop the product concept of Tui Than Tai 2021.\nNPS is a half-yearly tracking research project to measure product performance, make product improvements, record new problems & have an overall understanding of feedbacks from users/merchants.\nLac Xi Campaigns with heavy research involved to create attractive gameplay based on gamification model, epic meaning & user experience - gained 80% of users who have experienced felt satisfied & motivated to try new MoMo's services (Tui Than Tai;...), reached more than 5 million players, 100 million shakes quickly.\nHelped to develop the game concept of \"Lac Xi\" - Top outstanding campaigns on the social network of Tet 2020 & 2021."
+    }
+  ],
+  "university": "Vietnam National University",
+  "major": "E-commerce Major, Bachelor of Management Information Systems",
+  "gpa": "Very Good | Top 5 excellent students of this major",
+  "certifications": [
+    "Professional Scrum Product Owner I (PSPO1) - Issued: Mar 2023",
+    "Professional Scrum Master 1 (PSM1) - Issued: Sep 2023",
+    "IBM Data Analyst Professional Certificate - Issued: Jan 2024"
+  ]
+}

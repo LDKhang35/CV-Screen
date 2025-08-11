@@ -1,0 +1,76 @@
+﻿{
+  "full_name": "PHẠM THU HƯƠNG",
+  "applied_position": "BUSINESS ANALYST",
+  "gender": "Nữ",
+  "dob": "22/07/1998",
+  "email": "",
+  "address": "Đường Lê Đức Thọ, Mỹ Đình Nam Từ Liêm Hà Nội",
+  "phone": "",
+  "skills": [
+    "Tiếng Nga",
+    "Lập trình",
+    "Tin học văn phòng",
+    "Tiếng Anh",
+    "Làm việc nhóm"
+  ],
+  "experience": [
+    {
+      "company_name": "TRUNG TÂM HỆ THỐNG THÔNG TIN THUỘC FPT TELECOM",
+      "position": "BA",
+      "start_date": "04/2022",
+      "end_date": "nay",
+      "description": [
+        "Dự án tham gia: Loyalty, FTI-Warranty",
+        "Thu thập yêu cầu từ khách hàng",
+        "Phân tích nghiệp vụ của dự án",
+        "Design và viết tài liệu mô tả yêu cầu nghiệp vụ (URD) của dự án",
+        "Viết tài liệu yêu cầu Hệ thống (SRS)",
+        "Viết testcase UAT",
+        "Viết tài liệu Hướng dẫn sử dụng phần mềm",
+        "Truyền đạt nội dung, hỗ trợ các thành viên dự án, quản lý dự án để làm rõ yêu cầu của khách hàng cần đáp ứng",
+        "Phối hợp với đội phát triển để biết rõ hơn về dự án cũng như yêu cầu đặt ra",
+        "Hỗ trợ QC viết testcase và review testcase",
+        "Test lỗi kỹ thuật và nghiệp vụ để lập bug và theo dõi tiến độ fix bug",
+        "Hỗ trợ Developer fix lỗi",
+        "Demo dự án cho Khách hàng"
+      ]
+    },
+    {
+      "company_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ TIN HỌC EFY VIỆT NAM",
+      "position": "Tester",
+      "start_date": "08/2021",
+      "end_date": "03/2022",
+      "description": [
+        "Dự án tham gia: eCONTRACT - HỢP ĐỒNG ĐIỆN TỬ",
+        "Phân tích nghiệp vụ về Hợp đồng điện tử để xây dựng các chức năng phần mềm Hợp đồng điện tử.",
+        "Viết các tài liệu mô tả yêu cầu nghiệp vụ phần mềm Hợp đồng điện tử.",
+        "Viết tài liệu hướng dẫn sử dụng phần mềm.",
+        "Update các tài liệu trên VSS.",
+        "Phối hợp với đội phát triển phần mềm để biết rõ hơn về dự án cũng như yêu cầu đặt ra.",
+        "Xây dựng testcase bao quát toàn bộ dự án.",
+        "Test lỗi kỹ thuật và nghiệp vụ phần mềm để lập bug và theo dõi bug trên Bugtracker.",
+        "Hỗ trợ Developer fix lỗi phần mềm.",
+        "Thực hiện các công việc khác theo yêu cầu của Ban lãnh đạo."
+      ]
+    },
+    {
+      "company_name": "JITS INNOVATION LABS",
+      "position": "Tester",
+      "start_date": "01/2021",
+      "end_date": "07/2021",
+      "description": [
+        "Dự án tham gia: 1. Medcomm Pos (Phần mềm quản trị cơ sở cung ứng thuốc kết nối liên thông dược quốc gia) 2. Koi Pos (phần mềm quản lý spa - salon)",
+        "Phân tích nghiệp vụ dự án",
+        "Xây dựng testcase bao quát toàn bộ dự án",
+        "Tiến hành test manual các module, chức năng.",
+        "Theo dõi bug trên Jira."
+      ]
+    }
+  ],
+  "university": "ĐẠI HỌC GIAO THÔNG VẬN TẢI",
+  "major": "Công nghệ thông tin",
+  "gpa": "",
+  "certifications": [
+    "Design & Prototype a Mobile UI/UX Experience - Learn Figma"
+  ]
+}

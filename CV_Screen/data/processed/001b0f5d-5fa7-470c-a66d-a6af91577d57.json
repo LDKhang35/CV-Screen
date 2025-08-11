@@ -1,0 +1,76 @@
+﻿{
+  "full_name": "LÝ QUỐC TIẾN",
+  "applied_position": "Nhân Viên Kế Toán",
+  "gender": "Nam",
+  "dob": "11/12/1989",
+  "email": "",
+  "address": "Phường Lái Thiêu, Thành phố Thuận An, Bình Dương, Việt Nam",
+  "phone": "",
+  "skills": [
+    "Thành thạo tin học văn phòng",
+    "Tiếng Anh (Sơ cấp)"
+  ],
+  "experience": [
+    {
+      "start_date": "02/2024",
+      "end_date": "08/2024",
+      "position": "Nhân viên Kế Toán",
+      "company": "Công ty TNHH Tuấn Linh",
+      "description": [
+        "Xuất hóa đơn VAT",
+        "Theo dõi công nợ phải thu và phải trả",
+        "Theo dõi nhập xuất tồn nguyên vật liệu",
+        "Theo dõi đơn hàng và mua nguyên vật liệu",
+        "Chấm công và tính lương cho nhân viên"
+      ]
+    },
+    {
+      "start_date": "11/2019",
+      "end_date": "06/2020",
+      "position": "Nhân Viên Kế Toán",
+      "company": "Công ty TNHH Asuzac",
+      "description": [
+        "Xuất hóa đơn VAT",
+        "Làm báo cáo và nộp thuế: VAT, TNCN, TNDN, thuế nhà thầu",
+        "Lập tờ khai quyết toán thuế TNCN và thuế TNDN",
+        "Đăng kí mã số thuế TNCN và giảm trừ gia cảnh cho nhân viên",
+        "Thực hiện các giao dịch ngân hàng",
+        "Theo dõi công nợ phải thu",
+        "Hạch toán thu chi tiền mặt"
+      ]
+    },
+    {
+      "start_date": "10/2018",
+      "end_date": "10/2019",
+      "position": "Nhân Viên Kế Toán",
+      "company": "Công ty TNHH Hoàng Ngọc",
+      "description": [
+        "Xuất hóa đơn và làm báo cáo thuế VAT",
+        "Mua nguyên liệu sản xuất",
+        "Thực hiện các giao dịch ngân hàng",
+        "Tính giá thành sản phẩm",
+        "Hạch toán thu chi hằng ngày",
+        "Chấm công và tính lương cho nhân viên",
+        "Theo dõi công nợ phải thu và phải trả"
+      ]
+    },
+    {
+      "start_date": "09/2015",
+      "end_date": "08/2018",
+      "position": "Nhân Viên Kế Toán",
+      "company": "Công ty CP Hòa Long",
+      "description": [
+        "Xuất hóa đơn VAT",
+        "Thực hiện các giao dịch ngân hàng",
+        "Theo dõi công nợ phải thu và phải trả",
+        "Chấm công và tính lương cho nhân viên"
+      ]
+    }
+  ],
+  "university": "Đại Học Kinh Tế Kỹ Thuật Bình Dương",
+  "major": "Kế Toán",
+  "gpa": "",
+  "certifications": [
+    "Chứng chỉ B Tin học"
+  ]
+}

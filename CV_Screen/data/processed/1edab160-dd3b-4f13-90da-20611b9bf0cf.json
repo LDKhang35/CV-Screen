@@ -1,0 +1,60 @@
+﻿{
+  "full_name": "Pham Trung Duc",
+  "applied_position": "IT Manager",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": [
+    "English",
+    "IT Management",
+    "IT Infrastructure",
+    "Network Management",
+    "Email Systems",
+    "IT Security",
+    "Patch Management",
+    "Antivirus Management",
+    "System Resource Monitoring",
+    "IT Policy Development",
+    "IT Equipment Management",
+    "End-user Support",
+    "Training & Onboarding/Offboarding",
+    "IT Project Management",
+    "Budget Management",
+    "Strategy Development",
+    "Personnel Management",
+    "Contractor Management"
+  ],
+  "experience": [
+    {
+      "company": "Laidon VN",
+      "position": "ITSM Team Lead",
+      "duration": "Sep 2022 – hiện tại"
+    },
+    {
+      "company": "Terra Yamaken",
+      "position": "IT Manager",
+      "duration": "May 2021 – Sep 2022"
+    },
+    {
+      "company": "INSEE Vietnam",
+      "position": "IT Head for RMX",
+      "duration": "Apr 2017 – Feb 2020"
+    },
+    {
+      "company": "Holcim Lafarge",
+      "position": "IT Manager",
+      "duration": "May 2004 – Apr 2017"
+    },
+    {
+      "company": "Honchong Plant",
+      "position": "IT Specialist/Manager",
+      "duration": "2000 - 2004"
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "",
+  "certifications": []
+}

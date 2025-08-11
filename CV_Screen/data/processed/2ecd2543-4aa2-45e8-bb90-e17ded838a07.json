@@ -1,0 +1,58 @@
+﻿{
+  "full_name": "NGUYỄN THỊ MẾN",
+  "applied_position": "",
+  "gender": "Nữ",
+  "dob": "15/02/1994",
+  "email": "",
+  "address": "TP. Tân An, Long An",
+  "phone": "",
+  "skills": [
+    "Khả năng làm việc độc lập và làm việc nhóm",
+    "Chịu áp lực trong công việc",
+    "Kỹ năng giao tiếp",
+    "Quản lý thời gian",
+    "Tin học văn phòng (Word, Excel)",
+    "Giải quyết vấn đề",
+    "Tiếng Hàn",
+    "Tiếng Anh"
+  ],
+  "experience": [
+    {
+      "role": "Nhân viên hành chánh",
+      "company": "CÔNG TY TNHH CAO PHONG - SIÊU THỊ ĐIỆN MÁY NỘI THẤT CHỢ LỚN",
+      "duration": "09/2016 - 06/2017",
+      "responsibilities": [
+        "Tiếp nhận và giải quyết các chứng từ chi nhánh gửi lên",
+        "Theo dõi và đặt hàng từ các nhà cung cấp",
+        "Đối chiếu hóa đơn và thanh toán hóa đơn",
+        "Các công việc hành chánh khác theo yêu cầu của ban giám đốc"
+      ]
+    },
+    {
+      "role": "Thư ký - Admin",
+      "company": "CÔNG TY TNHH XÂY DỰNG THƯƠNG MẠI KHỞI NGUYÊN",
+      "duration": "07/2017 - 07/2022",
+      "responsibilities": [
+        "Soạn thảo hợp đồng kinh tế - mua bán, soạn thảo văn bản",
+        "Soạn thảo hợp đồng hải quan, khai hải quan và tiến hành các việc liên quan đến nhập khẩu",
+        "Trình ký hợp đồng và các giấy tờ khác với Giám Đốc",
+        "Giải quyết các hồ sơ liên quan đến hợp đồng",
+        "Lập, quản lý và lưu giữ giấy tờ hợp đồng kinh doanh, hợp đồng lao động của nhân viên",
+        "Tuyển nhân viên, lên lịch và phỏng vấn",
+        "Tham gia vào các dự án của phòng nhân sự và kinh doanh",
+        "Quản lý kho và thực hiện các việc giao hàng cho công trình",
+        "Mua các vật tư cho công trình/ công ty",
+        "Đặt hàng / đối chiếu công nợ, thanh toán cho các nhà cung cấp",
+        "Tổ chức, thực hiện các công việc và sự kiện của công ty (hội chợ, tất niên, sinh nhật ....)",
+        "Kiểm tra, cân đối các khoản thu chi bằng tiền mặt",
+        "Các công việc khác do Giám đốc giao"
+      ]
+    }
+  ],
+  "university": "Đại học Nguyễn Tất Thành",
+  "major": "QUẢN TRỊ NHÂN LỰC",
+  "gpa": "",
+  "certifications": [
+    "HÀNH CHÁNH - THƯ KÝ"
+  ]
+}

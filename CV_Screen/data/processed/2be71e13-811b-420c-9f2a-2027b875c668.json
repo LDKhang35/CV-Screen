@@ -1,0 +1,30 @@
+﻿{
+  "full_name": "Đoàn Nguyễn Trung Kiên",
+  "applied_position": "Cộng tác viên tuyển dụng",
+  "gender": "",
+  "dob": "16/12/2000",
+  "email": "",
+  "address": "Tp Thủ Đức, Hồ Chi Minh",
+  "phone": "",
+  "skills": [
+    "Giao tiếp (trung bình, biết lắng nghe, thấu hiểu, học hỏi mọi người xung quanh)",
+    "Tìm kiếm và chọn lọc thông tin (Thành thạo công nghệ, phủ sóng tất cả các mạng xã hội để tìm kiếm khách hàng bám sát và chủ động)"
+  ],
+  "experience": [
+    {
+      "role": "Cộng tác viên tuyển dụng",
+      "company": "CÔNG TY KCN HÀ NỘI - ĐÀI TƯ",
+      "duration": "8/2023-05/2024",
+      "responsibilities": [
+        "Đăng bài tìm kiếm ứng viên thời vụ - lâu dài cho các kho GHN - NINJA VAN - GHTK.",
+        "Tiếp nhận thông tin số lượng công nhân thiếu, đăng bài tìm kiếm những người có nhu cầu tìm việc, tư vấn và tiếp nhận giấy tờ của ứng viên",
+        "Hướng dẫn người mới các thủ tục giờ làm, nội quy, cách đi lại trong công ty",
+        "Đến giám sát công nhân chấm ca đầu vào."
+      ]
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "",
+  "certifications": []
+}

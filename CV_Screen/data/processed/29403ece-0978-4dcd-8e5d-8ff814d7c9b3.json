@@ -1,0 +1,52 @@
+﻿{
+  "full_name": "Nguyen Anh Tuan",
+  "applied_position": "",
+  "gender": "Male",
+  "dob": "Sep 1, 1995",
+  "email": "",
+  "address": "Ho Chi Minh, Vietnam",
+  "phone": "",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "WordPress",
+    "Bootstraps",
+    "User Interface",
+    "User Experience",
+    "JavaScript",
+    "React.js",
+    "React Redux",
+    "Redux Saga",
+    "Ant Design",
+    "Nest.js",
+    "Cypress",
+    "Visual Studio",
+    "Team-work Skill",
+    "Research document",
+    "Reading English (document Skill)"
+  ],
+  "experience": [
+    {
+      "company": "Company",
+      "position": "Web Developer",
+      "duration": "May 2017 - Apr 2018",
+      "description": "Coded HTML5, CSS3, WordPress. Used Bootstraps for User Interface and User Experience. Gained knowledge in HTML, CSS, Bootstrap, JS, WordPress Plugin usage and fixing, project research, teamwork, and improving English document reading."
+    },
+    {
+      "company": "FPT Software",
+      "position": "Front-end Web Developer",
+      "duration": "Nov 2018 - Nov 2021",
+      "description": "Joined multiple projects including ESIS (learned React.js, coded and reviewed front-end using React.js, React Redux, Redux Saga, Ant Design) and ILEAD (designed components and basic flows, coded and reviewed front-end, worked with a team of 3 members for sharing and support using React.js, React Redux, Ant Design)."
+    },
+    {
+      "company": "JAVAC TECHNOLOGY",
+      "position": "Full stack Developer",
+      "duration": "Nov 2021 - Sep 2022",
+      "description": "Worked as a full stack developer, managed front-end code, started learning Nest.js and handled tasks, and learned Cypress for automation testing. Technologies used: React.js, Nest.js, Cypress."
+    }
+  ],
+  "university": "University of Information Technology",
+  "major": "Software Engineer",
+  "gpa": "",
+  "certifications": []
+}

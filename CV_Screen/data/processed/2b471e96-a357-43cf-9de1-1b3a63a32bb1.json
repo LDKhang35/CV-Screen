@@ -1,0 +1,36 @@
+﻿{
+  "full_name": "NGÔ THỊ THANH THANH",
+  "applied_position": "NHÂN VIÊN VĂN PHÒNG",
+  "gender": "",
+  "dob": "07/10/1997",
+  "email": "",
+  "address": "425 Trần Hưng Đạo, Phường Trần Hưng Đạo, Thành phố Thái Bình, Tỉnh Thái Bình",
+  "phone": "",
+  "skills": [
+    "Kỹ năng làm việc nhóm",
+    "Kỹ năng thuyết phục, đàm phán",
+    "Kỹ năng quản lý thời gian",
+    "Kỹ năng lập kế hoạch",
+    "Tin học: Word",
+    "Tin học: Excel",
+    "Ngoại ngữ: Tiếng Anh"
+  ],
+  "experience": [
+    {
+      "company": "Công ty Cổ phần Vinatro",
+      "position": "Nhân viên Hành chính văn phòng",
+      "duration": "10/2020 - 08/2024",
+      "description": "- Tiếp nhận và gửi công văn, giấy tờ của công ty.\n- Lưu trữ, sắp xếp thông tin công văn, giấy tờ, hợp đồng, tài liệu liên quan.\n- Tiếp nhận ý kiến đóng góp, phản hồi từ đối tác, khách hàng, ... sau đó sẽ gửi các thông tin lên cấp trên để kiểm tra và thực hiện các báo cáo theo yêu cầu.\n- Hỗ trợ và soạn thảo các văn bản (Báo giá, Hợp đồng, Công văn...), giấy tờ nội bộ liên quan đến công việc, cuộc họp, hoạt động của Ban Giám đốc và Phòng kinh doanh.\n- Hỗ trợ thực hiện các công việc khác trong công ty theo yêu cầu của giám đốc."
+    },
+    {
+      "company": "Công ty Cổ phần Du lịch C.E.O",
+      "position": "Nhân viên Sale Admin",
+      "duration": "12/2019 - 09/2020",
+      "description": "- Thiết kế chương trình tour và bảng tính giá.\n- Liên hệ các đơn vị đối tác trong nước và ngoài nước để lấy Landtours và làm hợp đồng nguyên tắc.\n- Theo dõi báo giá, đặt và điều hành các dịch vụ liên quan đến tour.\n- Giám sát và chịu trách nhiệm về tour.\n- Tiếp nhận thông tin đơn hàng/ hợp đồng/ đề nghị báo giá từ khách hàng, tiến hành làm hợp đồng, thanh lý hợp đồng dịch vụ.\n- Hỗ trợ nhân viên kinh doanh trong quá trình gom khách, đôn đốc, giải quyết các vấn đề phát sinh.\n- Phối hợp phòng Kế toán theo dõi công nợ, hợp đồng.\n- Phối hợp phòng Điều hành trong công tác làm Visa, bàn giao hồ sơ có liên quan."
+    }
+  ],
+  "university": "Đại học Thương Mại",
+  "major": "Quản trị khách sạn",
+  "gpa": "Khá",
+  "certifications": []
+}

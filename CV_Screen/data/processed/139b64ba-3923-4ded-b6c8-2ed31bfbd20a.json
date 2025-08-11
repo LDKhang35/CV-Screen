@@ -1,0 +1,32 @@
+﻿{
+  "full_name": "Đoàn Hồng Khánh Vi",
+  "applied_position": "",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "540/1 Cách Mạng Tháng 8, Phường 11, Quận 3, Tp HCM",
+  "phone": "",
+  "skills": [
+    "Giao tiếp",
+    "Xử lý tình huống",
+    "Làm việc nhóm",
+    "Quản lí thời gian",
+    "Thích ứng học hỏi nhanh",
+    "Tiếng Hàn",
+    "Tiếng Việt",
+    "Tiếng Anh"
+  ],
+  "experience": [
+    {
+      "title": "Thực tập",
+      "company": "CEDARS All Amen Holding",
+      "duration": "2023"
+    }
+  ],
+  "university": "Đại học ngoại ngữ tin học Thành Phố Hồ Chí Minh (HUFLIT)",
+  "major": "Hàn Quốc học",
+  "gpa": "",
+  "certifications": [
+    "TOPIK 4"
+  ]
+}

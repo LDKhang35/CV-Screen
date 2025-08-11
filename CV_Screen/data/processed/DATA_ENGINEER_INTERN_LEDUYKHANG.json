@@ -1,0 +1,26 @@
+﻿{
+  "full_name": "LE DUY KHANG",
+  "applied_position": "DATA ENGINEER INTERN",
+  "gender": "",
+  "dob": "",
+  "email": "ld.khang305204@gmail.com",
+  "address": "District 12, Ho Chi Minh City",
+  "phone": "0961125575",
+  "skills": "PYTHON, SQL",
+  "experience": [
+    {
+      "title": "ANIMAL IMAGE CLASSIFICATION",
+      "duration": "Jan 2025-Apr 2025",
+      "description": "BUILT A CNN SYSTEM\nI split the original dataset into training, validation, and test sets\nBuilt a CNN model using Python's TensorFlow library based on training and validation datasets.\nResults:\nAccuracy: Train - 94%, Validation - 96%, Test - 92%\nLoss: Train - 16%, Validation - 11%\nGithub: https://github.com/LDKhang35/CNN"
+    },
+    {
+      "title": "BIRD CLASSIFICATION",
+      "duration": "Feb 2025-Mar 2025",
+      "description": "APPLIED NAÏVE BAYES CLASSIFIER ALGORITHM (PYTHON)\nUsed cleaned data to identify animal groups in the dataset.\nSplit data into animal groups (based on features for classi cation).\nTrained a Naïve Bayes Classi er on categorized bird data, and tested it with hypothetical samples.\nCreated hypothetical data to test the model.\nResult:\nAccuracy: 85.71%\nGithub:https://github.com/LDKhang35/NAIVE-BAYES-CLASSIFIER"
+    }
+  ],
+  "university": "Van Lang University",
+  "major": "INFORMATION TECHNOLOGY",
+  "gpa": "",
+  "certifications": ""
+}

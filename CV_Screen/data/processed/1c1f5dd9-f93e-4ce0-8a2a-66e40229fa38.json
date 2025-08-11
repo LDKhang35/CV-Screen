@@ -1,0 +1,43 @@
+﻿{
+  "full_name": "Dư Tiến Duật",
+  "applied_position": "Nhân viên thiết kế",
+  "gender": "Nam",
+  "dob": "21/06/1990",
+  "email": "",
+  "address": "Phú thành - lạc thủy - hòa bình",
+  "phone": "",
+  "skills": [
+    "Kỹ năng làm việc nhóm và khả năng làm việc độc lập",
+    "Tiếng Anh chuyên ngành",
+    "Phần mềm và phần cứng"
+  ],
+  "experience": [
+    {
+      "start_date": "01/2012",
+      "end_date": "07/2023",
+      "position": "Designer + coder",
+      "company": "CÔNG TY LIVA HÀ NỘI",
+      "description": "Thiết kế layout, banner cho các mẫu website. thiết kế hình ảnh sản phẩm cho khách hàng demo"
+    },
+    {
+      "start_date": "05/2014",
+      "end_date": "08/2015",
+      "position": "Kinh doanh",
+      "company": "SIÊU THỊ CÔNG NGHỆ THANH XUÂN HÀ NỘI",
+      "description": "Kinh doanh sản phẩm siêu thị, hỗ trợ kỹ thuật sửa chữa cho khách hàng. các sản phẩm chính như : máy in - máy tính - máy phát điện - máy chiếu."
+    },
+    {
+      "start_date": "04/2018",
+      "end_date": "09/2020",
+      "position": "Kỹ thuật",
+      "company": "CÔNG TY MÁY TÍNH PHÚ MINH - BẮC NINH",
+      "description": "Admin cho website công ty và an ninh mạng cho bên thứ 3 yêu cầu. Kinh doanh sản phẩm siêu thị, hỗ trợ kỹ thuật sửa chữa cho khách hàng. các sản phẩm chính như : máy in - máy tính - máy phát điện - máy chiếu."
+    }
+  ],
+  "university": "Hà Nội Apptech",
+  "major": "IT PHẦN MỀM",
+  "gpa": "Giỏi",
+  "certifications": [
+    "Chứng chỉ tin học acna"
+  ]
+}

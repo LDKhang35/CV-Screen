@@ -1,0 +1,98 @@
+﻿{
+  "full_name": "Nguyen Hai",
+  "applied_position": "MANAGER",
+  "gender": "Nam",
+  "dob": "02/09/1979",
+  "email": "",
+  "address": "Phòng 2004 M7 Mipec Kiến Hưng, Hà Đông, Hà Nội, Quận Hà Đông, Hà Nội, Việt Nam",
+  "phone": "+84-901732888",
+  "skills": [
+    "Risk Management",
+    "Time Management",
+    "Problem Solving",
+    "Java",
+    "Scrum Master",
+    "Agile",
+    "ReactJS",
+    "JavaScript",
+    "MySQL",
+    "C++",
+    "C#",
+    "PHP",
+    "Flutter",
+    "Android",
+    "Swift",
+    "HTML",
+    "Research Papers",
+    "Python",
+    "Tensorflow",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Science",
+    "Computer Vision"
+  ],
+  "experience": [
+    {
+      "position": "",
+      "company": "ONCOM Communication and Technology",
+      "duration": "02/2022 - Hiện Tại",
+      "description": "- Analysis of VOIP system\n- Programming VOIP system, selling international calling scratch cards\n- C ++ , MY SQL database\n- Completing VoIP products\n- Operating and testing the system"
+    },
+    {
+      "position": "Programmer",
+      "company": "The New Generation Company",
+      "duration": "02/2006 - 10/2008",
+      "description": "- Programming and developing SMS center system (message center)\n- Analysis of billing system (CDR)\n- Connect with carriers (Viettel, mobifone, Vinaphone)\n- Trial operation and put into use\n- C ++ programming language, dot NET, SQL Server"
+    },
+    {
+      "position": "",
+      "company": "VnTelecom",
+      "duration": "01/2009 - 03/2011",
+      "description": "- Set up and build dating online projects"
+    },
+    {
+      "position": "Technical Director",
+      "company": "HTC Group",
+      "duration": "04/2011 - 12/2011",
+      "description": "- Coordinate with other departments to optimize the project before going into the development stage\n- Analyze similar projects to find out the best functions for online dating project\n- Discuss with the coding development team by each function and each stage.\n- Operate optimally the online dating system and create online and offline events with the company's event team\n- Responsible for setting up a project to build connection systems with Vietnamese mobile network providers (Viettel, Vinaphone, Mobifone, Gfone)\n- Prepare a financial estimate for the project\n- Communicate with partners and stakeholders to build a smooth system\n- Assign tasks to project members and recruit staff if necessary.\n- Responsible for monitoring, reviewing, promoting and motivating members to complete according to plan\n- Responsible for commissioning and testing each and every part of the system\n- Responsible for the documentation using software\n- Responsible for transferring and guiding the actual system operation\n- Programming language JAVA, WEB API, C #, MYSQL, MSSQL Server."
+    },
+    {
+      "position": "",
+      "company": "Vnincom",
+      "duration": "02/2012 - 03/2016",
+      "description": "- Project planning\n- Financial planning\n- Recruitment of personnel for the project\n- Selection of platforms for project development\n- Focus on mainly open source languages: Java, JavaScript, Python, Android, React JS, Ext JS, Flutter, iOS.\n- Scrum, Agile...\n- Databases focus on open source platforms: mysql, postgresql, h2 etc.\n- Responsible for monitoring the progress, test run in phases until 100% completion of the project.\n- Responsible for creating manual documents to customers and partners.\n- Responsible for checking the appropriate hardware (server, related equipment) to install and operate the entire system.\n- Responsible for project risk management including protection system, backup system, overload prevention system."
+    },
+    {
+      "position": "Technical Director",
+      "company": "Phu Minh communications and technology JSC",
+      "duration": "04/2016 - 07/2021",
+      "description": ""
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "",
+  "certifications": [
+    {
+      "name": "Introduction To TensorFlow For Artificial Intelligence, Machine Learning, And Deep Learning",
+      "issuer": "Coursera",
+      "year": "2022"
+    },
+    {
+      "name": "Convolutional Neural Networks In TensorFlow",
+      "issuer": "Coursera",
+      "year": "2022"
+    },
+    {
+      "name": "Sequences, Time Series And Prediction",
+      "issuer": "Coursera",
+      "year": "2022"
+    },
+    {
+      "name": "TensorFlow Developer Specialization",
+      "issuer": "Coursera",
+      "year": "2022"
+    }
+  ]
+}

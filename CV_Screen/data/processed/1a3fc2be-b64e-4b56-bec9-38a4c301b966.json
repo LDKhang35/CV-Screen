@@ -1,0 +1,37 @@
+﻿{
+  "full_name": "Nguyen Thien",
+  "applied_position": "Angular Developer",
+  "gender": "",
+  "dob": "02/20/1987",
+  "email": "",
+  "address": "C11-01 Marinar Tower, Thuan An, Binh Duong",
+  "phone": "",
+  "skills": [
+    "Node Js",
+    "Rails",
+    "AWS",
+    "Angular 8+",
+    "Javascript",
+    "Typescript"
+  ],
+  "experience": [
+    {
+      "company": "Sakura Mobiles - Japan",
+      "position": "Front-end Developer",
+      "duration": "Since January 2020",
+      "description": "Role: Front-end developer\nLanguages/framework: angular, rails, javascript, typescript.\nCreating new web apps for new products\nDeveloping and implementing the web app following the design layout, and building FE using the angular framework.\nIntegrate with Back-End via API, the Back-End use Ruby and Rails.\nReport processing tasks and fix bugs when requested.\nImplementing substantial features and fixing bugs."
+    },
+    {
+      "company": "SAOVEGA TECHNOLOGY CO., LTD",
+      "position": "Staff Deployment",
+      "duration": "From 2015 to November 2019",
+      "description": "Deploying and installing the software for hospital management, spa management, beauty salon, CRM, multi-clinic manager dental clinic...\nProject management and implementation of hospital management software such as HIS, LIS, PASC\nInstall and configure database server system: SQL Server ...\nWebsite management and development on the platform: Html5, Css3, Boostrap, Javascript, WordPress."
+    }
+  ],
+  "university": "University of Science Ho Chi Minh",
+  "major": "Computer Systems Networking and Telecommunications",
+  "gpa": "",
+  "certifications": [
+    "CyberSoft Academy Center - Training Experts Program (Front-End Developer)"
+  ]
+}

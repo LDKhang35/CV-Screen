@@ -1,0 +1,65 @@
+﻿{
+  "full_name": "NGUYEN NGOC SANG",
+  "applied_position": "SENIOR FUNCTION CONSULTANT(SD,MM,HRM), DATA DEVELOPER(SQL), BUSINESS ANALYST(BA)",
+  "gender": "Male",
+  "dob": "April 20, 1986",
+  "email": "",
+  "address": "239 Hoa Binh Street, Ward Hiep Tan, Tan Phu District, TPHCM, Viet Nam.",
+  "phone": "",
+  "skills": [
+    "Pine Script language",
+    "Axure software",
+    "Human resource management",
+    "Report viewer and Crystal Report software",
+    "Communication skills",
+    "SAP B1",
+    "MS Offices",
+    "MS SQL",
+    "Team Management Skills",
+    "Work schedule management skills",
+    "Visio software",
+    "Teamwork skills",
+    "English"
+  ],
+  "experience": [
+    {
+      "company_name": "THUAN PHUONG EMBROIDERIES GARMENTS COMPANY LIMITED",
+      "duration": "June 2019 - Present",
+      "position": "Business Analyst(BA)",
+      "description": "BA module SD, MM (SAP B1): - Analyst and description business processes. - Business Requirement Document. - Test Case Document(System Test, Unit Test, Integration Test). - Test system(System Test, Unit Test, Integration Test). - Config system. - Setup Master data. - Setup account permission. - Setup approve permission. BA system HRM (software internal): - Analyst and description business processes. - Business Requirement Document. - Fit/Gap Document. - Blueprint Document. - Functional Specification Document. - Test system. - Training Manual Document. - Training for end user. - Support end user."
+    },
+    {
+      "company_name": "BYS SOFTWARE COMPANY",
+      "duration": "Dec 2018 - May 2019",
+      "position": "Data HRM Developer",
+      "description": "- Analyst and description business processes. - Analyst and design database. - Develop Store procedure, Function, Trigger for system HRM(Timekeeping, Payroll, Dashboard). - Develop report system HRM(Stored Procedure + Crystal Report) - Support QA-QC. - Support pre sale."
+    },
+    {
+      "company_name": "LACVIET SOFTWARE COMPANY",
+      "duration": "Jan 2016 - Nov 2018",
+      "position": "Team lead HRM module, Data developer, Implement consulting",
+      "description": "Team lead: - Training SQL and HRM system for team. - Training new employees. - Approve Business Requirement Document, fit/gap Document, Blueprint Document and Functional Specification Document from team member's. - Support setup and deployment system HRM for team. - Setup team meeting. - Report for manager. Data developer: - Analyst and description business processes. - Analyst and design database. - Develop Store procedure, Function, Trigger for system HRM(Timekeeping, Payroll, Dashboard). - Develop report system HRM(Stored Procedure + Report viewer). - Setup and backup system. - Support QA-QC. - Software maintenance. Implement consulting: - Support pre sale. - Business Requirement Document. - Fit/Gap Document. - Blueprint Document. - Functional Specification Document. - Training Manual Document. - Training for end user. - Consultant HRM system."
+    },
+    {
+      "company_name": "BRAVO SOFTWARE COMPANY",
+      "duration": "Jan 2011 - July 2014",
+      "position": "Implement consulting",
+      "description": "- Support pre sale. - Business Requirement Document. - Fit/Gap Document. - Blueprint Document. - Training Manual Document. - Training for end user. - Develop report(Stored Procedure + Crystal viewer). - Function Consultant(SD,MM,HR)."
+    }
+  ],
+  "university": [
+    "UNIVERSITY OF ECONOMICS HO CHI MINH CITY",
+    "UNIVERSITY OF FINANCE - MARKETING"
+  ],
+  "major": [
+    "Management Information System",
+    "Management Information System"
+  ],
+  "gpa": [
+    "7.23/10",
+    "6.88/10"
+  ],
+  "certifications": [
+    "SQL Server Certificate with score 9/10 issued by Computer science center University of Science.2009"
+  ]
+}

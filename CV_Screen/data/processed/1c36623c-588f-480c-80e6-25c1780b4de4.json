@@ -1,0 +1,39 @@
+﻿{
+  "full_name": "NGUYỄN VĂN DŨNG",
+  "applied_position": "Nhân viên Lái Xe",
+  "gender": "",
+  "dob": "17/11/1986",
+  "email": "",
+  "address": "D4 Xã Đa Phước, Huyện Bình Chánh",
+  "phone": "",
+  "skills": [
+    "Khả năng giao tiếp và xử lý các tình huống bất chợt trên đường tốt",
+    "Kỹ năng lái xe an toàn",
+    "Kỹ năng sử dụng công nghệ: Google Map, GPS và tìm thông tin",
+    "Luôn có thái độ tốt, chuyên nghiệp"
+  ],
+  "experience": [
+    {
+      "period": "T3/2012 - T1/2013",
+      "position": "Nhân viên Lái xe",
+      "company": "CTY CỔ PHẦN ÁNH DƯƠNG VIỆT NAM",
+      "description": "Tài xế lái taxi cho hãng taxi Vinasun. Thực hiện việc đưa rước khách theo tuyến, nhu cầu của khách hàng"
+    },
+    {
+      "period": "T2/2013 - T7/2018",
+      "position": "Nhân viên Lái xe",
+      "company": "CTY TNHH MTV XE VIỆT NHẬT",
+      "description": "Lái xe cho Giám Đốc và đưa đón nhân viên theo yêu cầu của phòng Hành Chính - Nhân sự. Chở Sếp đi công tác các Tỉnh Miền Tây, Miền Trung. Thực hiện công việc gồm: Bảo dưỡng bảo hành, sữa chữa xe theo định kỳ"
+    },
+    {
+      "period": "T8/2019 - T8/2022",
+      "position": "Nhân viên Lái xe",
+      "company": "CTY TNHH MTV TABUCHI VIỆT NAM",
+      "description": "Lái xe cho Giám Đốc và đưa đón nhân viên theo yêu cầu của phòng Hành Chính - Nhân sự. Thực hiện công việc gồm: Bảo dưỡng bảo hành, sữa chữa xe theo định kỳ"
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "",
+  "certifications": ""
+}

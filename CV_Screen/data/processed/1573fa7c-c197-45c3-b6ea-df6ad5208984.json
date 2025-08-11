@@ -1,0 +1,36 @@
+﻿{
+  "full_name": "PHẠM VŨ",
+  "applied_position": "Nhân viên kinh doanh",
+  "gender": "Male",
+  "dob": "01/12/1991",
+  "email": "",
+  "address": "21/44 miếu hai xã, Le Chan District, Hai Phong, Vietnam",
+  "phone": "",
+  "skills": [
+    "lái xe"
+  ],
+  "experience": [
+    {
+      "duration": "09/2023 - Now",
+      "position": "Nhân viên kinh doanh",
+      "company": "Công ty TNHH Mega Home",
+      "description": "Môi giới nhà thuê"
+    },
+    {
+      "duration": "3/2019 - Now",
+      "position": "nhân viên hiện trường",
+      "company": "công ty tcl logistic",
+      "description": "nhân viên hiện trường xử lý thủ tục hải quan tại chi cục và cảng"
+    },
+    {
+      "duration": "1/2012 - 1/2018",
+      "position": "lái xe",
+      "company": "tự do",
+      "description": "lái xe"
+    }
+  ],
+  "university": "trung học",
+  "major": "",
+  "gpa": "",
+  "certifications": ""
+}

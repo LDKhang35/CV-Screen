@@ -1,0 +1,57 @@
+﻿{
+  "full_name": "VO VAN LAU",
+  "applied_position": "",
+  "gender": "",
+  "dob": "June 10th 1988",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": [
+    "Microsoft Visio",
+    "Postman",
+    "Website Development",
+    "Winform",
+    "SQL Server",
+    "Accounting Finance Software",
+    "Logical thinking",
+    "Teamwork",
+    "Problem solving",
+    "Risk management",
+    "Product management",
+    "Agile Methodologies",
+    "Analyst",
+    "Customer service"
+  ],
+  "experience": [
+    {
+      "company": "VIETTECH Smart System Joint Stock Company",
+      "position": "Leader of ERP application & warranty consulting team",
+      "duration": "2021 – Present"
+    },
+    {
+      "company": "VIETNAM FOOD INDUSTRIES JOINT STOCK COMPANY",
+      "position": "IT Software",
+      "duration": "2020"
+    },
+    {
+      "company": "THUAN PHUONG GROUP",
+      "position": "Business Analyst",
+      "duration": "2018 – 2019"
+    },
+    {
+      "company": "FAST SOFTWARE COMPANY – THE PROVIDER OF ERP SOLUTIONS",
+      "position": "ERP Functional Consultant & Customer Service Associate",
+      "duration": "2011 – 2018"
+    }
+  ],
+  "university": "University of Economics Ho Chi Minh City",
+  "major": "Bachelor of Bank Financial",
+  "gpa": "",
+  "certifications": [
+    ".NET Programmer Certificate",
+    "JAVA Programmer Certificate",
+    "Windows Server 2008 Network Administration Certificate",
+    "C# Programming Certificate",
+    "PP & MYSQL Programming Certificate"
+  ]
+}

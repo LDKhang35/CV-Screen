@@ -1,0 +1,77 @@
+﻿{
+  "full_name": "Tran Ngoc Dan",
+  "applied_position": "Frontend Developer",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Tran Nao, Thu Duc, TPHCM",
+  "phone": "",
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "jQuery",
+    "React.js",
+    "React Redux",
+    "Next.js",
+    "React Redux Saga",
+    "Oracle",
+    "MVC Framework",
+    "Visual Studio",
+    "Git",
+    "Agile",
+    "Figma",
+    "VB.NET",
+    "PostgreSQL",
+    "Java",
+    "Teamwork",
+    "Communication",
+    "Time Management"
+  ],
+  "experience": [
+    {
+      "position": "Frontend Developer",
+      "company": "Dutycast Co. Ltd",
+      "duration": "AUG 2021-SEP 2023",
+      "responsibilities": [
+        "Worked closely with the development team to implement new features and bug fixes.",
+        "Implemented an optimized, accessible, and responsive UI.",
+        "Took responsibility to train new internship in project."
+      ]
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "TradingFoe Basis Trading Co. Ltd",
+      "duration": "DEC 2018-JUL 2021",
+      "responsibilities": [
+        "Worked closely with the development team to implement new features and bug fixes.",
+        "Implemented an optimized, accessible, and responsive UI."
+      ]
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Freelancer",
+      "duration": "SEP 2020-MAR 2022",
+      "responsibilities": [
+        "Developed features from customer requirements.",
+        "Estimated times based on assigned tasks.",
+        "Maintained and upgraded follow customer requirements."
+      ]
+    },
+    {
+      "position": "Software Developer",
+      "company": "Fujinet Systems JSC",
+      "duration": "JUL 2016-MAY 2018",
+      "responsibilities": [
+        "Analyzed, Designed, Developed and Tested features from customer requirements.",
+        "Maintained and upgraded system follow customer requirements."
+      ]
+    }
+  ],
+  "university": "University of Information Technology",
+  "major": "Software Engineering",
+  "gpa": "7.55",
+  "certifications": [
+    "Certificate of Global Software Talent training (Global Java Developer at FPT) - Sep, 2015"
+  ]
+}

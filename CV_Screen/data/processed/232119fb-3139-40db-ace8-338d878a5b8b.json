@@ -1,0 +1,171 @@
+﻿{
+  "full_name": "HUYNH HOA DANG",
+  "applied_position": "",
+  "gender": "Male",
+  "dob": "19/01/1986",
+  "email": "",
+  "address": "207C Nguyễn Xí , Binh Thanh Dist, Ho Chi Minh City, Vietnam",
+  "phone": "",
+  "skills": [
+    "Product Ownership",
+    "Business Analysis",
+    "Requirements Analysis",
+    "Documentation (BRD, Mockup, SRS, FSD, UFD)",
+    "Team Leadership",
+    "Team Management (BA, Design, Test, Dev Teams)",
+    "Software Development (C#, .Net, object-oriented, client-server, multi-tier Windows/Web applications)",
+    "Project Management (deadline management, project flow)",
+    "Change Management",
+    "Roadmap Building",
+    "System Design (UID, Database, API, Workflow)",
+    "UAT Testing",
+    "Training and Coaching",
+    "Resource Conflict Resolution",
+    "Motivation Management",
+    "Proposal Preparation",
+    "Vendor Presentation",
+    "Customer Interaction",
+    "Onsite Support"
+  ],
+  "experience": [
+    {
+      "title": "Product Owner",
+      "company": "UPOS Co., Ltd (A subordinated unit of J&T Express)",
+      "duration": "09/2022 – Present",
+      "responsibilities": [
+        "Manage BA team",
+        "Manage Design Team",
+        "Manage Test Team",
+        "Manage Dev Team",
+        "Analysis of sale/customer/CEO requirements",
+        "Manage and review document project",
+        "Transfer information to the internal team",
+        "Follow and keep the project's deadline",
+        "Manage sale request changes",
+        "Build Roadmap"
+      ],
+      "projects": [
+        "UPOS - Multi-channel sales management software for multi-shipping Partner",
+        "EVO Shop - Sales management software for J&T Express"
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": "AVITRIP Co., Ltd",
+      "duration": "06/2021 – 08/2022",
+      "responsibilities": [
+        "Analysis of software requirements",
+        "Doing document projects: BRD, Mockup, SRS, FSD",
+        "Transfer information to the internal team",
+        "Follow and keep the project's deadline",
+        "Manage customer request changes",
+        "Design and Testing workflow on the system",
+        "Manage Team: Preview and follow member's projects, training new members and interns"
+      ],
+      "projects": [
+        "BOOKING FLATFORM"
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Icontechnic Co., Ltd",
+      "duration": "10/2020 – 05/2021",
+      "responsibilities": [
+        "Analysis of software requirements",
+        "Doing document projects: BRD, Mockup, SRS, FSD",
+        "Transfer information to the internal team",
+        "Follow and keep the project's deadline",
+        "Manage customer request changes",
+        "Design and Testing workflow on the system",
+        "Manage Team: Preview and follow member's projects, training new members and interns"
+      ],
+      "projects": [
+        "ASIA",
+        "CHỢ KHOẺ",
+        "ĐÈN CHIẾU SÁNG – TCL",
+        "LOGISTIC",
+        "APP ĐẦU TƯ"
+      ]
+    },
+    {
+      "title": "Business Analyst (Leader)",
+      "company": "Betall Co., Ltd",
+      "duration": "08/2019 – 10/2020",
+      "responsibilities": [
+        "Analysis of software requirements",
+        "Doing project documents: BRD, Mockup, SRS, FSD",
+        "Transfer information to the internal team",
+        "Follow and keep the project's deadline",
+        "Manage customer request changes",
+        "Design and Testing workflow on the system",
+        "Manage Team: Preview and follow member's projects, training new members and internship"
+      ],
+      "projects": [
+        "Salesforce",
+        "Lemo",
+        "Contact Center",
+        "Infoseek",
+        "Claim System"
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": "VUTHAO Co., Ltd",
+      "duration": "07/2018 – 08/2019",
+      "responsibilities": [
+        "Analysis of software requirements",
+        "Transfer information to the internal team",
+        "Manage customer request changes",
+        "Design and Testing workflow on the system"
+      ],
+      "projects": [
+        "Flight group 919 (Vietnam Airlines)",
+        "Eurowindow",
+        "Becamex Binh Duong",
+        "Techcombank"
+      ]
+    },
+    {
+      "title": "Leader",
+      "company": "Delta Global Solution Co., Ltd",
+      "duration": "05/2014 - 06/2018",
+      "responsibilities": [
+        "Analysis of software requirements",
+        "Transfer information to the internal team",
+        "Manage customer request changes",
+        "Design UID",
+        "Design Database",
+        "Design API",
+        "Assign Task",
+        "Manager Team",
+        "Resolve technical problems and customer problems"
+      ],
+      "projects": [
+        "Dry Clean Store",
+        "Convenience Store",
+        "Liquor Store",
+        "Dcorp Reports",
+        "Mobile Coffee Shop System"
+      ]
+    },
+    {
+      "title": "Developer",
+      "company": "VNIT Solution Co., Ltd",
+      "duration": "09/2007 - 04/2014",
+      "responsibilities": [
+        "Developer, Programmer C#, .Net"
+      ],
+      "projects": [
+        "Snow resort (Japan)",
+        "Water agent (Vietnam)",
+        "Outsource Module (Japan)"
+      ]
+    }
+  ],
+  "university": "FPT Academy",
+  "major": "Software Programming",
+  "gpa": "",
+  "certifications": [
+    "High Diploma Software Programming (2007)"
+  ]
+}

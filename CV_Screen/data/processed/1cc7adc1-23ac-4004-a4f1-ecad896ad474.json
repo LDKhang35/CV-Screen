@@ -1,0 +1,60 @@
+﻿{
+  "full_name": "NGUYỄN ĐĂNG NGUYÊN",
+  "applied_position": "KỸ SƯ ĐIỆN - ĐIỆN TỬ",
+  "gender": "",
+  "dob": "02/15/1996",
+  "email": "",
+  "address": "Hac Dich, Phu My, BR-VT",
+  "phone": "",
+  "skills": [
+    "Phần mềm văn phòng",
+    "Làm việc nhóm",
+    "Thuyết trình",
+    "Giải quyết vấn đề",
+    "Đọc hiểu bản vẽ kỹ thuật (điện)",
+    "Xử lý sự cố và cải tiến hệ thống điện",
+    "Nghiên cứu và thiết kế hệ thống điện (bao gồm trạm điện, hệ thống dây dẫn, thiết bị bảo vệ, thiết bị chiếu sáng)",
+    "Lắp đặt và bảo trì thiết bị/hệ thống điện",
+    "Tuân thủ quy tắc an toàn khi lắp đặt và sửa chữa các thiết bị và hệ thống điện",
+    "Khảo sát dự án",
+    "Lập bảng kê vật tư",
+    "Vận hành thiết bị",
+    "Đào tạo đối tác và nhân viên",
+    "Quản lý nhân viên",
+    "Lập kế hoạch bảo trì định kỳ",
+    "Viết báo cáo công việc và báo cáo sự cố",
+    "Tiếng Anh (TOEIC 500+)"
+  ],
+  "experience": [
+    {
+      "company": "CÔNG TY CỔ PHẦN TẬP ĐOÀN DAT",
+      "position": "Nghiên cứu và Thiết kế Hệ thống Điện Mặt Trời",
+      "duration": "Tháng 5/2019 - Tháng 12/2021",
+      "responsibilities": [
+        "Khảo sát dự án.",
+        "Thiết kế hệ thống, thực hiện bản vẽ kỹ thuật, lập bảng kê vật tư và thuyết trình dự án với chủ đầu tư.",
+        "Lắp đặt và vận hành thiết bị mới để đánh giá thông số.",
+        "Đào tạo đối tác mới và nhân viên mới về nguyên lý hoạt động và các thiết bị trong hệ thống."
+      ]
+    },
+    {
+      "company": "CÔNG TY CỔ PHẦN THÉP POMINA - NHÀ MÁY LUYỆN THÉP POMINA 3",
+      "position": "Kỹ thuật viên Bảo trì Điện - DCS",
+      "duration": "Tháng 5/2022 - Tháng 6/2024",
+      "responsibilities": [
+        "Lắp đặt, vận hành và bảo trì thiết bị trong hệ thống.",
+        "Quản lý và đào tạo nhân viên trực thuộc khu vực.",
+        "Lập kế hoạch bảo trì định kỳ, viết báo cáo công việc và báo cáo sự cố."
+      ]
+    }
+  ],
+  "university": "ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP HỒ CHÍ MINH",
+  "major": "Công nghệ kỹ thuật Điện - Điện tử",
+  "gpa": "7.84/10",
+  "certifications": [
+    "ĐIỆN HỢP CHUẨN - QUYỀN HUY (Tháng 12/2018)",
+    "AUTOCAD 2D (Tháng 4/2018)",
+    "SƯ PHẠM BẬC 2 (Tháng 3/2019)",
+    "Chứng chỉ TOEIC 500+"
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "full_name": "LE DUY KHANG",
+  "applied_position": "Data Analyst Intern",
+  "gender": "",
+  "dob": "30/05/2004",
+  "email": "ld.khang305204@gmail.com",
+  "address": "An Phu Dong, District 12, Ho Chi Minh City",
+  "phone": "0961125575",
+  "skills": [
+    "Power BI",
+    "Python",
+    "SQL",
+    "Pandas",
+    "Numpy",
+    "Hadoop",
+    "Spark",
+    "MySQL",
+    "SQLite",
+    "MongoDB",
+    "GitHub",
+    "Docker",
+    "Google Colab",
+    "Linux",
+    "Strong teamwork abilities",
+    "Quick to learn new technologies",
+    "Proactive and highly responsible"
+  ],
+  "experience": [
+    "ANIMAL IMAGE CLASSIFICATION USING CNN: Built an image classification system for animals using CNN (Python, TensorFlow, Numpy, Pandas, Matplotlib), achieved 92.41% accuracy.",
+    "LUNG CANCER PATIENT RECORDS MANAGEMENT USING HADOOP & SPARK: Built a lung cancer patient management system (Python, Hadoop, Spark, Pandas, RandomForest), performed data processing and analysis, and developed a web app interface."
+  ],
+  "university": "Van Lang University",
+  "major": "Data Technology",
+  "gpa": "",
+  "certifications": ""
+}

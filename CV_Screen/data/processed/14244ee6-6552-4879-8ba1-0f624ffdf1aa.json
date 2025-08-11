@@ -1,0 +1,43 @@
+﻿{
+  "full_name": "",
+  "applied_position": "",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "",
+  "phone": "",
+  "skills": [
+    "Agile",
+    "Spiral",
+    "Waterfall",
+    "Transformation",
+    "System Design",
+    "Software Architect",
+    "Microservice",
+    "SaaS",
+    "Blockchain",
+    "Security",
+    "DevOps",
+    "CI/CD",
+    "AWS",
+    "ReactJS",
+    "NextJs",
+    "PHP",
+    "NodeJS",
+    "TS",
+    "Java",
+    "Solidity",
+    "Postgres",
+    "MySQL"
+  ],
+  "experience": "4 years of experience leading digital transformation initiatives for corporations such as MTEX, POPS, and BIN. 6 years of experience in cross-functional management with Spiral and Agile methodologies. Over 15 years of extensive experience in enterprise system design and software architecture. Roles include: Project Manager - System Design at BIN Corporation (2024-Now), Product Manager - CTO at CodeBox Solution (2019-2024), Scrum Master - Software Architect at LOCKON (EC-CUBE) (2015-2018), Consultant - Principal at YouNet (2013-2015), Platform Developer at POPS Media (2007-2012), and PHP Developer at Global Cybersoft (2005-2007). Experience covers managing business operations (Sales, Marketing, SEO), CRM/ERP integration, affiliate marketing, e-commerce, Web3 projects (Binance, Solana smart contracts), designing software architecture and system solutions, optimizing open-source e-commerce solutions, performance improvement, AWS optimization, building social and music platforms, and working with CMMI level 4.",
+  "university": "University of Science - KHTN HCM",
+  "major": "Information System",
+  "gpa": "",
+  "certifications": [
+    "Information System Bachelor (University of Science - KHTN HCM)",
+    "PMP Project Management Professional (PMP)®",
+    "English B2",
+    "Japanese 3 Kyuu"
+  ]
+}

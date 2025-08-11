@@ -1,0 +1,51 @@
+﻿{
+  "full_name": "Hoa Nguyen",
+  "applied_position": "Data Engineer | BI Solutions",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Go Vap Dist, HCMC",
+  "phone": "",
+  "skills": [
+    "Linux",
+    "Window",
+    "SQL",
+    "Python",
+    "Mssql",
+    "mySQL",
+    "MongoDB",
+    "Hadoop",
+    "sFTP",
+    "Pandas",
+    "pyspark",
+    "DBT",
+    "Power BI",
+    "DAX",
+    "Airflow",
+    "Git",
+    "Talend",
+    "SSIS",
+    "SSAS",
+    "SAP"
+  ],
+  "experience": [
+    {
+      "position": "Data Engineer",
+      "company": "Kimberly-Clark Viet Nam",
+      "duration": "Feb 2023 - Current",
+      "description": "Work closely with end-users and vendors to enrich data warehouse and enhance operation report. Develop all data pipelines (approx. 50 pipelines) for Kimberly Clark Viet Nam, ensuring daily operation reports run smoothly. Daily Operation: Maintain data pipeline, server, backup database, optimize query execution. Achievement: Led project to apply row-level security in excel report to avoid data leakage (team size: 3 members). Key member as data engineer role joining project revamp data warehouse for whole Kimberly Clark Viet Nam (team size: 7 members)."
+    },
+    {
+      "position": "Data Engineer",
+      "company": "Phu Nhuan Jewelry Joint Stock Company (PNJ)",
+      "duration": "Sep 2021 - Nov 2022 (1 yr, 2 mos)",
+      "description": "Maintain and build all data pipelines for PNJ Corp and its members (approx. 300 jobs). Work and handle billions of records (~3 million records daily). Release nearly real-time reports serving up to 200 end-users daily, and 30 end-users for self-serving reports. Extract data from diverse sources (Relational Database, NoSQL, Social). Ensured stable system operation up to 95% and SLA 4.9/5 in serving users. Achievement: Built and maintained Incentive project (~5000 active end-users viewing data on App/Web/Dashboard). Built and maintained Camera AI project. Worked as Digital Transformation Center department to collect demands from other departments, understanding their pain points to build meaningful daily reports to help them make right decisions at right time."
+    }
+  ],
+  "university": "Hoa Sen University",
+  "major": "Management Information System",
+  "gpa": "3.43/4",
+  "certifications": [
+    "Aptis B2 Level (English)"
+  ]
+}

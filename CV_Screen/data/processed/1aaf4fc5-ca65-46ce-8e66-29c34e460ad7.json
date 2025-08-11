@@ -1,0 +1,34 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Kỹ sư phần mềm",
+  "gender": "Nam",
+  "dob": "01/01/1990",
+  "email": "nguyen.van.a@example.com",
+  "address": "Số 123, Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0901 234 567",
+  "skills": [
+    "Java",
+    "Python",
+    "C++",
+    "Spring Boot",
+    "Django",
+    "ReactJS",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "Jira"
+  ],
+  "experience": [
+    "Kỹ sư phần mềm tại Công ty X (01/2018 - Hiện tại): Phát triển và bảo trì các module phần mềm sử dụng Java, Spring Boot. Tham gia thiết kế kiến trúc hệ thống và cơ sở dữ liệu. Viết unit test và integration test.",
+    "Thực tập sinh phần mềm tại Công ty Y (06/2017 - 12/2017): Hỗ trợ phát triển giao diện người dùng bằng ReactJS. Thực hiện các tác vụ sửa lỗi nhỏ."
+  ],
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Công nghệ thông tin",
+  "gpa": "3.5/4.0",
+  "certifications": [
+    "AWS Certified Solutions Architect – Associate",
+    "Chứng chỉ tiếng Anh IELTS 6.5"
+  ]
+}

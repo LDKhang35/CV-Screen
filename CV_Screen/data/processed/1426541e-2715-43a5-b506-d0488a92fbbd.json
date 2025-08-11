@@ -1,0 +1,35 @@
+﻿{
+  "full_name": "Nguyễn Văn Khải",
+  "applied_position": ".Net Developer",
+  "gender": "",
+  "dob": "24/10/1999",
+  "email": "",
+  "address": "58/5, Trần Bình, Mai Dịch, Cầu Giấy, Hà Nội",
+  "phone": "",
+  "skills": [
+    ".Net Core",
+    ".Net Framework",
+    "RESTful API",
+    "JavaScript",
+    "JQuery",
+    "ReactJs",
+    "SQL Server",
+    "MVC",
+    "Web API",
+    "NodeJs",
+    "Quản lý thời gian",
+    "Kỹ năng giao tiếp",
+    "Kỹ năng làm việc nhóm"
+  ],
+  "experience": [
+    "03/2021-Hiện tại: .NET DEVELOPER tại CÔNG TY CỔ PHẦN BÁN LẺ KỸ THUẬT SỐ FPT",
+    "03/2020 -03/2021: FRESHER WEB tại CÔNG TY CỔ PHẦN CODELOVERS VIỆT NAM",
+    "05/2019-12/2019: INTERN WEB tại CÔNG TY CỔ PHẦN NGHIÊN CỨU VÀ PHÁT TRIỂN FABBI"
+  ],
+  "university": "ĐẠI HỌC GIAO THÔNG VẬN TẢI",
+  "major": "CÔNG NGHỆ THÔNG TIN",
+  "gpa": "7.64",
+  "certifications": [
+    "Chứng chỉ ngoại ngữ bậc 3 (2021)"
+  ]
+}

@@ -1,0 +1,79 @@
+﻿{
+  "full_name": "TỐNG THỊ CẨM VÂN",
+  "applied_position": "KẾ TOÁN VIÊN",
+  "gender": "",
+  "dob": "15/10/1993",
+  "email": "",
+  "address": "7/33 Đường Số 16, P Linh Chiểu, TP Thủ Đức",
+  "phone": "",
+  "skills": [
+    "Tin học văn phòng (Word, Excel, Phần mềm kế toán Axapter, Misa, ERP, Link Q, Phần mềm Bảo hiểm xã hội IVAN)",
+    "Làm việc độc lập và làm việc nhóm dưới áp lực cao",
+    "Quản lý thời gian",
+    "Giải quyết vấn đề"
+  ],
+  "experience": [
+    {
+      "title": "NHÂN VIÊN KẾ TOÁN KHO + THANH TOÁN",
+      "company": "Công Ty Cổ Phần Thời Trang Sắc Nắng",
+      "dates": "01/09/2016 - 25/11/2021",
+      "responsibilities": [
+        "Theo dõi nhập, xuất kho hàng ngày (vải, nguyên phụ liệu, thành phẩm, bán thành phẩm,...).",
+        "Kiểm kê kho định kỳ và theo yêu cầu cấp trên.",
+        "Theo dõi công nợ các nhà cung cấp.",
+        "Theo dõi hợp đồng khách hàng.",
+        "Theo dõi thu, chi tiền mặt; tiền gửi ngân hàng.",
+        "Theo dõi dòng tiền để lên kế hoạch thanh toán cho nhà cung cấp.",
+        "Kiểm tra chứng từ hồ sơ thanh toán; tính hợp lệ của các loại chi phí, các hóa đơn chứng từ và làm lệnh thanh toán.",
+        "Quản lý hóa đơn đầu vào, đầu ra phối hợp với Kế toán tổng hợp làm báo cáo VAT.",
+        "Hạch toán, quản lý, thực hiện các Hồ sơ Bảo hiểm Xã hội.",
+        "Lưu trữ chứng từ sổ sách, báo cáo và các tài liệu liên quan một cách có hệ thống và chuyên nghiệp."
+      ]
+    },
+    {
+      "title": "NHÂN VIÊN KẾ TOÁN NỘI BỘ",
+      "company": "Công Ty Tnhh Thương Mại Dược Vật Tư Y Tế Hà Minh",
+      "dates": "26/11/2021 - 12/06/2022",
+      "responsibilities": [
+        "Kiểm tra chứng từ hồ sơ thanh toán; tính hợp lệ của các loại chi phí các hóa đơn chứng từ và làm lệnh thanh toán.",
+        "Quản lý hóa đơn đầu vào, đầu ra phối hợp với Kế toán trưởng làm báo cáo VAT.",
+        "Theo dõi công nợ khách hàng.",
+        "Theo dõi tiền gửi ngân hàng và thực hiện các giao dịch ngân hàng.",
+        "Theo dõi dòng tiền để lên kế hoạch thanh toán cho nhà cung cấp.",
+        "Chuẩn bị bộ hồ sơ giải ngân thanh toán nhà cung cấp.",
+        "Hạch toán, quản lý, thực hiện các Hồ sơ Bảo hiểm Xã hội.",
+        "Theo dõi, kiểm tra nhập xuất tồn, hàng tồn kho và đối chiếu hàng tồn kho với bộ phận Kho.",
+        "Lưu trữ chứng từ sổ sách, báo cáo và các tài liệu liên quan một cách có hệ thống và chuyên nghiệp."
+      ]
+    },
+    {
+      "title": "KẾ TOÁN CÔNG NỢ PHẢI THU (AR)",
+      "company": "Công Ty TNHH Phân Phối Liên Kết Quốc Tế",
+      "dates": "13/06/2022 - 18/06/2023",
+      "responsibilities": [
+        "Nhận hợp đồng kinh tế của các bộ phận, khách hàng, kiểm tra điều khoản, nội dung để lên kế hoạch thu nợ.",
+        "Theo dõi xác nhận công nợ với khách hàng hằng tháng, theo dõi tình hình công nợ khách hàng.",
+        "Hạch toán các bút toán lên hệ thống.",
+        "Kiểm tra, đối chiếu các số liệu.",
+        "Theo dõi hạn thanh toán, tạm ứng và nhắc thanh toán khi đến hạn chi tiết theo từng bộ phận.",
+        "Lưu trữ chứng từ, hóa đơn, hợp đồng."
+      ]
+    },
+    {
+      "title": "NHÂN VIÊN KẾ TOÁN",
+      "company": "Công Ty Cổ Phần Care Việt Nam",
+      "dates": "30/06/2024 - Hiện nay",
+      "responsibilities": [
+        "Xuất hóa đơn GTGT, tính công nợ phí dịch vụ hằng tháng cho KH.",
+        "Đối chiếu công nợ đầu vào cuối kỳ, kiểm tra và làm hồ sơ thanh toán cho các nhà cung cấp.",
+        "Đối chiếu chốt doanh thu cuối tháng và ghi nhận doanh thu.",
+        "Báo cáo tập hợp doanh thu - chi phí trong kỳ cho cấp quản lý.",
+        "Quản lý hồ sơ và lưu trữ các dữ liệu công việc theo quy định."
+      ]
+    }
+  ],
+  "university": "Trường Đại Học Nguyễn Tất Thành",
+  "major": "Kế toán",
+  "gpa": "Khá",
+  "certifications": []
+}

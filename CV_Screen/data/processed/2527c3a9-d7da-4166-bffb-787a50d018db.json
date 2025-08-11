@@ -1,0 +1,97 @@
+﻿{
+  "full_name": "HUỲNH PHÚ CƯỜNG",
+  "applied_position": "",
+  "gender": "Male",
+  "dob": "February 05, 1984",
+  "email": "",
+  "address": "D-4.12, 3 Street, Ehome S Nam Sai Gon Apartment, Binh Hung Ward, Binh Chanh District, HC M City, Viet Nam Country",
+  "phone": "",
+  "skills": [
+    ".NET programming (expert, 5 years, all versions 2003-2015)",
+    "C#",
+    "Component One",
+    "Crystal Reports",
+    "MS SQL",
+    "Java programming (expert, 2 years)",
+    "System Analysis and Design",
+    "Object-Oriented Programming",
+    "Microsoft Windows (system setup/maintenance)",
+    "Linux (system setup/maintenance)",
+    "Oracle (database management)",
+    "MS SQL (database management, all versions)",
+    "Excel",
+    "Access",
+    "Independent work",
+    "Teamwork",
+    "Group Management",
+    "Communication skills",
+    "Interpersonal skills",
+    "ERP systems consultancy (CRM, HRM, FRM)",
+    "Business Analysis (B/A)",
+    "Project Management (PM)",
+    "IBM Cognos TM1",
+    "IBM Cognos BI",
+    "Tableau BI (all versions)",
+    "Odoo ERP",
+    "Bitrix24 Host",
+    "Zoom Meeting",
+    "Ubuntu",
+    "C",
+    "C++",
+    "VB.NET",
+    "Progress OpenEdge",
+    "Python",
+    "SAS Production tools",
+    "English (spoken, read, written)"
+  ],
+  "experience": [
+    {
+      "duration": "August 1, 2009 – December 25, 2011",
+      "company": "Panda Software Co – CanTho City",
+      "position": "Manager Team Dev & Projects Manager (PM)",
+      "description": "Managed and developed all projects including Karaoke Soft, Gas – Water Soft, Mobile Soft, and Notary Soft. Involved in coding, analysis, design, development, and maintenance. Utilized C#, LinkQ, SQL Server 2000, SQL Server 2005, txt, XML."
+    },
+    {
+      "duration": "February 20, 2012 – August 31, 2015",
+      "company": "BSD Co – Ho Chi Minh City",
+      "position": "Team Leader Project Cognos IBM",
+      "description": "Led and managed the Budgets Planning project for Thanh Thanh Cong Group. Products used: IBM Cognos TM1, SAGE ACCPAC ERP, MS Dynamic CRM 2012 – 2015, QAD 2013 SE – EE (ERP). Database types: OLAP, 4GL, Oracle, SQL 2008, SQL 2012. Project scope included management, analysis, design, development, and maintenance."
+    },
+    {
+      "duration": "November 09, 2015 – January 08, 2017",
+      "company": "TTC GROUP – Ho Chi Minh City",
+      "position": "Team Leader Cognos TM1 - IBM & Project Manager for 4 projects BI Tableau",
+      "description": "Operated IBM COGNOS TM1 & IBM COGNOS BI applications and managed all BI TABLEAU projects within TTC Group. Products used: IBM COGNOS TM1 10.2.2, IBM COGNOS BI 10.2.2, BI TABLEAU. Database types: SQL 2008, 2010, 2012, 2014; ORACLE; FOXPRO 9.0; FIREBIRD 2.5. Project scope included management, operation, analysis, design, development, and maintenance."
+    },
+    {
+      "duration": "March 07, 2017 – November 28, 2019",
+      "company": "SMARTNET Co - Ho Chi Minh City",
+      "position": "Operating System ERP",
+      "description": "Performed Business Analytics, Support, and Testing functions for ERP Odoo (Python-based) system. Database type: PostgreSQL. Project scope included management, analysis, design, development, and maintenance."
+    },
+    {
+      "duration": "November 14, 2019 – July 31, 2020",
+      "company": "IMMICA EB5 Co - Ho Chi Minh City",
+      "position": "Manager Operating IT IMMICA GROUP",
+      "description": "Managed IT operations for IMMICA GROUP. Products used: Bitrix24 host CRM system, internet, server systems, Zoom. Database type: MySQL. Project scope included management, operation, analysis, design, development, and maintenance."
+    },
+    {
+      "duration": "November 15, 2020 - Now",
+      "company": "GSOFT Co - Ho Chi Minh City",
+      "position": "Developer Project Credit Score of CMC for Sacombank",
+      "description": "Currently working as an IT Developer for the Credit Score Project for Sacombank (CMC). Products used: Oracle, SAS Production tools. Database types: Oracle, SAS. Project scope includes analysis, design, and development."
+    }
+  ],
+  "university": [
+    "NIITCANTHO",
+    "The University of BinhDuong"
+  ],
+  "major": [
+    "Professional Diploma of Information Technology",
+    "Bachelor of Science in Business Administration"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Driver Car level B (since 2014)"
+  ]
+}

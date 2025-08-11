@@ -1,0 +1,68 @@
+﻿{
+  "full_name": "Trần Khánh Vân",
+  "applied_position": "Nhân viên kinh doanh",
+  "gender": "",
+  "dob": "07-01-2000",
+  "email": "",
+  "address": "Quận Bình Thạnh",
+  "phone": "",
+  "skills": [
+    "Tư vấn bán hàng",
+    "Canva",
+    "Video editing",
+    "Thuyết trình",
+    "Giải quyết vấn đề"
+  ],
+  "experience": [
+    {
+      "company_name": "Công ty Myhair",
+      "position": "Nhân viên chứng từ xuất khẩu",
+      "duration": "2021 - 2022",
+      "responsibilities": [
+        "Liên hệ với khách hàng về các thủ tục, chứng từ, thời gian giao hàng",
+        "Soạn bộ hồ sơ chứng từ xuất khẩu đầy đủ sang các nước - sản phẩm tóc giả",
+        "Lên báo giá, hợp đồng mua bán, đề nghị thanh toán",
+        "Chăm sóc khách hàng cũ, tiếp nhận khách hàng mới"
+      ]
+    },
+    {
+      "company_name": "Công ty Gift Boss",
+      "position": "Trợ lý Giám Đốc",
+      "duration": "2022 - 2023",
+      "responsibilities": [
+        "Tư vấn, bán hàng các sản phẩm của công ty - sản phẩm quà tặng doanh nghiệp, in ấn logo.",
+        "Sắp xếp, hỗ trợ tuyển dụng nhân viên bán hàng.",
+        "Đào tạo nhân viên bán hàng các sản phẩm công ty đang kinh doanh.",
+        "Soạn báo giá, hợp đồng, các chứng từ mua bán.",
+        "Chăm sóc khách hàng sau bán hàng.",
+        "Tìm kiếm khách hàng mới qua các kênh: online, hội thảo.",
+        "Các công việc khác theo sự chỉ đạo của Giám Đốc."
+      ]
+    },
+    {
+      "company_name": "Công ty GAMS",
+      "position": "Trưởng nhóm kinh doanh kiêm sales admin",
+      "duration": "2023 - 3/2024",
+      "responsibilities": [
+        "Lập kế hoạch bán hàng, áp KPI phù hợp cho từng nhân viên",
+        "Tư vấn, bán hàng các sản phẩm của công ty - sản phẩm quà tặng doanh nghiệp, in ấn logo.",
+        "Tiếp nhận và chuyển thông tin Khách hàng cho các nhân viên Kinh doanh.",
+        "Quản lý Danh sách khách hàng.",
+        "Theo dõi tiến độ sản xuất, đảm bảo giao hàng theo đúng thời gian đã cam kết với khách hàng.",
+        "Theo dõi công nợ phải thu Khách hàng.",
+        "Hỗ trợ lên đơn hàng, kiểm tra và báo cáo tình trạng đơn hàng khi có phát sinh",
+        "Tiếp nhận và xử lý thông tin khiếu nại từ Khách hàng liên quan đến chất lượng hàng hóa và dịch vụ.",
+        "Chăm sóc khách hàng sau bán hàng.",
+        "Nhập dữ liệu bán hàng của Phòng Kinh doanh và lên báo cáo tuần/tháng/quý/năm.",
+        "Thực hiện các công việc phát sinh theo sự phân công của cấp trên."
+      ]
+    }
+  ],
+  "university": "Đại học Công Nghiệp",
+  "major": "Kinh doanh quốc tế",
+  "gpa": "3.2",
+  "certifications": [
+    "TOEIC (795)",
+    "Tin học văn phòng"
+  ]
+}

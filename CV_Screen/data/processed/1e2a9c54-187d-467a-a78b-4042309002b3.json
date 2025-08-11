@@ -1,0 +1,71 @@
+﻿{
+  "full_name": "ĐỨC PHẠM CÔNG",
+  "applied_position": "Machine Vision Researcher",
+  "gender": "Nam",
+  "dob": "08/10/1994",
+  "email": "",
+  "address": "Mỹ Đình, Nam Từ Liêm, Hà Nội, Việt Nam",
+  "phone": "",
+  "skills": [
+    "Opencv",
+    "Python",
+    "C++",
+    "Mobile Experiences",
+    "Choosing Devices Camera Lens Light",
+    "Calculate The Best Setup for The Vision System",
+    "Evaluating The Feasibility of Vision Requirement",
+    "Experiences of Using Deep Learning Models (TensorFlow, YOLO)",
+    "Choosing The Best Deep Learning Model (Tact time and Accuracy)",
+    "Serial Communication",
+    "Tiếng Anh Trung Cấp"
+  ],
+  "experience": [
+    {
+      "position": "Vision System Developer",
+      "company": "Samsung Electronic Vietnam",
+      "duration": "01/2015 - 01/2018 (5 năm 1 tháng)",
+      "responsibilities": [
+        "Finding stages, places where Vision can be applied",
+        "Receive, analyze and evaluate the Vision application requirements of other departments",
+        "Modify or build new code for the Vision application"
+      ]
+    },
+    {
+      "position": "Developer",
+      "company": "NTT Solution",
+      "duration": "01/2019 - 01/2020 (1 năm 1 tháng)",
+      "responsibilities": [
+        "Participate in projects related to C++ (MFC)",
+        "Change programming language to C# and join C# projects",
+        "Change programming languages to SWIFT and join iOS projects",
+        "Prepare reports and join meetings with customer"
+      ]
+    },
+    {
+      "position": "Machine Vision Researcher",
+      "company": "TSB",
+      "duration": "01/2020 - Hiện Tại (1 năm 10 tháng)",
+      "responsibilities": [
+        "Join the building machine team with Vision technical responsibility",
+        "Receive the requirement from the factory about the Vision applying idea, then evaluate and consider the project is feasible or not",
+        "Choose Camera, Lens, Light. Calculate the best setup position for the Vision system",
+        "Finding for the algorithm to resolve the Vision problem. Optimize the algorithm to reduce maximum the image processing time"
+      ]
+    },
+    {
+      "position": "Technical Manager",
+      "company": "MES-Dai Tech",
+      "duration": "01/2020 - Hiện Tại (1 năm 10 tháng)",
+      "responsibilities": [
+        "Train the newbie and middle of Vision engineer",
+        "Give the solution guide for the Vision team to choose algorithms and resolve the problem",
+        "Help to choose the devices (Light, Camera, Lens) of the project",
+        "Help the sales team to have a good strategy to come to the factory"
+      ]
+    }
+  ],
+  "university": "Thái Nguyên University of Technology",
+  "major": "Automation, IT",
+  "gpa": "",
+  "certifications": ""
+}

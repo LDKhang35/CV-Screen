@@ -1,0 +1,15 @@
+﻿{
+  "full_name": "Lê Thị Thảo",
+  "applied_position": "Chuyên viên phát triển kinh doanh",
+  "gender": "Nữ",
+  "dob": "15/10/2000",
+  "email": "lethaonguyen@gmail.com",
+  "address": "123 Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0987.654.321",
+  "skills": "Giao tiếp hiệu quả, Đàm phán và thuyết phục, Làm việc nhóm, Tin học văn phòng (Word, Excel, PowerPoint), Tiếng Anh (IELTS 7.0)",
+  "experience": "Chuyên viên kinh doanh tại Công ty X (01/2022 – Hiện tại): Phát triển và duy trì mối quan hệ với khách hàng, đạt và vượt chỉ tiêu doanh số hàng quý, phân tích thị trường và đề xuất chiến lược kinh doanh. Thực tập sinh Marketing tại Công ty Y (06/2021 – 12/2021): Hỗ trợ các chiến dịch marketing, nghiên cứu thị trường và phân tích đối thủ cạnh tranh, quản lý nội dung trên các kênh truyền thông.",
+  "university": "Đại học Kinh tế Quốc dân",
+  "major": "Quản trị Kinh doanh",
+  "gpa": "3.5/4.0",
+  "certifications": "Chứng chỉ Google Analytics, Chứng chỉ Quản lý Dự án (PMP – Project Management Professional)"
+}

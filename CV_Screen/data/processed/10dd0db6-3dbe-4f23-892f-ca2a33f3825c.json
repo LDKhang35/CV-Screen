@@ -1,0 +1,51 @@
+﻿{
+  "full_name": "NGUYỄN ĐỨC TÙNG",
+  "applied_position": "Nhân viên",
+  "gender": "",
+  "dob": "29/10/2000",
+  "email": "",
+  "address": "An Hồng - An Dương - Hải Phòng",
+  "phone": "",
+  "skills": [
+    "Sử dụng thành thạo các công cụ Word, Excel, Power Point.",
+    "Khả năng giao tiếp Tiếng Anh tốt.",
+    "Chăm chỉ, học hỏi trau dồi các kỹ năng.",
+    "Làm việc theo nhóm tốt, hòa đồng.",
+    "Khả năng làm việc chịu áp lực.",
+    "Nhanh nhẹn, cẩn thận, tỉ mỉ.",
+    "Sẵn sàng tham gia các hoạt động."
+  ],
+  "experience": [
+    {
+      "position": "Nhân viên Part time bán hàng",
+      "company": "Cửa hàng phụ kiện máy tính",
+      "duration": "11/2019-07/2020",
+      "description": "Thu ngân và kiểm kê hàng hóa. Tư vấn, giới thiệu, cung cấp thông tin của sản phẩm cho khách hàng. Tìm hiểu nhu cầu, hỗ trợ khách hàng về lựa chọn sản phẩm."
+    },
+    {
+      "position": "Nhân viên Part time bán hàng",
+      "company": "Công ty Cổ phần Dầu khí Tín Nghĩa",
+      "duration": "11/2020-10/2021",
+      "description": "Quảng cáo, tư vấn sản phẩm trực tiếp đến người tiêu dùng. Tìm hiểu, thu thập thông tin đối thủ cạnh tranh: giá, hệ thống phân phối trong khu vực. Phát triển và mở rộng thị trường của sản phẩm."
+    },
+    {
+      "position": "Nhân viên hỗ trợ giám sát",
+      "company": "Công ty cổ phần xây dựng thương mại đầu tư phát triển Bạch Đằng Hải Phòng",
+      "duration": "10/2022-04/2023",
+      "description": "Hỗ trợ giám sát, báo cáo tình hình hoạt động của nhân sự tại công trường. Kiểm tra kho vật tư, thiết bị, tình hình xuất nhập kho."
+    },
+    {
+      "position": "Nhân viên kế toán",
+      "company": "Công ty cổ phần cơ khí và dịch vụ thương mại An Bình",
+      "duration": "06/2023-09/2024",
+      "description": "Tổng hợp, sắp xếp các chứng từ mở tờ khai, xuất hóa đơn hàng hóa trong tháng. Kê khai, bảng kê hóa đơn đầu ra, tổng hợp các hóa đơn bán ra trong năm. Đối chiếu công nợ phải thu, phải trả của nhà cung cấp và khách hàng lẻ, ghi chép phiếu chi. Sắp xếp quản lý hồ sơ của các nhà cung cấp và khách hàng. Các công việc phát sinh khác được giao."
+    }
+  ],
+  "university": "Trường Đại học Hải Phòng",
+  "major": "Kế toán doanh nghiệp",
+  "gpa": "Tốt nghiệp loại khá",
+  "certifications": [
+    "Chứng chỉ tin học văn phòng (2020)",
+    "Chứng chỉ đầu ra tiếng Anh (2022)"
+  ]
+}

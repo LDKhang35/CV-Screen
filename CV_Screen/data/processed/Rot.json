@@ -1,0 +1,28 @@
+﻿{
+  "full_name": "Nguyễn Thị Trúc Mai",
+  "applied_position": "NHÂN VIÊN PHIÊN DỊCH",
+  "gender": "Nữ",
+  "dob": "30/02/2004",
+  "email": "vidujoboko@gmail.com",
+  "address": "123 ABC, Quận XYZ, HCM",
+  "phone": "0123456789",
+  "skills": [
+    "Phân tích và giải quyết vấn đề"
+  ],
+  "experience": [
+    {
+      "company": "CÔNG TY JO​BOKO",
+      "position": "Thực tập sinh Nhân sự",
+      "description": "Thiết kế JD công việc từ yêu cầu của khách hàng \nTìm kiếm, nghiên cứu thông tin doanh nghiệp, công việc, thị trường \nViết content và thiết kế ảnh truyền thông tuyển dụng \nTạo nguồn CV ứng viên qua các kênh tuyển dụng (Facebook, LinkedIn, Jobsite) \nSàng lọc CV, phỏng vấn ứng viên qua điện thoại Sắp xếp lịch phỏng vấn và thông báo kết quả phỏng vấn"
+    },
+    {
+      "company": "TRUNG TÂM CHUYÊN LUYỆN THI HSK AOSA",
+      "position": "Thực tập sinh",
+      "description": "Hỗ trợ tư vấn tuyển sinh: Tìm hiểu nhu cầu học tập của học viên, tư vấn các khóa học phù hợp, và hỗ trợ đăng ký.\nHỗ trợ công tác giảng dạy: Chuẩn bị tài liệu, hỗ trợ giáo viên trong quá trình giảng dạy, quản lý lớp học.\nHỗ trợ quản lý và vận hành: Tham gia vào các hoạt động quản lý lớp học, hỗ trợ các công việc hành chính, và đóng góp vào việc xây dựng môi trường học tập hiệu quả.\nPhát triển nội dung: Hỗ trợ xây dựng nội dung học tập, tài liệu ôn thi HSK."
+    }
+  ],
+  "university": "TRƯỜNG ĐẠI HỌC tÔN ĐỨC THẮNG",
+  "major": "Ngôn ngữ Trung",
+  "gpa": "Trung bình",
+  "certifications": []
+}

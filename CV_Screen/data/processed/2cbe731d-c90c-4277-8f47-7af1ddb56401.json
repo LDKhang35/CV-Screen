@@ -1,0 +1,131 @@
+﻿{
+  "full_name": "PHAN MINH THỌ",
+  "applied_position": "IT Manager",
+  "gender": "Nam",
+  "dob": "25/01/1984",
+  "email": "",
+  "address": "1305/2/2 Phạm Thế Hiển, Ward 5, Dist 8, HCMC, Quận 8, Hồ Chí Minh, Việt Nam",
+  "phone": "",
+  "skills": [
+    "Infrastructure Management",
+    "Project Management",
+    "Leadership",
+    "Adaptability Skill",
+    "Problem Solving",
+    "Decision Making",
+    "IT Service Delivery Management",
+    "System Administration",
+    "Cybersecurity Principles",
+    "Network Infrastructure",
+    "Virtualization Technologies",
+    "Cloud Computing Platforms",
+    "ITIL Framework",
+    "Incident Response",
+    "Risk Management Practices",
+    "Compliance Standards",
+    "Regulatory Requirements",
+    "Strategic Planning",
+    "Team Leadership",
+    "Technical Proficiency"
+  ],
+  "experience": [
+    {
+      "position": "IT Manager",
+      "company": "Nin Sing Logistics",
+      "duration": "09/2020 - 06/2024 (3 năm 9 tháng)",
+      "responsibilities": [
+        "Directed IT service delivery operations, ensuring high quality service delivery and customer satisfaction.",
+        "Managed system infrastructure, including GWS platform, networks, and storage solutions, to maintain optimal performance and reliability.",
+        "Lead the development and implementation of IT policies, procedures and standards to ensure compliance and security.",
+        "Oversaw incident response and resolution processes, minimizing downtime and mitigating risks.",
+        "Collaborated with cross functional teams to identify IT requirements and implement solutions aligned with company objectives."
+      ]
+    },
+    {
+      "position": "IT Manager",
+      "company": "Ubase VINA",
+      "duration": "05/2019 - 08/2020 (1 năm 3 tháng)",
+      "responsibilities": [
+        "Lead a team of IT in developing & implementing strategic IT initiatives.",
+        "Manage IT projects from inception to completion, make sure on-time delivery and within budget.",
+        "Oversee network infrastructure, security and IT system administration.",
+        "Designed and implemented IT policies and procedures to improve efficiency and security.",
+        "Provided technical expertise and guidance to solve complex IT issues."
+      ]
+    },
+    {
+      "position": "IT Lead",
+      "company": "VCCD - SC Vivocity",
+      "duration": "01/2015 - 03/2019 (4 năm 2 tháng)",
+      "responsibilities": [
+        "Directed IT projects throughout the entire lifecycle, ensuring adherence to timelines and budget constraints.",
+        "Provide technical guidance and mentorship to team members, fostering a collaborative and high performance work environment.",
+        "Collaborated with stakeholders to identify IT requiremen tand translate them into actionable plans.",
+        "Maintain network, system: firewall, network access, servers for local office."
+      ]
+    },
+    {
+      "position": "IT Supervisor",
+      "company": "LAZADA VIETNAM",
+      "duration": "08/2013 - 10/2014 (1 năm 2 tháng)",
+      "responsibilities": [
+        "Supervised a small team, providing guidance and support to ensure the effective operation of IT systems and services.",
+        "Managed day by day IT operations, including help desk support, network administration, and system maintenance.",
+        "Oversaw IT projects, from planning to executing, ensuring alignment with company goals and objectives.",
+        "Conducted performance evalutions, provided feedback and facilitated professional development for teams."
+      ]
+    },
+    {
+      "position": "IT Network and System at Head Office",
+      "company": "Shinhan bank vietnam",
+      "duration": "09/2012 - 08/2013 (11 tháng)",
+      "responsibilities": [
+        "Managed and maintained banking IT systems, including core banking applications, ATM networks, and online banking platforms.",
+        "Provided technical support and trainining to bank staff on IT systems and procedures.",
+        "Colloborated with stakeholders to identify IT needs and implement solutions to improve operational efficiency and customer service.",
+        "Conducted regular audits and risk assessments to identify vulnerabilities and mitigate potential risks."
+      ]
+    },
+    {
+      "position": "IT Administrator",
+      "company": "FAR EAST NATIONAL BANK",
+      "duration": "03/2011 - 08/2012 (1 năm 5 tháng)",
+      "responsibilities": [
+        "Responsible for maintaining all Servers (Lan server, Lotus Domino mail server,..).",
+        "Trouble shoot system issues, backup and recovery data.",
+        "Upgarde, Install and troubleshoot connection, hardware, software of Banking.",
+        "Provide end-user training on using IT systems and services.",
+        "PC/Printer/Fax/Software maintenance, updates and installations.",
+        "Manage software Back up Symantec 2012,...",
+        "Check Event Log on DC, Mail,server(FUND server, RPS server, Old Lan server).",
+        "Administer of 2 SWIFT server , DC,Mail server.",
+        "Manage software CITAD,VCBMoney,Symantec backup excec.",
+        "Identify and resolve hardware and software, provide support for user."
+      ]
+    },
+    {
+      "position": "IT Support",
+      "company": "HPT - Support onsite INTEL vietnam",
+      "duration": "04/2008 - 01/2011 (2 năm 9 tháng)",
+      "responsibilities": [
+        "IT support - I am an IT Support guys for all staff.",
+        "Technical support, handle PC's issues from desktop, laptop of customer.",
+        "Able to troubleshooting Windows server 2k3 services DNS,DHCP,WINS...",
+        "Handle hardware, software issues (mail MS OUTLOOK,network connection,Wifi).",
+        "Support for staff about printer,fax,scan,IT equipment.",
+        "Handle Network connection,ntbackup - Provide instruction document for New user.",
+        "Good knowledge on windows server, UNIX RedHat Linux, VOIP.",
+        "Able to work under high pressure.",
+        "Good comunication in English."
+      ]
+    }
+  ],
+  "university": "HCMC University of Foreign Languages & Information Technology",
+  "major": "Networking and Telecommunication",
+  "gpa": "",
+  "certifications": [
+    "MCSA",
+    "Linux",
+    "CCNA"
+  ]
+}

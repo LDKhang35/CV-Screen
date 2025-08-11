@@ -1,0 +1,35 @@
+﻿{
+  "full_name": "Bùi Thị Nguyệt",
+  "applied_position": "Trưởng phòng QA",
+  "gender": "Nữ",
+  "dob": "10-10-1991",
+  "email": "",
+  "address": "Thăng Bình, Quảng Nam",
+  "phone": "",
+  "skills": [
+    "Linh hoạt",
+    "Giao tiếp tốt với khách hàng",
+    "Nắm bắt thông tin nhanh chóng",
+    "Kỹ năng và bản lĩnh quản lý tốt",
+    "Đối mặt tốt với áp lực và cường độ công việc dày đặc",
+    "Tiếng Anh",
+    "Word",
+    "Excel",
+    "Powerpoint"
+  ],
+  "experience": [
+    {
+      "title": "CFA LEADER",
+      "company": "CÔNG TY TNHH DOMEX QUẢNG NAM",
+      "duration": "08-2015 - 01-2024",
+      "description": "Từ 08-2015 đến 02-2017: Trợ lý cho Chủ quản QA, phụ trách các báo cáo QA, hỗ trợ các bộ phận QA trước sản xuất, quản lý bộ phận kiểm kim.\nTừ 03-2017 đến 01-2024: CFA cho đơn hàng Adidas, CFA cho đơn hàng Puma, sau đó là CFA leader cho đơn hàng Puma. Quản lý, sắp xếp công việc cho các QA/CFA. Kiểm duyệt tất cả các mẫu trước khi gửi cho khách hàng. Training cho CFA/QA/QC hàng tháng/ Đào tạo QA mới theo đơn hàng. Làm tài liệu đóng gói cho từng mã hàng. Làm việc trực tiếp với khách hàng qua email về vấn đề chất lượng. Đón tiếp khách hàng tới trực tiếp kiểm xưởng tại nhà máy. Làm việc trực tiếp với các đơn vị thứ 3 tới kiểm hàng. Làm kế hoạch booking cho khách hàng tới kiểm. Tham gia vào quá trình phỏng vấn tuyển dụng QA. Tham gia trực tiếp vào quá trình kiểm mẫu PPS và họp triển khai lên chuyền và bám sát quá trình dẫn chuyền. Họp và thảo luận với các trưởng bộ phận trong nhà máy về vấn đề chất lượng."
+    }
+  ],
+  "university": "Đại học Đà Lạt",
+  "major": "Quản lý phần mềm",
+  "gpa": "Trung bình khá",
+  "certifications": [
+    "Chứng nhận Final hàng của đơn hàng Puma",
+    "Chứng nhận Final hàng Adidas"
+  ]
+}

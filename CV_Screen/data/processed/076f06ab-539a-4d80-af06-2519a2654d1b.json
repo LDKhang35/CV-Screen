@@ -1,0 +1,45 @@
+﻿{
+  "full_name": "LÊ NGỌC ANH",
+  "applied_position": "Kỹ sư thiết kế cơ khí",
+  "gender": "",
+  "dob": "14/10/1995",
+  "email": "",
+  "address": "Ngõ 3 Phố Đỗ Nhuận, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",
+  "phone": "",
+  "skills": [
+    "AutoCad",
+    "Inventor",
+    "Kỹ năng học hỏi và tìm kiếm vấn đề mới nhanh",
+    "Kỹ năng đàm phán, giao tiếp với khách hàng tốt",
+    "Làm việc độc lập",
+    "Làm việc theo nhóm",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Tiếng Anh (Sơ cấp)",
+    "Tiếng Nhật (Sơ cấp)"
+  ],
+  "experience": [
+    {
+      "company": "Công ty TNHH Nissan Việt Nam",
+      "position": "Thực tập sinh",
+      "responsibilities": "Học tiếng nhật (sơ cấp), tìm hiểu sơ bộ kết cấu xe và thiết kế cơ bản.",
+      "duration": "2019 – 05/2020"
+    },
+    {
+      "company": "Công ty TNHH TEP",
+      "position": "Kỹ sư thiết kế và sản xuất",
+      "responsibilities": "Thiết kế các thiết bị vận chuyển: băng tải, gầu nâng, vít tải và các sản phẩm cơ khí khác. Bóc tách và kê vật tư bản vẽ thiết kế phục vụ sản xuất, hỗ trợ kĩ thuật lắp đặt – thi công.",
+      "duration": "6/2020 – 5/2023"
+    },
+    {
+      "company": "Công ty TNHH chế tạo CK, DVTM Đức Dương",
+      "position": "Kỹ sư thiết kế và sản xuất",
+      "responsibilities": "Nhận bản vẽ khách hàng kiểm tra và trao đổi lại nếu sai sót. Bóc tách và kê vật tư sản xuất. Thiết kế các sản phẩm theo yêu cầu.",
+      "duration": ""
+    }
+  ],
+  "university": "Học viện Kỹ Thuật Quân Sự (hệ dân sự)",
+  "major": "Kỹ thuật cơ khí – CTM",
+  "gpa": "Khá",
+  "certifications": ""
+}

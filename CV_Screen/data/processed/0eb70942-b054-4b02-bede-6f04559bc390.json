@@ -1,0 +1,57 @@
+﻿{
+  "full_name": "TRẦN VĂN TRUNG",
+  "applied_position": "LẬP TRÌNH VIÊN",
+  "gender": "",
+  "dob": "27/07/1995",
+  "email": "tranvantrungmail.com",
+  "address": "Đội 4 - Xóm 2 - Thôn Văn Trai - Xã Văn Phú - Huyện Thường Tín - Tp.Hà Nội",
+  "phone": "",
+  "skills": [
+    "C# Winform",
+    "Triển khai phần mềm kế toán",
+    "ERP",
+    "Kết nối hóa đơn điện tử",
+    "Phân tích nghiệp vụ",
+    "Quản lý dự án",
+    "Quản lý quan hệ khách hàng",
+    "Chăm sóc khách hàng",
+    "Chụp hình 360 độ",
+    "Dựng mô hình 3D",
+    "Gia công sản phẩm",
+    "Tin học (level 4)",
+    "Tiếng Anh (level 2)"
+  ],
+  "experience": [
+    {
+      "company": "CÔNG TY CỔ PHẦN PHẦN MỀM EFFECT",
+      "duration": "05/2018 - 03/2024",
+      "position": "Quản lý dự án - Lập trình viên",
+      "description": "Ngôn ngữ lập trình: C# Winform.\nTriển khai phần mềm kế toán cho các đơn vị dự án: Thực hiện viết các chức năng, Module, báo cáo theo tài liệu phân tích đã làm việc với khách hàng (Tổng công ty cổ phần thiết bị xăng dầu PECO, Công Ty TNHH Nippo Mechatronics ( Việt Nam ), Cục quản trị tài vụ, Cục phục vụ ngoại giao đoàn, Tập đoàn đường sắt VN).\nPhát triển sản phẩm: Viết tài liệu và chức năng ERP, kết nối hóa đơn điện tử với các nhà cung cấp dịch vụ hóa đơn điện tử như: Viettel, BKAV, VNPT, Softdream, FPT, Cyber.\nViết tài liệu phân tích nghiệp vụ của khách hàng.\nThành tích đạt được: Hoàn thành tốt công việc được giao cũng như hoàn thành nghiệm thu các dự án trước tiến độ."
+    },
+    {
+      "company": "Bellsystem24-Hoa Sao",
+      "duration": "03/2017 - 04/2018",
+      "position": "Quản lý",
+      "description": "Xây dựng, mở rộng và duy trì quan hệ tốt với khách hàng.\nHướng dẫn khách hàng sử dụng các tiện ích, dịch vụ của tòa nhà cũng như tuân thủ nội quy, quy định của tòa nhà.\nTiếp nhận mọi phàn nàn, góp ý của khách hàng theo đúng thẩm quyền và quy định của Công ty.\nGhi chép, cập nhật mọi thông tin về khách hàng, bao gồm cả biện pháp giải quyết vào sổ giao ca. Theo dõi sự vụ liên quan để đảm bảo các vấn đề liên quan đến khách hàng được giải quyết.\nDuy trì niềm tin và sự hài lòng của khách hàng đối với dịch vụ của Công ty.\nĐề xuất các giải pháp chăm sóc khách hàng.\nĐịnh kỳ báo cáo và báo cáo sự vụ kịp thời cho cấp trên.\nGiữ gìn hình ảnh, uy tín và tiêu chuẩn dịch vụ của Công ty.\nLuôn tuân thủ các tiêu chuẩn, quy định, quy trình của Công ty.\nPhối hợp, hỗ trợ nhân viên khác thực hiện nhiệm vụ."
+    },
+    {
+      "company": "Công Ty Dịch Vụ I3D",
+      "duration": "04/2016 - 01/2017",
+      "position": "Nhân Viên Kỹ Thuật",
+      "description": "Thực hiện công việc chụp hình 360 độ cho khách hàng.\nLấy dữ liệu ảnh chụp và dựng thành mô hình kỹ thuật số 3D trên máy tính.\nChỉnh sửa và công đoạn cuối là gia công sản phẩm."
+    }
+  ],
+  "university": [
+    "HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG",
+    "TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI"
+  ],
+  "major": [
+    "Công nghệ thông tin - Ứng dụng phần mềm",
+    "Công nghệ thông tin"
+  ],
+  "gpa": [
+    "Khá",
+    "Khá"
+  ],
+  "certifications": []
+}

@@ -1,0 +1,108 @@
+﻿{
+  "full_name": "TRAN DUC VIET",
+  "applied_position": "Developer",
+  "gender": "",
+  "dob": "01/09/1999",
+  "email": "",
+  "address": "105, Yen Hoa, Cau Giay, Ha Noi, Viet Nam",
+  "phone": "",
+  "skills": [
+    "Java",
+    "JavaScript",
+    "SQL",
+    "HTML/CSS",
+    "Spring Framework",
+    "Junit",
+    "Mockito",
+    "Jest",
+    "MySQL",
+    "PostgreSQL",
+    "SQL Server",
+    "Git",
+    "Visual Studio",
+    "Eclipse",
+    "SQL Server Management Studio",
+    "OOP (Object Oriented Programming)",
+    "Communication",
+    "Collaboration & Teamwork",
+    "Adaptability",
+    "Research",
+    "Problem solving"
+  ],
+  "experience": [
+    {
+      "project_name": "Universal Kinjirou",
+      "company": "Nittsu System Co., Ltd.",
+      "duration": "3/2022 > Now",
+      "position": "Backend Developer, Frontend Developer",
+      "description": "Universal Kinjirou is an internal management system in the company. For examples: Personal information, checkin – checkout, assigned tasks, timekeeping, …",
+      "technologies": [
+        "Java",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "KnockoutJS",
+        "PostgreSQL",
+        "SQL Server",
+        "JUnit"
+      ]
+    },
+    {
+      "project_name": "Bao Viet Insurance",
+      "company": "GCT . TECHNOLOGY SOLUTION JOINT STOCK",
+      "duration": "9/2021 > 4/2022",
+      "position": "Backend Developer, Frontend Developer",
+      "description": "Bao Viet Insurance is a management system for insurance products issued by the company",
+      "technologies": [
+        "Java EJB",
+        "Struts Framework",
+        "SQL Server"
+      ]
+    },
+    {
+      "project_name": "CP54",
+      "company": "GCT . TECHNOLOGY SOLUTION JOINT STOCK",
+      "duration": "6/2021 > 8/2021",
+      "position": "Backend Developer",
+      "description": "CP54 is a user information management project such as managing photos, files, reading files, exporting files,...",
+      "technologies": [
+        "Java 8",
+        "Spring Boot",
+        "SQL Server"
+      ]
+    },
+    {
+      "project_name": "State Capital Management Committee",
+      "company": "GCT . TECHNOLOGY SOLUTION JOINT STOCK",
+      "duration": "03/2021 > 05/2021",
+      "position": "Backend Developer",
+      "description": "State Capital Management Committee is a state capital management project that supports capital management of state-owned enterprises.",
+      "technologies": [
+        ".NET 3",
+        "Oracle"
+      ]
+    },
+    {
+      "project_name": "e-commerce website",
+      "company": "HT VIETNAM CONSTRUCTION AND TECHNOLOGY JOINT STOCK COMPANY",
+      "duration": "06/2020 > 12/2020",
+      "position": "Backend Developer, Frontend Developer",
+      "description": "e-commerce website is a product that helps introduce and support the purchase and sale of products and services on the internet through a system of websites.",
+      "technologies": [
+        "PHP (CodeIgniter)",
+        "HTML5",
+        "CSS3",
+        "Jquery",
+        "SQL",
+        "MySQL"
+      ]
+    }
+  ],
+  "university": "National Economics University (NEU)",
+  "major": "Information Technology",
+  "gpa": "",
+  "certifications": [
+    "Aptis C",
+    "Japanese N5"
+  ]
+}

@@ -1,0 +1,53 @@
+﻿{
+  "full_name": "NGUYỄN VĂN HIẾU",
+  "applied_position": "Kỹ sư Cơ điện",
+  "gender": "Nam",
+  "dob": "18/04/1996",
+  "email": "nguyenhieud@gmail.com",
+  "address": "57 đường 18 phường hiệp bình chánh Tp thủ đức",
+  "phone": "",
+  "skills": [
+    "Sử dụng thành thạo các công cụ Word, Excel, PowerPoint, Project, PDF.",
+    "Sử dụng thành thạo AutoCAD 2D, shop drawings.",
+    "Biết sử dụng các phần mềm tính tải như: heatload, trace 700, duct size.",
+    "Nắm vững hệ thống quy chuẩn, tiêu chuẩn kỹ thuật liên quan.",
+    "Kỹ năng tổ chức, quản lý công việc theo tiến độ dự án.",
+    "Chịu được áp lực, linh hoạt sáng tạo trong công việc.",
+    "Có tinh thần trách nhiệm, trung thực, nhiệt tình trong công việc.",
+    "Nhanh nhẹn, nói chuyện lưu loát.",
+    "Chịu khó, ham học hỏi, trung thực và hòa đồng với mọi người."
+  ],
+  "experience": [
+    {
+      "title": "CHỈ HUY TRƯỞNG",
+      "company": "CÔNG TY CP XÂY DỰNG CƠ ĐIỆN ĐẤT VIỆT",
+      "duration": "06/2023 - 03/2024",
+      "description": "- Vẽ bản vẽ thi công (shop drawing) và hoàn công (As-built drawing)\n- Dự toán, bóc tách khối lượng HVAC, plumbing, điện\n- Dự án: Khu Đô Thị Du Lịch Sinh Thái Six Senses Sài Gòn River, Nhơn Trạch, Đồng Nai"
+    },
+    {
+      "title": "KĨ SƯ DỰ ÁN",
+      "company": "CÔNG TY TNHH KỸ THUẬT VÀ XÂY DỰNG HOÀNG PHÁT",
+      "duration": "02/2022 - 05/2023",
+      "description": "- Thiết kế hệ thống điều hòa không khí, tính toán tải điện\n- Vẽ bản vẽ thi công (shop drawing) hệ HVAC, điện, điện nhẹ, cấp thoát nước và hoàn công (As-built drawing)\n- Bóc tách khối lượng HVAC, điện, điện nhẹ, plumbing\n- Hồ sơ thanh quyết toán công trình\n- Dự án: Tòa Nhà Văn phòng Amway, Building Tôn Thất Tùng, Tòa nhà văn phòng Q10, nhà xưởng SMC Long Thành"
+    },
+    {
+      "title": "KĨ SƯ CƠ ĐIỆN",
+      "company": "CÔNG TY TNHH KỸ THUẬT VÀ XÂY DỰNG SANYO VIỆT NAM",
+      "duration": "09/2021 - 02/2022",
+      "description": "- Vẽ bản vẽ thi công (shop drawing) và hoàn công (As-built drawing)\n- Dự toán, bóc tách khối lượng HVAC, plumbing, điện\n- Dự án: Asia Quận 7"
+    }
+  ],
+  "university": [
+    "TRƯỜNG CAO ĐẲNG KỸ THUẬT CAO THẮNG",
+    "TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT"
+  ],
+  "major": [
+    "CÔNG NGHỆ KỸ THUẬT NHIỆT",
+    "CÔNG NGHỆ KỸ THUẬT NHIỆT"
+  ],
+  "gpa": [
+    "Khá",
+    "Khá"
+  ],
+  "certifications": []
+}

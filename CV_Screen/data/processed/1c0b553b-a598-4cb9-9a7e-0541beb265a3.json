@@ -1,0 +1,34 @@
+﻿{
+  "full_name": "Quách Vinh Quyền",
+  "applied_position": "Lập Trình Viên",
+  "gender": "Nam",
+  "dob": "",
+  "email": "",
+  "address": "Quận Gò Vấp, Tp. Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh",
+    "Tin học văn phòng",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Microsoft Outlook",
+    "Lập trình phần mềm",
+    "Thiết kế phần mềm",
+    "Kiểm thử phần mềm",
+    "Sửa lỗi phần mềm",
+    "Nâng cấp hệ thống",
+    "Viết tài liệu kỹ thuật"
+  ],
+  "experience": [
+    {
+      "company": "VNRESOURCE",
+      "position": "Lập Trình Viên",
+      "description": "Phối hợp với các nhà phân tích kinh doanh và các developers đưa ra các mẫu thiết kế phần mềm. Chuẩn bị những bản mô tả chi tiết chương trình và các nguyên mẫu cơ bản. Chuyển đổi các bản thiết kế và mô tả chi tiết phần mềm thành các đoạn code có khả năng thực thi cao với ngôn ngữ phù hợp. Hợp nhất các hướng giải quyết phần mềm cá nhân thành các hệ thống level cao. Sử dụng các công cụ dựa trên nền tảng web để tạo phần mềm dạng dịch vụ nâng cao khi ứng dụng được. Kiểm tra code định kì để đảm bảo code này mang tới những kết quả đáng mong đợi và thực hiện sửa lỗi khi cần thiết. Thực hiện nâng cấp đều đặn để giúp phần mềm và các hệ thống trở nên bảo mật và hiệu quả hơn. Phối hợp với các technical writers để viết các tài liệu hỗ trợ người dùng."
+    }
+  ],
+  "university": "Đại học Sư phạm TP. Hồ Chí Minh",
+  "major": "Công nghệ Thông tin",
+  "gpa": "",
+  "certifications": []
+}

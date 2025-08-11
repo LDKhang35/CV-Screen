@@ -1,0 +1,100 @@
+﻿{
+  "full_name": "HUỲNH MINH KIỆT",
+  "applied_position": "Senior Fullstack Developer",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Lê Quang Định, Phường 1, Gò Vấp, HCM",
+  "phone": "",
+  "skills": [
+    "C#",
+    "Dart",
+    "Javascript",
+    "TypeScript",
+    "Express(NodeJs)",
+    ".NET Core 5",
+    ".NET Core 6",
+    ".NET MVC",
+    "ASP Webform",
+    "ASP Classic",
+    "WCF",
+    "SOAP",
+    "RESTFUL API",
+    "Entity Framework",
+    "Nancy",
+    "Crystal Report",
+    "Devexpress XAF",
+    "Bootstrap",
+    "HTML5",
+    "CSS3",
+    "Jquery",
+    "Devextreme",
+    "AngularJS",
+    "Angular 4",
+    "Angular 8",
+    "Kendo UI",
+    "SignalR",
+    "Winform",
+    "WPF",
+    "Flutter",
+    "SQL Server",
+    "Oracle",
+    "SQLite",
+    "Git",
+    "Agile development methodologies",
+    "REST API design",
+    "Azure cloud platform",
+    "Figma",
+    "Visual Studio Code",
+    "Visual Studio 2017",
+    "Visual Studio 2019",
+    "Visual Studio 2022",
+    "GIT Hub",
+    "SVN",
+    "TFS",
+    "Ajax",
+    "SSO"
+  ],
+  "experience": [
+    {
+      "company": "Capital Aid for Employment of the Poor Microﬁnance Institution (CEP)",
+      "position": "Senior Fullstack Developer",
+      "duration": "March 2021 - Currently",
+      "description": "Develop features for credit department and staff (customer survey, debt collection, community development, employee info, QR code ID update). Submit app to Apple Store and Google Play. Involved in customer application for loan info, history, payment dates, interest rates, new loan applications. Worked on a banking system project for loan application management, credit collection management, savings deposit management, and internal employee functions. Skills used: Flutter, Dart, RESTAPI, .NET CORE, .Net Core 6, Devextreme, DevExpress, AdminLTE, BootStrap, C#."
+    },
+    {
+      "company": "Amaris VietNam Company (Onsite in Standard Charter Bank, Onsite in Global CyberSoft)",
+      "position": "Senior Fullstack Developer",
+      "duration": "FEB 2020 - MAR 2021",
+      "description": "Developed modules about mortgage loan, personal loans, car loans using HTML, CSS, Bootstrap, Javascript, Jquery, Devexpress Control (Front-end), C#, .Net, Entity Framework, LINQ, Crystal Report (Back-end), SQL Server (Database). Developed a sales software application for Phuong Nam bookstore including cashier, import/export, warehouse management, billing export using WPF and RestFul API (Java)."
+    },
+    {
+      "company": "Minh Phương Logistics",
+      "position": "SOFTWARE DEVELOPER",
+      "duration": "April 2018 - FEBRUARY 2020",
+      "description": "Developed Intranet Website (staff/assets management, book meeting rooms, take leave), Enterprise Website (E-commerce), FMBP mobile app (driver/vehicle/trip management), MPI mobile app (staff/assets management, book meeting rooms, take leave), IGLS Winform Application (management tractors, containers, warehousing), IGLS Website for third party (convert ASP Webform to Angular 4, display order info, status, vehicle tracking). Installed Open Source Nextcloud to Intranet Website for image/document management. Skills used: HTML, CSS, Bootstrap, Javascript, Typescript, Jquery, Angular 4/7, Devexpress, C#, .Net, Microservices, RESTFUL API, Entity Framework, SSO, OWIN, Nancy, Flutter, Dart, WCF, APIs, SQL Server."
+    },
+    {
+      "company": "FPT Telecom",
+      "position": ".NET Developer",
+      "duration": "August 2016 - April 2018",
+      "description": "Developed TV package management system and customers information management. Involved in converting SQL Database to Oracle and Asp Classic to MVC5. Skills used: ASP Classic, HTML, CSS, Bootstrap, Kendo UI, Javascript, Jquery, Ajax, SQLServer, Oracle, ASP MVC5, REST API, ASP MVC, Entity Framework."
+    },
+    {
+      "company": "Tuấn Minh Group",
+      "position": ".NET Developer",
+      "duration": "",
+      "description": "Developed TV package management system and customers information management. Involved in converting SQL Database to Oracle and Asp Classic to MVC5. Skills used: ASP Classic, HTML, CSS, Bootstrap, Kendo UI, Javascript, Jquery, Ajax, SQLServer, Oracle, ASP MVC5, REST API, ASP MVC, Entity Framework."
+    },
+    {
+      "company": "Freelancer",
+      "position": "Fullstack Developer",
+      "duration": "",
+      "description": "Developed S-Invest App mobile (available on both Android and iOS) related to financial services (bond investment, real estate investment, nursing home investment) using Flutter, Dart, RESTAPI .NET CORE. Developed a web for admin to provide functions for accounting, customer service, IT departments using Angular 8, RESTAPI .NET CORE."
+    }
+  ],
+  "university": "HCM City University of Food Industry",
+  "major": "Information Technology",
+  "gpa": "",
+  "certifications": []
+}

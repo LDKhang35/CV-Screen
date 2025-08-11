@@ -1,0 +1,55 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Phát triển Phần mềm",
+  "gender": "",
+  "dob": "",
+  "email": "nguyenvana@email.com",
+  "address": "Số 123, Đường XYZ, Quận ABC, TP.HCM",
+  "phone": "0912345678",
+  "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "ReactJS",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "VS Code",
+    "Giải quyết vấn đề",
+    "Làm việc nhóm",
+    "Giao tiếp hiệu quả"
+  ],
+  "experience": [
+    {
+      "title": "Kỹ sư Phần mềm",
+      "company": "Công ty ABC",
+      "location": "TP.HCM",
+      "duration": "01/2020 – Hiện tại",
+      "responsibilities": [
+        "Phát triển và bảo trì các ứng dụng web sử dụng Python và ReactJS.",
+        "Thiết kế và triển khai API RESTful.",
+        "Tham gia vào quy trình phát triển Agile/Scrum.",
+        "Tối ưu hóa hiệu suất ứng dụng và xử lý lỗi."
+      ]
+    },
+    {
+      "title": "Thực tập sinh Phát triển Phần mềm",
+      "company": "Công ty XYZ",
+      "location": "TP.HCM",
+      "duration": "06/2019 – 12/2019",
+      "responsibilities": [
+        "Hỗ trợ phát triển module mới cho hệ thống quản lý dữ liệu.",
+        "Viết test case và thực hiện kiểm thử đơn vị.",
+        "Tìm hiểu về quy trình phát triển phần mềm chuyên nghiệp."
+      ]
+    }
+  ],
+  "university": "Đại học Khoa học Tự nhiên, ĐHQG-HCM",
+  "major": "Cử nhân Khoa học Máy tính",
+  "gpa": "",
+  "certifications": []
+}

@@ -1,0 +1,82 @@
+﻿{
+  "full_name": "Tran Thi Yen Duyen",
+  "applied_position": "",
+  "gender": "Female",
+  "dob": "01/03/1985",
+  "email": "",
+  "address": "43/49 Da Nam, Ward 2, District 8, HCM City",
+  "phone": "",
+  "skills": [
+    "Over 10 years in ERP application support (Oracle EBS: SCM, FIN, OPM, CST)",
+    "Strong knowledge in Accounting and IT",
+    "Adaptability to new systems",
+    "Fluency with Oracle EBS R12 (SCM, FIN, OPM, ledger report)",
+    "Ability to handle workload under high pressure",
+    "Planning, suggesting solutions and strategies for challenging problems",
+    "Teamwork and independent work capabilities"
+  ],
+  "experience": [
+    {
+      "duration": "02/2022 to present",
+      "title": "Oracle ERP Consultant",
+      "company": "Hoa Sen Group (HSG)",
+      "description": [
+        "Supported departments and branches for Oracle SCM, OPM, FIN, CST",
+        "Setup Oracle system and wrote user guides for new company processes",
+        "Fixed system errors in company's ERP",
+        "Updated or wrote new reports as per user requirements"
+      ]
+    },
+    {
+      "duration": "01/6/2018 to 06/2021",
+      "title": "Accountant Employee",
+      "company": "Saigon Pharmaceutical Company Limited (Sapharco)",
+      "description": [
+        "Managed inventory and cost analysis (ODM)",
+        "Managed inspection of warehouse management and inventory management",
+        "Controlled accounting records in Oracle software (revenue, turnover, expenses, capital expenditure, depreciation, amortization, debts, and other operations)",
+        "Created accounts and closed AR, AP, GL monthly period",
+        "Checked between the end balance account and GL",
+        "Prepared all analysis reports requested by the Board of Directors",
+        "Prepared Receivable and Payable reports, reported to Chief accountant and General Director",
+        "Analyzed profit and loss of company, managed expense"
+      ]
+    },
+    {
+      "duration": "04/2013 to 31/5/2018",
+      "title": "Software Administrator ERP Oracle",
+      "company": "Saigon Pharmaceutical Company Limited (Sapharco)",
+      "description": [
+        "Supported departments and branches for Oracle purchasing, order management, inventory, financials",
+        "Managed codes: customer, supplier, items, tax application",
+        "Managed COA: created, edited, decentralized on the account system, output in financing reports",
+        "Created accounts and closed AR, AP monthly period, fixed error system",
+        "Setup Oracle system and wrote user guides when company had new processes",
+        "Trained and supported users for purchase Order, sale order, warehouse, receivable account, Payable account in Oracle software across all locations",
+        "Troubleshot by tracking data flow through company systems"
+      ]
+    },
+    {
+      "duration": "12/2008 to 04/2013",
+      "title": "Support User Employee",
+      "company": "Saigon Pharmaceutical Company Limited (Sapharco)",
+      "description": [
+        "Managed, setup, backup/restore, troubleshoot issues for network, hardware, software",
+        "Managed organization accounts, user privileges, email system"
+      ]
+    }
+  ],
+  "university": [
+    "Can Tho University",
+    "Ho Chi Minh City Open University"
+  ],
+  "major": [
+    "Information Technology Engineering",
+    "Finance and Banking"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Chief Accountant Certificate",
+    "TOEFL 497"
+  ]
+}

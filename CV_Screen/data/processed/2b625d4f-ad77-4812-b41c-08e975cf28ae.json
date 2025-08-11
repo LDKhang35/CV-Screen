@@ -1,0 +1,67 @@
+﻿{
+  "full_name": "Tho Nguyen",
+  "applied_position": "DEVELOPER",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Binh Tan District, Ho Chi Minh City",
+  "phone": "",
+  "skills": [
+    "JAVASCRIPT",
+    "HTML",
+    "CSS",
+    "NUXTJS",
+    "ANGULARJS",
+    "C#",
+    "T-SQL",
+    "GRAPHQL",
+    "NODEJS",
+    "TEAM WORK"
+  ],
+  "experience": [
+    {
+      "title": "DEVELOPER",
+      "company": "TTT CONSTRUCTION & TRADING JOINT STOCK COMPANY",
+      "duration": "07/2019 - 06/2023",
+      "description": [
+        "Building and managing company systems.",
+        "Receiving and processing user requests.",
+        "Providing solutions for related departments.",
+        "Optimizing existing systems.",
+        "Writing user manuals for system usage.",
+        "Managing employee attendance data.",
+        "Managing candidate information tracking systems.",
+        "Managing and creating new exported data reports upon request.",
+        "Conducting surveys to gather feedback from system users to propose appropriate improvements based on needs."
+      ]
+    },
+    {
+      "title": "DEVELOPER",
+      "company": "POUYUEN ENTERPRISE LTD",
+      "duration": "03/2017 - 07/2019",
+      "description": [
+        "Programming and managing company projects.",
+        "Receiving and handling user requests.",
+        "Optimizing existing systems.",
+        "Building and maintaining systems according to the requirements of relevant departments."
+      ]
+    },
+    {
+      "title": "DEVELOPER",
+      "company": "TOAN NANG TRADING & SERVICE LIMITED COMPANY",
+      "duration": "12/2015 - 01/2017",
+      "description": [
+        "Designing and programming web applications using PHP.",
+        "Developing, operating, maintaining, and optimizing websites according to company requirements.",
+        "Taking responsibility for the progress and results of assigned tasks.",
+        "Providing support for other related projects as required."
+      ]
+    }
+  ],
+  "university": "Ho Chi Minh City Open University",
+  "major": "INFORMATION TECHNOLOGY",
+  "gpa": "",
+  "certifications": [
+    "IMPLEMENTING DATA MODELS AND REPORTS WITH MICROSOFT SQL SERVER 2014 (1 month)"
+  ]
+}

@@ -1,0 +1,67 @@
+﻿{
+  "full_name": "Nguyen Van A",
+  "applied_position": "Software Engineer",
+  "gender": "",
+  "dob": "",
+  "email": "abc@gmail.com",
+  "address": "Ha Noi, Viet Nam",
+  "phone": "0123456789",
+  "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "Jira",
+    "Problem-solving",
+    "Teamwork",
+    "Communication",
+    "Adaptability"
+  ],
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "Company B",
+      "duration": "2022 – Hiện tại",
+      "description": [
+        "Phát triển và duy trì các tính năng mới cho ứng dụng web sử dụng React và Node.js.",
+        "Tham gia vào quy trình thiết kế cơ sở dữ liệu và tối ưu hóa hiệu suất.",
+        "Làm việc trong môi trường Agile/Scrum, phối hợp chặt chẽ với các thành viên trong nhóm."
+      ]
+    },
+    {
+      "title": "E-commerce Platform (Dự án cá nhân)",
+      "duration": "2021 – 2022",
+      "description": [
+        "Xây dựng một nền tảng thương mại điện tử hoàn chỉnh với các tính năng quản lý sản phẩm, giỏ hàng, thanh toán và quản lý người dùng.",
+        "Sử dụng MERN stack (MongoDB, Express.js, React, Node.js) cho phát triển frontend và backend.",
+        "Triển khai hệ thống xác thực người dùng dựa trên JWT và tích hợp cổng thanh toán."
+      ]
+    },
+    {
+      "title": "Real-time Chat Application (Dự án đồ án tốt nghiệp)",
+      "duration": "2022",
+      "description": [
+        "Phát triển ứng dụng chat thời gian thực sử dụng Socket.IO và Node.js.",
+        "Triển khai các tính năng như gửi tin nhắn cá nhân, tạo phòng chat nhóm và hiển thị trạng thái online/offline.",
+        "Xây dựng giao diện người dùng thân thiện với React."
+      ]
+    }
+  ],
+  "university": "Đại học Khoa học Tự nhiên, ĐHQG Hà Nội",
+  "major": "Cử nhân Kỹ thuật Máy tính",
+  "gpa": "3.8/4.0",
+  "certifications": [
+    "AWS Certified Developer – Associate (2023)",
+    "Google Cloud Associate Cloud Engineer (2023)"
+  ]
+}

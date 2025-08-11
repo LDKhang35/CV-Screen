@@ -1,0 +1,44 @@
+﻿{
+  "full_name": "ĐỖ ANH TUẤN",
+  "applied_position": "NHÂN VIÊN KẾ TOÁN TỔNG HỢP",
+  "gender": "",
+  "dob": "04/06/1975",
+  "email": "doanhtuan8alnyahoo.com",
+  "address": "96 Đường Lê Duẩn",
+  "phone": "",
+  "skills": [
+    "Sử dụng các phần mềm như MS Office, Quick Books, Fats account",
+    "Tập hợp chứng từ nhập xuất",
+    "Quản lý hệ thống kho hàng của dự án"
+  ],
+  "experience": [
+    {
+      "company": "Công ty cổ phần chăm sóc sức khỏe Việt",
+      "duration": "08/2013 – 08/2023",
+      "position": "Kế toán tổng hợp",
+      "description": "Quản lý thu chi tiền mặt, thu hồi công nợ khách hàng; Quản lý kho, giao dịch ngân hàng; Theo dõi tài sản cố định; Làm lương, bảo hiểm cho nhân viên, cuối tháng, quý nộp báo cáo theo quy định."
+    },
+    {
+      "company": "Công ty cổ phần nội thất IDECO",
+      "duration": "01/2008 – 06/2013",
+      "position": "Kế toán tổng hợp",
+      "description": "Quản lý thu chi tiền mặt, thu hồi công nợ khách hàng; Quản lý kho, giao dịch ngân hàng; Theo dõi tài sản cố định; Làm lương, bảo hiểm cho nhân viên, cuối tháng, quý nộp báo cáo theo quy định."
+    },
+    {
+      "company": "Công ty SAUR INTERNATIONAL",
+      "duration": "08/2000 – 12/2005",
+      "position": "Thủ kho",
+      "description": "Tổ chức sắp xếp kho bãi nhận hàng; Lập báo cáo chi tiết nhập xuất vật tư"
+    },
+    {
+      "company": "Công ty TNHH đầu tư và phát triển T.C.T Công trình xây dựng nhà máy giầy Đỉnh Vàng Hải Phòng",
+      "duration": "01/1998 – 12/2000",
+      "position": "Kế Toán viên",
+      "description": "Quản lý hóa đơn chứng từ; Đối chiếu công nợ với các nhà cung cấp; Theo dõi tình hình nhập xuất vật tư, nguyên vật liệu."
+    }
+  ],
+  "university": "TRUNG HỌC KINH TẾ HÀ NỘI",
+  "major": "Kế toán",
+  "gpa": "Trung bình",
+  "certifications": []
+}

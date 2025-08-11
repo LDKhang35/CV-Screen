@@ -1,0 +1,46 @@
+﻿{
+  "full_name": "LẠI THỊ GẤM",
+  "applied_position": "Kế toán",
+  "gender": "Female",
+  "dob": "04/07/1997",
+  "email": "",
+  "address": "Xóm 11 xã Hải Phương, Huyện Hải Hậu, Tỉnh Nam Định",
+  "phone": "",
+  "skills": [
+    "Kế toán",
+    "Kế toán nội bộ",
+    "Tập hợp hóa đơn chứng từ",
+    "Nhập liệu phần mềm kế toán",
+    "Quản lý công nợ",
+    "Quản lý xuất nhập kho",
+    "Theo dõi doanh thu và chi phí",
+    "Thu tiền",
+    "Lưu trữ chứng từ",
+    "Quản lý hành chính nhân sự (HCNS)",
+    "Bảo hiểm xã hội (BHXH)",
+    "Bảo hiểm y tế (BHYT)",
+    "Chấm công",
+    "Tính lương",
+    "Hợp đồng lao động"
+  ],
+  "experience": [
+    {
+      "position": "KẾ TOÁN NỘI BỘ CHI NHÁNH",
+      "company": "Cty Cổ Phần Thương Mại Phú Thái Hà Nội",
+      "duration": "10/2019 - 04/2023",
+      "responsibilities": [
+        "Tập hợp hóa đơn chứng từ kế toán, nhập vào hệ thống phần mềm.",
+        "Hàng ngày theo dõi tổng hợp báo cáo công nợ với nhân viên và khách hàng.",
+        "Làm phiếu xuất kho hàng, theo dõi tồn kho, các doanh thu và chi phí của chi nhánh.",
+        "Thu tiền từ nhân viên giao hàng.",
+        "Lưu trữ hóa đơn chứng từ.",
+        "Các công việc liên quan đến HCNS (BHXH, BHYT, CĐ, ký HĐLĐ).",
+        "Hàng ngày chấm công và cuối tháng làm lương gửi lên cấp trên xét duyệt."
+      ]
+    }
+  ],
+  "university": "Trường TC kinh tế Hà Nội",
+  "major": "Kế toán",
+  "gpa": "Khá",
+  "certifications": []
+}

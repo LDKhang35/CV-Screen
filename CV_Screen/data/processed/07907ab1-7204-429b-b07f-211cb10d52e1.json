@@ -1,0 +1,57 @@
+﻿{
+  "full_name": "Van Thi Xuan Trang",
+  "applied_position": "Pastry Commis",
+  "gender": "",
+  "dob": "18/02/1989",
+  "email": "",
+  "address": "Huynh Tan Phat Street, Phu My Ward, District 7, Ho Chi Minh City",
+  "phone": "",
+  "skills": [
+    "Communication",
+    "Attention to detail",
+    "Teamwork",
+    "Flexible",
+    "Caring",
+    "Open-minded",
+    "Enthusiastic",
+    "Responsible"
+  ],
+  "experience": [
+    {
+      "period": "08/2023 to 02/2024",
+      "company": "The Adora Premium at Phu My Hung",
+      "position": "Pastry Commis",
+      "responsibilities": [
+        "Receive the orders. Check and compare the time, number of guests and the type of dessert requests with Sales department",
+        "Check inventory, calculate quantity, receive the raw material and compare with accounting/purchasing",
+        "Prepare ingredients, weigh and divide ingredients according to the approved formula and quantity for the bakery kitchen's daily requirements",
+        "Support the Chief and Deputy Baker to make cakes according to the approved recipe and quantity (mousse cake, tiramisu, opera, pana cotta, cream brulee, flan...)",
+        "Make all kinds of sweet soup according to the party's request (long an tofu sweet soup, lotus seed sweet soup, dried jujubes & white fungus sweet soup)",
+        "Serve cakes and tea at buffets and tea-breaks according to guests' requests",
+        "Preserve cakes and tea according to proper procedures",
+        "Maintain and use kitchen equipment well"
+      ]
+    },
+    {
+      "period": "02/2023 to 07/2023",
+      "company": "ICON SAIGON (4 Stars Hotel)",
+      "position": "Commis",
+      "responsibilities": [
+        "Washes, chops, and cuts fruit and vegetable items",
+        "Check inventory and requests resupply when necessary",
+        "Plates meal items under the chef de partie’s supervision",
+        "Disposes of spoiled items and adheres to sanitation policies",
+        "Measures, mixes, and prepares meal ingredients, sauces, and seasonings",
+        "Continually develops culinary knowledge to produce high-quality meals"
+      ]
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "",
+  "certifications": [
+    "02/2024 – 06/2024: Certificate in Bakery & Pastry skills at AZ Career & Training Academy in Vietnam (Affiliated with LA XENIA – International Institute of Switzerland)",
+    "07/2024 – 08/2024: Pastry trainee at Novotel Living Saigon South (4 star)",
+    "08/2024 – 09/2024: Pastry trainee at Premier Village Phu Quoc Resort (5 star) include 215 villas with private swimming pool"
+  ]
+}

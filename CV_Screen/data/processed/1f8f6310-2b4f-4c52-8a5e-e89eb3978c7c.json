@@ -1,0 +1,44 @@
+﻿{
+  "full_name": "Nguyễn Huyền My",
+  "applied_position": "Nhân viên Kế toán",
+  "gender": "Nữ",
+  "dob": "25/11/2000",
+  "email": "",
+  "address": "Đ.Lê Đức Thọ, P.15, Q.Gò Vấp, TP.Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Tin học văn phòng (Microsoft Word, Excel, Powerpoint)",
+    "Cẩn thận, kỹ tính",
+    "Tiếng Anh (giao tiếp cơ bản, đọc hiểu tài liệu, hợp đồng, hóa đơn, chứng từ)",
+    "Giao tiếp"
+  ],
+  "experience": [
+    {
+      "company": "Công ty TNHH Xuất Nhập Khẩu MKT",
+      "duration": "08/2023 - 01/2024",
+      "position": "Nhân viên kế toán thanh toán",
+      "description": "Lập và quản lý chứng từ thu - chi cho các khoản thanh toán; kiểm tra tính hợp pháp, hợp lý, hợp lệ của chứng từ; hạch toán các nghiệp vụ thu - chi về tiền mặt, tiền gửi ngân hàng, thanh toán lương, phụ cấp; đối chiếu, kiểm tra tồn quỹ cuối mỗi ngày; theo dõi các khoản tiền gửi ngân hàng, công nợ, tạm ứng."
+    },
+    {
+      "company": "Công ty TNHH Ong Mật Thanh Hảo",
+      "duration": "08/2022 - 01/2023",
+      "position": "Nhân viên kế toán xuất nhập khẩu",
+      "description": "Lập, sắp xếp và kiểm tra bộ chứng từ xuất khẩu sản phẩm (Mỹ, châu Âu); khai C/O (Form B, EUR.1); lập hồ sơ kê khai Hải quan, chứng từ xuất khẩu phục vụ thông quan; lập tờ khai Hải quan trên phần mềm VNACCS; lập và xuất hóa đơn điện tử E-invoice; kiểm tra và theo dõi số lượng, chất lượng hàng hóa xuất khẩu, quy trình xuất khẩu; hạch toán các nghiệp vụ liên quan đến hoạt động xuất nhập khẩu. Thành tựu: Hoàn thành bộ hồ sơ xuất khẩu đối với 8 lô hàng."
+    }
+  ],
+  "university": "Trường Đại học Tài chính - Marketing",
+  "major": "Kế toán Doanh nghiệp",
+  "gpa": "3.23 (Tốt nghiệp loại Giỏi)",
+  "certifications": [
+    {
+      "name": "Ứng dụng Công nghệ Thông tin Cơ bản",
+      "date": "17/05/2022",
+      "score": "Điểm trắc nghiệm: 8.25, Điểm thực hành: 9.0"
+    },
+    {
+      "name": "IELTS (Academic)",
+      "date": "04/01/2024",
+      "score": "6.0 (Listening: 6.0, Speaking: 5.5, Reading: 7.0, Writing: 6.0)"
+    }
+  ]
+}

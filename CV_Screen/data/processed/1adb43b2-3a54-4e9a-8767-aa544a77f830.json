@@ -1,0 +1,57 @@
+﻿{
+  "full_name": "NGUYEN CHI NGHIA (TIM)",
+  "applied_position": "",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "District 7, HCMC, Vietnam",
+  "phone": "",
+  "skills": [
+    "Team management",
+    "B2B sales",
+    "Partnership management",
+    "Process management",
+    "Scrum Project management",
+    "Negotiation",
+    "Digital marketing",
+    "Coaching & Mentoring",
+    "Change adaptation",
+    "Market research",
+    "Competitive research",
+    "CRM know-how",
+    "Risk management",
+    "Business analysis",
+    "Payment knowledge",
+    "Software development knowledge",
+    "Cross-department collaboration"
+  ],
+  "experience": [
+    {
+      "title": "BUSINESS DEVELOPMENT MANAGER",
+      "company": "VNG Corp",
+      "dates": "Feb 2020 – Sep 2023",
+      "description": "Led a cross-functional team of 7 to set up payment solutions for VNGGames in Vietnam, Thailand, Indonesia, Singapore, Taiwan, and other overseas markets. Ensured successful delivery of payment solutions by coordinating internal teams with payment partners. Managed partner lifecycle, payment-related risks. Researched latest payment trends, proposed and oversaw implementation of new products and features. In charge of recruitment and training, provided coaching and mentoring. Consistently landed in top performers for 2021 and 2022. Built and maintained fruitful partnerships with a revenue growth rate of 30% YOY (e.g., PayPal, Adyen, Razer, Viettel, VNPT). Created and implemented standardized partner lifecycle management. Reduced payment channel costs by ~15% YOY (saved millions). Increased payment channel coverage by 2 times. Increased co-marketing campaigns by 130% YOY. Resolved card-related disputes, saving over 1 million dollars."
+    },
+    {
+      "title": "BUSINESS DEVELOPMENT MANAGER",
+      "company": "Const LLC",
+      "dates": "Sep 2018 - Jan 2020",
+      "description": "Individual contributor in driving user and revenue growth for the platform. Built partnerships with global and local blockchain companies. Performed inbound and outbound sales. Exhibited at local and global conferences, joined networking events. Contributed initiatives to build new features and products. Coordinated digital marketing strategies. Listed Constant token on Coinmarketcap (increased web traffic by ~30%). Listed Constant token on 3 crypto exchanges within less than a year. Won several shark investors with total investment values of millions of dollars. Implemented a brand-new referral program (grew monthly revenue by ~10%). Exhibited at Singapore Fintech Festival 2019. Consulted to implement B2B sales process for another sales team. Learned growth hacking strategies."
+    },
+    {
+      "title": "MARKET RESEARCH REPRESENTATIVE",
+      "company": "TinyPulse",
+      "dates": "Apr 2017 - Aug 2018",
+      "description": "Part of the US-based B2B sales team. Conducted sales prospecting. Made content marketing analysis. Optimized link-building strategy. Ran marketing competitive research. Generated thousands of quality hand-picked leads. Collaborated with PR team to promote a company blog post to Google's first page within 6 weeks. Learned how to build a scalable B2B sales pipeline and process. Learned Agile methodology. Learned handy CRM software: Hubspot and Salesforce."
+    },
+    {
+      "title": "BUSINESS DEVELOPMENT LEAD",
+      "company": "W&S Vietnam",
+      "dates": "Mar 2015 - Mar 2017",
+      "description": "Led the B2B sales team of 2 in finding new clients and nurturing existing clients. Built inbound and outbound sales process. Performed full-fledged sales cycle. Proposed and promoted new services/products. Collaborated with in-house market research team to deliver services to clients. Attended industry conferences and networking events. Won contracts with well-known clients like AC Nielsen, The Learning Curve, and Dentsu (increased monthly won projects by 30%). Managed good relationships with existing clients (maintained retention rate of over 80%). Learned and managed to conduct market research projects on own, including Mystery shopping for San Miguel beer, Online research for Oppo, and Qualitative research for Toyota."
+    }
+  ],
+  "university": "National Yunlin University of Science and Technology",
+  "major": "International Business",
+  "gpa": "4.0"
+}

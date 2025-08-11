@@ -1,0 +1,80 @@
+﻿{
+  "full_name": "Phạm Như Phúc",
+  "applied_position": "SEO Leader",
+  "gender": "Nam",
+  "dob": "15/10/1995",
+  "email": "",
+  "address": "Quận Tân bình, Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Tin học văn phòng (Word, Excel, PowerPoint)",
+    "Tiếng Anh (đọc hiểu căn bản)",
+    "Tool SEO (Ahref, Semrush, Majestic, Screaming Frog, WebSite Auditor, Money Robot)",
+    "Wordpress",
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "experience": [
+    {
+      "title": "SEO Leader",
+      "company": "Công ty TNHH JobTest",
+      "duration": "09/2021-Hiện tại",
+      "responsibilities": [
+        "Lập kế hoạch triển khai SEO cho website của công ty, quản lý team outsources triển khai dự án.",
+        "Tối ưu Onsite, Onpage, Audit Technical, Audit Content, Link building.",
+        "Hướng dẫn nhân viên & thực tập sinh.",
+        "Hỗ trợ chạy quảng cáo Google Ads."
+      ]
+    },
+    {
+      "title": "SEO Leader",
+      "company": "Công ty TNHH Vua Thảm Việt Nam",
+      "duration": "06/2019-04/2021",
+      "responsibilities": [
+        "Lập kế hoạch triển khai SEO tổng thể cho website của công ty, quản lý team triển khai dự án.",
+        "Tối ưu Onsite, Onpage, Audit Technical, Link building.",
+        "Hướng dẫn nhân viên & thực tập sinh.",
+        "Chạy quảng cáo Google Ads."
+      ]
+    },
+    {
+      "title": "SEO Specialist",
+      "company": "CÔNG TY CP DƯỢC PHẨM ECO",
+      "duration": "10/2017-05/2019",
+      "responsibilities": [
+        "Lập kế hoạch triển khai SEO và phối hợp với các bộ phận content, brand triển khai SEO cho website.",
+        "Tối ưu Onsite, Onpage, Audit Technical, Link building, xây dựng hệ thống site vệ tinh.",
+        "Triển khai SEO cho nhãn hàng mới sắp ra mắt, hỗ trợ cho các nhãn hàng khác trong cùng hệ thống."
+      ]
+    },
+    {
+      "title": "Nhân Viên SEO",
+      "company": "Công Ty Cổ Phần Dịch Vụ Tìm Việc Nhanh",
+      "duration": "06/2016-10/2017",
+      "responsibilities": [
+        "Tối ưu Onsite, Onpage, Link building cho web timviecnhanh & vieclam24h, xây dựng hệ thống site vệ tinh."
+      ]
+    },
+    {
+      "title": "Intern SEO",
+      "company": "Công Ty SEO ADSENVN",
+      "duration": "02/2016 -06/2016",
+      "responsibilities": [
+        "Setup hệ thống PBN & link building."
+      ]
+    },
+    {
+      "title": "Dự án cá nhân",
+      "company": "Ngoài ra",
+      "duration": "2018 -2024",
+      "responsibilities": [
+        "Triển khai một số dự án nội thất, game."
+      ]
+    }
+  ],
+  "university": "Đại học Văn Lang",
+  "major": "Công nghệ Thông tin",
+  "gpa": "7.2",
+  "certifications": []
+}

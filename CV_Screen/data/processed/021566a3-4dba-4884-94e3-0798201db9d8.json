@@ -1,0 +1,51 @@
+﻿{
+  "full_name": "Nguyễn Lương Đình Nghĩa",
+  "applied_position": "NHÂN VIÊN MARKETING",
+  "gender": "Nam",
+  "dob": "16/11/2002",
+  "email": "",
+  "address": "Quận 8, TP Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Kỹ năng bán hàng",
+    "Kỹ năng giao tiếp và đàm phán",
+    "Kỹ năng tin học văn phòng",
+    "Kỹ năng làm việc nhóm và độc lập"
+  ],
+  "experience": [
+    {
+      "title": "NHÂN VIÊN KINH DOANH",
+      "company": "OPPO",
+      "duration": "20/02/2024 - 31/8/2024",
+      "description": [
+        "Tư vấn bán hàng, hỗ trợ, chăm sóc khách hàng về các sản phẩm của OPPO tại cửa hàng OPPO Brand shop Royal City.",
+        "Tổ chức các sự kiện, mini game tại shop OPPO quảng bá sản phẩm thu hút khách hàng.",
+        "Phát triển thị trường và mở rộng mạng lưới phân phối các sản phẩm OPPO trong khu vực quản lý."
+      ]
+    },
+    {
+      "title": "PHỤC VỤ",
+      "company": "NHÀ HÀNG MEIWEI ROYAL",
+      "duration": "06/2023 - 10/2023",
+      "description": [
+        "Đón tiếp và hướng dẫn khách hàng vào bàn, đảm bảo thái độ phục vụ chuyên nghiệp và thân thiện.",
+        "Tiếp nhận và ghi nhận các yêu cầu đặt món của khách hàng một cách chính xác, đồng thời giải thích về các món ăn và đồ uống trong thực đơn.",
+        "Xử lý các tình huống phát sinh trong quá trình phục vụ, giải quyết khiếu nại của khách hàng một cách nhanh chóng và hiệu quả."
+      ]
+    },
+    {
+      "title": "NHÂN VIÊN TELESALE",
+      "company": "HÀ NỘI STARLAND",
+      "duration": "04/2022 - 7/2022",
+      "description": [
+        "Gọi điện thoại tư vấn, giới thiệu sản phẩm, dịch vụ cho khách hàng tiềm năng dựa trên danh sách data có sẵn.",
+        "Đạt chỉ tiêu doanh số hàng tháng, trung bình vượt 120% KPI đề ra.",
+        "Xây dựng và duy trì mối quan hệ tốt với khách hàng, thường xuyên liên lạc để cập nhật nhu cầu và giải đáp thắc mắc của khách hàng."
+      ]
+    }
+  ],
+  "university": "ĐẠI HỌC THỦY LỢI",
+  "major": "QUẢN TRỊ MARKETING",
+  "gpa": "",
+  "certifications": []
+}

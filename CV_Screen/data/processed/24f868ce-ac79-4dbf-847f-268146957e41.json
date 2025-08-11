@@ -1,0 +1,91 @@
+﻿{
+  "full_name": "Huỳnh Công Vũ",
+  "applied_position": "",
+  "gender": "",
+  "dob": "28-01-1982",
+  "email": "",
+  "address": "K83/4 Trần Phú- Q Hải Châu- TP Đà Nẵng",
+  "phone": "",
+  "skills": [
+    "Kỹ năng thúc đẩy, truyền cảm hứng cho nhân viên.",
+    "Kỹ năng đưa ra quyết định.",
+    "Kỹ năng quan sát nhận diện và giải quyết vấn đề.",
+    "Kỹ năng quản lý công việc.",
+    "Kỹ năng dịch vụ chăm sóc khách hàng.",
+    "Kỹ năng phản biện và giao tiếp tốt.",
+    "Chịu áp lực cao trong công việc."
+  ],
+  "experience": [
+    {
+      "duration": "Từ 2011 đến 2016",
+      "company": "TRUNG TÂM BẢO HÀNH LG ELECTRONICS VIỆT NAM",
+      "position": "Nhân viên kỹ thuật",
+      "responsibilities": [
+        "Quản lý xuất nhập và cấp phát thu hồi linh kiện cho kỹ thuật viên phục vụ công tác bảo hành sản phẩm tại trạm.",
+        "Sửa chữa khôi phục bo mạch điện tử bị lỗi cho sản phẩm LG",
+        "Khắc phục xử lý các lỗi điện thoại, tivi LCD, máy giặc, điều hòa tại trung tâm.",
+        "Tiếp nhận khiếu nại phản hồi của đại lý và khách hàng về sản phẩm. Phối hợp với quản lý trạm bảo hành đưa ra giải pháp giải quyết."
+      ]
+    },
+    {
+      "duration": "Từ 2016 đến 2018",
+      "company": "ZTE CORPORATION (Dự Án Mega- VNN)",
+      "position": "Giám sát công trình",
+      "responsibilities": [
+        "Kiểm tra thời gian tình trạng hàng hóa từ khi chuẩn bị lắp đặt và hoàn thiện quá trình lắp đặt.",
+        "Kiểm tra giám sát các nhà thầu thi công đạt thời gian và tiến độ lắp đặt thiết bị viễn thông ZTE tại nhà trạm có sẵn.",
+        "Quản lý chất lượng đảm bảo lắp đặt theo đúng chuẩn thiết kế đề ra và thường xuyên báo cáo cho PM về tình hình cũng như vấn đề phát sinh khi triển khai công việc tại công trình.",
+        "Nghiệm thu công trình đã hoàn thành và tiến hành các thủ tục bàn giao cho đối tác.",
+        "Tiếp nhận vấn đề phát sinh tại trạm phối hợp với đội thi công và quản lý trạm viễn thông đưa ra phương án giải quyết và lắp đặt hợp lý.",
+        "Hổ trợ tư vấn nhà thầu kỹ thuật lắp đặt cấu hình thiết bị viễn thông khi cần."
+      ]
+    },
+    {
+      "duration": "Từ 2018 đến 2021",
+      "company": "CÔNG TY CỔ PHẦN NGHIÊN CỨU VÀ SẢN XUẤT VINSMART",
+      "position": "Giám sát kỹ thuật điểm bảo hành",
+      "responsibilities": [
+        "Xây dựng hệ thống ủy quyền bảo hành tại miền trung - tây nguyên",
+        "Giám sát hỗ trợ kỹ thuật sửa chữa thay thể linh kiện cho sản phẩm ti vi tại các điểm bảo hành trong khu vực quản lý.",
+        "Kiểm tra mạch linh kiện điện tử từ các điểm ủy quyền trả lại nhằm phục vụ chuẩn bị linh kiện tốt cho công tác bảo hành sản phẩm sau này."
+      ]
+    },
+    {
+      "duration": "Từ 2021 đến 2022",
+      "company": "CÔNG TY TNHH VIỆT VƯƠNG",
+      "position": "Chuyên viên kỹ thuật",
+      "responsibilities": [
+        "Quản lý/ vận hành/bảo dưỡng/ xử lý sự cố hệ thống truyền treo phối móc phục vụ cho sản xuất.",
+        "Lập kế hoạch và lên phương án cho việc bảo dưỡng định kỳ tuần/ quý/ năm cho hệ thống chuyền treo phân phối hàng.",
+        "Bảo trì sửa chữa phần mềm và phần cứng máy tính của hệ thống chuyền treo phân phối hàng.",
+        "Bảo trì và sửa lỗi bo mạch máy may đảm bảo vận hành tốt.",
+        "Báo cáo các vấn đề tồn động cũng như linh kiện dự phòng cho công tác bảo trì sửa chữa.",
+        "Hỗ trợ sửa chữa bo mạch và tư vấn kỹ thuật xử lý lỗi máy may, máy cắt tự động và máy ép nhiệt trong ngành may mặc."
+      ]
+    },
+    {
+      "duration": "Từ 2022 đến nay",
+      "company": "CÔNG TY XUẤT NHẬP KHẨU BÌNH TÂY",
+      "position": "Chuyên viên bảo hành chống giả",
+      "responsibilities": [
+        "Tiếp nhận kế hoạch phân bổ KPI đồng thời đo lường giám sát để đạt chỉ tiêu đề đã cam kết với lãnh đạo công ty.",
+        "Kiểm tra cơ sở vật chất tại trạm bảo hành báo cáo các tồn động và đưa ra đề xuất để giải quyết.",
+        "Hỗ trợ giải quyết khiếu nại và những phản hồi về chất lượng dịch vụ tại trung tâm.",
+        "Tìm hiểu lên phương án khảo sát hàng giả hàng xâm phạm quyền sở hữu trí tuệ trong khu vực được giao.",
+        "Tổ chức chưng bày sản phẩm hàng thật hàng giả tại hội thảo hội nghị doanh nghiệp."
+      ]
+    }
+  ],
+  "university": [
+    "Cao Đẳng Công Nghệ",
+    "Đại Học Bách Khoa"
+  ],
+  "major": [
+    "Điện Tử",
+    "Viễn Thông"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Kỹ thuật viên tin học"
+  ]
+}

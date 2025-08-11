@@ -1,0 +1,38 @@
+﻿{
+  "full_name": "LÊ THỊ MỸ NHÂN",
+  "applied_position": "",
+  "gender": "Nữ",
+  "dob": "10/12/1997",
+  "email": "",
+  "address": "Quận 8, TP Hồ Chí Minh, Việt Nam",
+  "phone": "+84-392865207",
+  "skills": [
+    "Excel",
+    "Làm Việc Nhóm",
+    "Tỉ Mỉ",
+    "Cẩn Trọng",
+    "Giải Quyết Vấn Đề",
+    "Quản Lý Thời Gian",
+    "Quan Sát",
+    "Đánh Giá"
+  ],
+  "experience": [
+    {
+      "company": "Công Ty TNHH Hoá Chất HS Việt Nam- CN Sóc Trăng",
+      "position": "Trưởng Phòng QA",
+      "duration": "09/2020-Hiện tại (4 năm)",
+      "responsibilities": [
+        "Làm việc tại bộ phận Laboratory",
+        "Theo dõi hoạt động sản xuất và kiểm tra từ nguyên liệu đầu vào đến khi ra sản phẩm",
+        "Thực hiện các phương pháp thử nghiệm giày theo tiêu chuẩn Adidas",
+        "Phân tích đánh giá và báo cáo chất lượng cho cấp trên",
+        "Hợp tác với các phòng ban khác để theo dõi vấn đề chất lượng",
+        "Theo dõi hiệu chuẩn thiết bị thử nghiệm."
+      ]
+    }
+  ],
+  "university": "Đại Học Kỹ Thuật Công Nghệ Cần Thơ",
+  "major": "Quản lý Công nghiệp",
+  "gpa": "",
+  "certifications": ""
+}

@@ -1,0 +1,36 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Lập trình viên Backend",
+  "gender": "Nam",
+  "dob": "15/05/1990",
+  "email": "nguyen.van.a@example.com",
+  "address": "Số 123, Đường XYZ, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",
+  "phone": "0901234567",
+  "skills": [
+    "Ngôn ngữ lập trình: Node.js, Python, Java (cơ bản)",
+    "Framework/Thư viện: Express.js, Django, Spring Boot (cơ bản)",
+    "Cơ sở dữ liệu: MongoDB, PostgreSQL, MySQL",
+    "Công cụ: Git, Docker, Jira",
+    "Khác: RESTful API, Unit Testing, CI/CD, Agile/Scrum"
+  ],
+  "experience": [
+    {
+      "title": "Thực tập sinh Lập trình viên Backend",
+      "company": "Công ty TNHH Phần mềm ABC",
+      "duration": "01/2022 – 06/2022",
+      "responsibilities": [
+        "Hỗ trợ phát triển API RESTful bằng Node.js và Express.js.",
+        "Tham gia thiết kế và quản lý cơ sở dữ liệu MongoDB.",
+        "Viết unit test và tích hợp CI/CD.",
+        "Học hỏi và áp dụng các nguyên tắc Clean Code, SOLID."
+      ]
+    }
+  ],
+  "university": "Trường Đại học Bách Khoa TP. Hồ Chí Minh",
+  "major": "Công nghệ thông tin",
+  "gpa": "3.5/4.0",
+  "certifications": [
+    "Chứng chỉ lập trình Node.js cơ bản – Coursera (2021)",
+    "Khóa học SQL nâng cao – Udemy (2020)"
+  ]
+}

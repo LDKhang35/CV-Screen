@@ -1,0 +1,124 @@
+﻿{
+  "full_name": "NGUYỄN TUẤN VŨ",
+  "applied_position": "Project Manager / ERP Consultant",
+  "gender": "Male",
+  "dob": "12/01/1990",
+  "email": "",
+  "address": "Ward 25, Binh Thanh district, Ho Chi Minh city",
+  "phone": "",
+  "skills": [
+    "Project Management",
+    "ERP System (Acumatica ERP / Oracle EBS / Odoo)",
+    "Teamwork/Team management",
+    "Service Client",
+    "Using Wireframe Tools",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "MS SQL",
+    "BI Tools (Metabase, Superset)"
+  ],
+  "experience": [
+    {
+      "company": "PORT CITIES VIETNAM",
+      "title": "Project Manager",
+      "duration": "04/2023-present",
+      "responsibilities": [
+        "Take responsibility for ERP Implementation projects (Vietnam and Overseas)",
+        "Create Project Estimation, Planning and Budget control",
+        "Project Tasks and Quality control",
+        "Track milestones, deliverables, and change requests.",
+        "Project Team Management (Team OKRs, project issues, allocated resources, team motivation)",
+        "Cooperation with AM/Sales to finalize the contract's value and determine the project scope",
+        "Discuss potential projects and their parameters with clients",
+        "ERP consultant: Discuss with Clients about their business process and give them the appropriate consultants and solutions",
+        "Coaching and discussing with team members for team quality improvement in needed.",
+        "Assisting the Regional Delivery Manager (Vietnam and Japan) to investigate internal and external issues related to projects and team operation",
+        "Oversee and measure project performance using Portcities's in-house project management tool"
+      ]
+    },
+    {
+      "company": "SEEDCOM HOLDING",
+      "title": "ERP Consultant",
+      "duration": "01/2019-04/2023",
+      "responsibilities": [
+        "Member of Seedcom's MIS Team",
+        "Our focus is on the missions related to the ERP system: Oracle EBS / Acumatica ERP on fields namely: Distribution (Purchasing, Wholesales, and Inventory Management), Retail, Services, Manufacturing, Finance, and so on...)",
+        "Business Operation support for Seedcom's subsidiaries, in charge of Distribution (Sales, Purchasing), Inventory, Finance, and System Management. Ensure the business processes go well and smoothly.",
+        "Analyzing client's requirements to give the appropriate solutions/advice (take advantage of the ERP practices or customize new functions).",
+        "Finding and analyzing business processes and work flow issues to propose the appropriate solutions and workarounds.",
+        "Coordinating with team members to develop the additional ERP Reports used for daily operations.",
+        "Analyzing and mapping for integration projects (WMS, DMS, and the Seedcom in-house systems).",
+        "Analyzing and building features for the new system projects (modules, wireframes, and flowcharts,) which are used for digitizing the business operations.",
+        "Building the Financial Statements based on Accountant's needs"
+      ]
+    },
+    {
+      "company": "HARAVAN (MEMBER OF SEEDCOM GROUP)",
+      "title": "Business Analyst",
+      "duration": "11/2018-12/2018",
+      "responsibilities": [
+        "Writing FRS Documents",
+        "Getting feedback from Customers and analyzing to optimize current applications"
+      ]
+    },
+    {
+      "company": "CAUDATFARM (MEMBER OF SEEDCOM GROUP)",
+      "title": "Technology Solutions",
+      "duration": "03/2016-11/2018",
+      "responsibilities": [
+        "Operating the company's IT system",
+        "Administrating of Call Center Sati system: The most stable call center in Vietnam",
+        "Deploying POS retail and online sales model: Teamcrop (February 2016 - October 2016)",
+        "Deploying OSS system: Online sales and retail POS module, business approval slip management module (payment slip, request slip, etc.) HR management module.",
+        "Implementing iziHelp system: Customer Service system, Process customers' feedback from various channel sources such as Facebook, Zalo, email, Callcenter, and web chat. Internal tickets",
+        "Coordinating with the team to deploy the Odoo system: CRM module, Warehouse module, Sales module, Customer management module",
+        "Coordinating Deploying DMS system: Customer management services are agents, supermarket chains, CVS chains; Wholesale order; Sales team manager; KPIs based on criteria/revenue; check-in/checkout at point of sale; sales routes; Update market price information; Discount Management / Sales promotion programs.",
+        "Coordinating deployment of Oracle systems",
+        "Implementing Hearme survey feedback receiving system: NPS / eNPS, CSAT, CES Survey",
+        "Receiving requests from departments, mapping, and analysis to build the system in the direction appropriate to the operation.",
+        "Receiving requests, analyze and build a management reporting system",
+        "Training new employees to use IT systems and bringing them into daily working life",
+        "Projects:",
+        "- Deploying and managing OSS internal management system",
+        "- Deploying POS retail system: Teamcrop, OSS",
+        "- Deploying customer service system and iziHelp tickets",
+        "- Deploying DMS system - managing distributors.",
+        "- Deploying Oracle system",
+        "- Deploying the Odoo system",
+        "- Implementing Hearme system - Survey and evaluation"
+      ]
+    },
+    {
+      "company": "NEWTECH CO",
+      "title": "IT Specialist",
+      "duration": "07/2014-01/2016",
+      "responsibilities": [
+        "Technology Solutions",
+        "Managing IT systems - Web design",
+        "SEOer: Make main keywords to the top 10 Google",
+        "Branding design: Logo, Banners for new projects"
+      ]
+    },
+    {
+      "company": "3I COMMUNICATION AND TECHNOLOGY COMPANY LIMITED",
+      "title": "Deployment Specialist",
+      "duration": "02/2014-06/2014",
+      "responsibilities": [
+        "Receiving requests from customers",
+        "Offering software solutions that suit market needs"
+      ]
+    },
+    {
+      "company": "OWN BUSINESS",
+      "title": "Founder",
+      "duration": "2009-2013",
+      "responsibilities": [
+        "Operating Own Business"
+      ]
+    }
+  ],
+  "university": "HCM UNIVERSITY OF TECHNOLOGY (HUTECH)",
+  "major": "Network and System Administration",
+  "gpa": "",
+  "certifications": ""
+}

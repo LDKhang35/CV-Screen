@@ -1,0 +1,44 @@
+﻿{
+  "full_name": "NGUYỄN THỊ BÍCH",
+  "applied_position": "LẬP TRÌNH VIÊN FRONT END",
+  "gender": "Nữ",
+  "dob": "29/02/1992",
+  "email": "",
+  "address": "số 11 ngõ 29 Nguyễn Thái Học, Đống Đa,HN",
+  "phone": "",
+  "skills": [
+    "Tìm kiếm, đọc hiểu tài liệu tiếng anh chuyên môn",
+    "Tư duy logic tốt",
+    "HTML",
+    "SCSS",
+    "Bootstrap",
+    "Jquery Mobile",
+    "Photoshop",
+    "Zeplin",
+    "Figma",
+    "Illustrator",
+    "Git",
+    "Sourcetree",
+    "SVN"
+  ],
+  "experience": [
+    {
+      "company": "CÔNG TY VINECOM",
+      "position": "Lập trình viên",
+      "duration": "09/2014 - 05/2015",
+      "description": "Code HTML từ file Photoshop"
+    },
+    {
+      "company": "CÔNG TY PHẦN MỀM CITIGO",
+      "position": "Lập trình viên",
+      "duration": "06/2015 - Hiện tại",
+      "description": "Code HTML từ Photoshop, illustrator, Png, Img."
+    }
+  ],
+  "university": "ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP",
+  "major": "Công nghệ thông tin (Kỹ sư phần mềm)",
+  "gpa": "Khá",
+  "certifications": [
+    "Hội thi tay nghề thiết kế Web của Bộ Công Thương"
+  ]
+}

@@ -1,0 +1,33 @@
+﻿{
+  "full_name": "NGUYỄN MẠNH TRƯỜNG",
+  "applied_position": "NHÂN VIÊN LÁI XE",
+  "gender": "",
+  "dob": "19/10/1993",
+  "email": "italy@gmail.com",
+  "address": "Ngõ 495 Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh",
+    "Lái xe",
+    "Quản lý đội xe",
+    "Quản lý kho",
+    "Kiểm soát hàng hóa xuất nhập",
+    "Chia hàng giao hàng",
+    "Lập báo cáo"
+  ],
+  "experience": [
+    {
+      "title": "Quản lý",
+      "company": "Vận tải thành công",
+      "start_date": "05/2020",
+      "end_date": "12/2023",
+      "description": "Quản lý đội xe và kho, Kiểm soát hàng hóa xuất nhập, Chia hàng cho xe giao hàng, Báo cáo công việc"
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "",
+  "certifications": [
+    "Bằng lái xe hạng D"
+  ]
+}

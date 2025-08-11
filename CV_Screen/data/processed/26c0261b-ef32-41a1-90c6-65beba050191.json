@@ -1,0 +1,38 @@
+﻿{
+  "full_name": "NGUYỄN TRƯỜNG THỌ",
+  "applied_position": "Nhân Viên Bán Hàng",
+  "gender": "",
+  "dob": "25/04/2003",
+  "email": "",
+  "address": "441/45 Điện Biên Phủ, phường 25, quận Bình Thạnh",
+  "phone": "",
+  "skills": "",
+  "experience": [
+    {
+      "title": "Thu ngân siêu thị",
+      "company": "Siêu Thị Mart",
+      "duration": "06/2019 - 08/2019",
+      "responsibilities": [
+        "Hỗ trợ, hướng dẫn khách hàng về sản phẩm.",
+        "Giới thiệu, tư vấn thêm sản phẩm và chương trình khuyến mãi trước khi khách thanh toán.",
+        "Kiểm tra hóa đơn, in hóa đơn, thanh toán cho khách hàng."
+      ]
+    },
+    {
+      "title": "Nhân viên bán hàng và trợ lý cửa hàng",
+      "company": "Bách Hóa Xanh",
+      "duration": "05/2022 - 11/2023",
+      "responsibilities": [
+        "Hỗ trợ, hướng dẫn khách hàng về sản phẩm.",
+        "Giới thiệu, tư vấn thêm sản phẩm và chương trình khuyến mãi trước khi khách thanh toán.",
+        "Kiểm tra, thống kê và sắp xếp hàng hóa trong cửa hàng.",
+        "Tính tiền, xuất hóa đơn, thanh toán tiền cho Khách Hàng.",
+        "Sắp xếp, phân bố nhân viên cho các ca làm việc tại cửa hàng."
+      ]
+    }
+  ],
+  "university": "",
+  "major": "",
+  "gpa": "7.9",
+  "certifications": ""
+}

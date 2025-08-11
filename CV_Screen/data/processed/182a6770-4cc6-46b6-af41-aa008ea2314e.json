@@ -1,0 +1,115 @@
+﻿{
+  "full_name": "Đoàn Thanh Tuấn",
+  "applied_position": "Nhân viên kỹ thuật",
+  "gender": "",
+  "dob": "19/05/1996",
+  "email": "",
+  "address": "440/24 Huỳnh Tấn Phát Quận 7",
+  "phone": "",
+  "skills": [
+    "AUTOCAD",
+    "INVENTOR",
+    "OFFICE",
+    "PROJECT",
+    "Tin học",
+    "Tiếng Anh",
+    "Trách nhiệm với công việc",
+    "Nắm vững kiến thức chuyên ngành",
+    "Sẵn sàng chấp nhận thách thức",
+    "Hoàn thành tốt công việc được giao",
+    "Nỗ lực, tham gia học hỏi trao dồi kiến thức",
+    "Có khả năng làm việc theo tổ, nhóm",
+    "Hỗ trợ đồng nghiệp trong công việc"
+  ],
+  "experience": [
+    {
+      "start_date": "01/2019",
+      "end_date": "04/2019",
+      "company": "CÔNG TY TNHH LẬP PHÚC",
+      "position": "NHÂN VIÊN TỔ CƠ ĐIỆN",
+      "responsibilities": [
+        "Bảo trì, sửa chữa, máy móc.",
+        "Đọc hiểu các bản vẽ thiết kế điện.",
+        "Sử dụng thành thạo các dụng cụ đo đạc, dụng cụ điện.",
+        "Thiết kế cải tiến máy móc.",
+        "Lập kế hoạch bảo dưỡng định kỳ."
+      ]
+    },
+    {
+      "start_date": "05/2019",
+      "end_date": "06/2021",
+      "company": "CÔNG TY CP XÂY LẮP III PETROLIMEX",
+      "position": "GIÁM SÁT KỸ THUẬT",
+      "responsibilities": [
+        "QC tại xưởng sản xuất, kiểm tra kích thước sản phẩm, NDT đường hàn, sơn xử lý bề mặt lớp phủ (cho bồn bể, thép kết cấu, đường ống công nghệ, ...).",
+        "Shop drawing, lập file cắt cnc plasma, hồ sơ kiểm tra chất lượng theo chuẩn ISO.",
+        "Bốc tách khối lượng, lập tiến độ, dự toán kinh phí, kế hoạch vật tư.",
+        "Giám sát thi công, làm việc trực tiếp với chủ đầu tư, quản lý đội nhóm, tổ đội thi công, ...",
+        "Lập tiến độ, hồ sơ kiểm soát chất lượng, hồ sơ nghiệm thu biện pháp thi công, bản vẽ hoàn công, ..."
+      ]
+    },
+    {
+      "start_date": "07/2021",
+      "end_date": "10/2021",
+      "company": "CÔNG TY TNHH SX TM HIỀN HUY",
+      "position": "NHÂN VIÊN BẢO TRÌ",
+      "responsibilities": [
+        "Thực hiện công tác bảo dưỡng thiết bị, máy móc theo kế hoạch.",
+        "Lập kế hoạch bảo trì bảo dưỡng của máy móc thiết bị.",
+        "Dự trù vật tư thay thế dự phòng cho máy móc thiết bị toàn nhà máy.",
+        "Lắp đặt máy móc thiết bị, hướng dẫn vận hành máy móc thiết bị.",
+        "Đưa ra giải pháp cải tiến máy móc thiết bị theo yêu cầu."
+      ]
+    },
+    {
+      "start_date": "11/2021",
+      "end_date": "03/2022",
+      "company": "CÔNG TY TNHH TƯ VẤN THIẾT KẾ XÂY DỰNG THƯƠNG MẠI BÁCH THỊCH",
+      "position": "GIÁM SÁT VIÊN",
+      "responsibilities": [
+        "Kiểm tra kiểm soát chất lượng thi công của hệ thống nước cấp nước sạch (HDPE, UPVC, trụ cứu hỏa, ...).",
+        "Kiểm soát tiến độ, chất lượng, kết quả công việc của nhà thầu.",
+        "Lưu trữ, giao nhận hồ sơ, bản vẽ, tham gia các cuộc họp.",
+        "Giám sát và đôn đốc kiểm tra các vấn đề liên quan đến: kỹ thuật, chất lượng, tiến độ, khối lượng, an toàn lao động và vệ sinh môi trường.",
+        "Điều phối hoạt động của các thầu phụ, tổ đội, nhân công trong công trình.",
+        "Báo cáo các công việc hàng ngày cho chủ đầu tư."
+      ]
+    },
+    {
+      "start_date": "04/2022",
+      "end_date": "11/2022",
+      "company": "CÔNG TY TNHH CÔNG NGHỆ VÀ MÁY SÀI GÒN (SMACTEK)",
+      "position": "NHÂN VIÊN THIẾT KẾ",
+      "responsibilities": [
+        "Thiết kế mới, cải tiến dây chuyền sản xuất, máy móc thiết bị theo yêu cầu của khách hàng, kiểm tra kiểm soát trong quá trình gia công lắp ráp chi tiết.",
+        "Thiết kế 2D, 3D chi tiết máy móc, giám sát quá trình sản xuất, lắp ráp sản phẩm.",
+        "Bóc tách vật tư theo bản vẽ sản xuất, làm định mức vật tư cho sản phẩm.",
+        "Lập kế hoạch, lên ý tưởng cập nhật cải tiến trong quá trình thiết kế.",
+        "Lắp đặt máy, bàn giao và hướng dẫn vận hành máy móc thiết bị.",
+        "Bảo trì, bảo dưỡng, sửa chữa máy móc thiết bị cho khách hàng."
+      ]
+    },
+    {
+      "start_date": "12/2022",
+      "end_date": "Hiện tại",
+      "company": "CÔNG TY TNHH THƯƠNG MẠI XÂY DỰNG SẢN XUẤT HOÀNG HÀ",
+      "position": "GIÁM SÁT THI CÔNG",
+      "responsibilities": [
+        "Giám sát thi công lắp đặt tại công trình (Bồn bể, thép kết cấu, sàn thao tác, đường ống công nghệ, dây chuyền sản xuất ...).",
+        "Triển khai bản vẽ shop drawing cho xưởng gia công, bản vẽ thiết kế mới.",
+        "Tính toán khối lượng đề xuất vật tư công trình.",
+        "Triển khai, tổ chức thi công cho các tổ đội tại hiện trường.",
+        "Quản lý tiến độ công việc thi công tại hiện trường.",
+        "Quản lý kiểm tra giám sát chất lượng công việc của các đội thi công.",
+        "Lập biện pháp thi công và tiến độ thi công công trình.",
+        "Thực hiện công tác nghiệm thu chất lượng và khối lượng công việc với các nhà cung cấp và chủ đầu tư.",
+        "Thực hiện công tác vẽ hoàn công và diễn giải khối lượng khi kết thúc công trình.",
+        "Khảo sát hiện trường, lập bản vẽ chào giá, bốc tách khối lượng, lập hồ sơ thầu."
+      ]
+    }
+  ],
+  "university": "ĐẠI HỌC CÔNG NGHIỆP",
+  "major": "CƠ KHÍ CHẾ TẠO MÁY",
+  "gpa": 7.2,
+  "certifications": []
+}

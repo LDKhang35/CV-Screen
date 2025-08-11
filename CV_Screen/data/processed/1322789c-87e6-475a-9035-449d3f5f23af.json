@@ -1,0 +1,18 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "Lập trình viên Python",
+  "gender": "Nam",
+  "dob": "15/05/1998",
+  "email": "nguyen.van.a@email.com",
+  "address": "Số 123, Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0912345678",
+  "skills": "Ngôn ngữ lập trình: Python (thành thạo), Java (khá), C++ (cơ bản). Frameworks/Thư viện: Django, Flask, ReactJS, NumPy, Pandas. Cơ sở dữ liệu: MySQL, PostgreSQL, MongoDB. Công cụ: Git, Docker, Jira. Kỹ năng mềm: Làm việc nhóm, Giải quyết vấn đề, Giao tiếp tốt.",
+  "experience": "Lập trình viên Backend tại Công ty X (07/2020 - Hiện tại): Phát triển và duy trì API RESTful sử dụng Django và Django REST Framework. Thiết kế và tối ưu hóa cơ sở dữ liệu PostgreSQL. Tích hợp các dịch vụ bên thứ ba (thanh toán, gửi email). Tham gia vào quy trình code review và triển khai CI/CD.",
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Khoa học Máy tính",
+  "gpa": "3.5/4.0",
+  "certifications": [
+    "Chứng chỉ Python Developer của [Tổ chức XYZ]",
+    "IELTS 6.5"
+  ]
+}

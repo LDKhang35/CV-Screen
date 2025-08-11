@@ -1,0 +1,28 @@
+﻿{
+  "full_name": "TRIỆU KHẮC TÚ",
+  "applied_position": "NHÂN VIÊN IT",
+  "gender": "Nam",
+  "dob": "",
+  "email": "",
+  "address": "Tòa B cc sông Nhuệ - Kiến Hưng - Hà Đông - Hà Nội",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh (Nghe, Nói, Đọc, Viết - Thành thạo)",
+    "Tin học văn phòng (Word, Excel, PowerPoint, Outlook - Thành thạo)",
+    "Lập trình",
+    "Tester",
+    "Thiết kế (Design)",
+    "Triển khai (Deployer)"
+  ],
+  "experience": [
+    {
+      "position": "Developer",
+      "company": "CÔNG TY NITTSU SYSTEM VIỆT NAM",
+      "description": "Lập trình full stack, tester, designer, deployer. Có nhiều thành tích trong công việc, được khen thưởng trong quá trình làm việc."
+    }
+  ],
+  "university": "HỌC VIỆN KĨ THUẬT QUÂN SỰ",
+  "major": "Công nghệ thông tin",
+  "gpa": "Giỏi",
+  "certifications": []
+}

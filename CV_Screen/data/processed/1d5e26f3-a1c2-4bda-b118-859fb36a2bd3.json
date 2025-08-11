@@ -1,0 +1,94 @@
+﻿{
+  "full_name": "Nguyễn Thị Huyền",
+  "applied_position": "Nhân viên kinh doanh",
+  "gender": "Nữ",
+  "dob": "28/08/1984",
+  "email": "huyen@gmail.com",
+  "address": "TX38, P Thạnh Xuân, Quận 12, TP HCM",
+  "phone": "",
+  "skills": [
+    "Đàm phán, giao tiếp tốt",
+    "Vi tính văn phòng",
+    "Làm báo giá, hợp đồng",
+    "Làm việc độc lập, áp lực cao",
+    "Phối hợp làm việc nhóm tốt",
+    "Tiếng Anh"
+  ],
+  "experience": [
+    {
+      "company_name": "Khách sạn Anh Anh",
+      "position": "Tiếp tân",
+      "duration": "10/2004 – 10/2008",
+      "description": [
+        "Chào và tiếp đón khách đến khách sạn một cách chuyên nghiệp và thân thiện.",
+        "Xử lý các thủ tục check-in và check-out cho khách.",
+        "Cung cấp về các dịch vụ của khách sạn.",
+        "Tư vấn bán vé các điểm tham quan du lịch và nhà hàng trong khu vực.",
+        "Giải đáp thắc mắc và hỗ trợ khách trong suốt thời gian lưu trú.",
+        "Xử lý các yêu cầu đặc biệt của khách và giải quyết các vấn đề phát sinh.",
+        "Quản lý hệ thống đặt phòng và cập nhật thông tin phòng.",
+        "Phối hợp với các bộ phận khác như buồng phòng, nhà hàng để đảm bảo dịch vụ tốt nhất cho khách hàng.",
+        "Thực hiện các công việc hành chính như lập báo cáo, kiểm tra email và xử lý thanh toán.",
+        "Tham gia hỗ trợ công việc buồng phòng."
+      ]
+    },
+    {
+      "company_name": "Khách sạn Quý Hùng",
+      "position": "Quản lý khách sạn",
+      "duration": "03/2009 – 02/2015",
+      "description": [
+        "Lập kế hoạch kinh doanh.",
+        "Giải quyết các vấn đề, sự cố phát sinh.",
+        "Quản lý, điều hành hoạt động kinh doanh Khách sạn.",
+        "Quản lý nhân sự và các hoạt động nội bộ của khách sạn.",
+        "Đào tạo bồi dưỡng nhân sự.",
+        "Quản lý, giám sát và chịu trách nhiệm về tài sản cố định được bàn giao.",
+        "Quản lý, chịu trách nhiệm và báo cáo kết quả hoạt động kinh doanh định kỳ."
+      ]
+    },
+    {
+      "company_name": "Công ty TNHH Tư vấn Xây dựng Thiết kế Tân Anh",
+      "position": "Nhân viên kinh doanh",
+      "duration": "02/2016 – 07/2021",
+      "description": [
+        "Tư vấn khách hàng tại Showroom.",
+        "Tìm kiếm, tiếp cận khách hàng có nhu cầu sử dụng sản phẩm nội thất.",
+        "Tư vấn, báo giá cho họ những sản phẩm nội thất phù hợp hoặc kết nối họ với bộ phận thiết kế của công ty.",
+        "Đàm phán hợp đồng thiết kế và thi công nội thất với khách hàng.",
+        "Đàm phán các đối tác kinh doanh là các hệ thống kho đá tự nhiên, nhân tạo để nhập hàng cho đơn hàng thi công.",
+        "Theo dõi quá trình thực hiện hợp đồng và làm hồ sơ thanh toán cho hợp đồng mình phụ trách."
+      ]
+    },
+    {
+      "company_name": "CTY Thiên Ấn Furniture",
+      "position": "Nhân viên kinh doanh",
+      "duration": "10/2021 – 02/2023",
+      "description": [
+        "Bán hàng tại showroom kết hợp thị trường tìm kiếm tư vấn khách hàng có nhu cầu về các sản phẩm nội thất cao cấp như TBVS, Gạch, Sofa, Bếp...",
+        "Chăm sóc khách hàng cũ, tìm kiếm thêm khách hàng mới.",
+        "Tạo mối quan hệ thân thiện, hỗ trợ kinh doanh đối với tất cả các khách hàng.",
+        "Được đào tạo kiến thức về sản phẩm, định hướng khách hàng, tư vấn bán hàng.",
+        "Được sự hỗ trợ tích cực của các cấp quản lý trong hoạt động kinh doanh.",
+        "Sẵn sàng đào tạo các bạn chưa có kinh nghiệm yêu cầu lanh lợi, chủ động trong công việc."
+      ]
+    },
+    {
+      "company_name": "Hệ thống Kho đá Lamar An Sương",
+      "position": "Nhân viên kinh doanh",
+      "duration": "03/2023 – 09/2024",
+      "description": [
+        "Chăm sóc, tìm kiếm đối tác khách hàng có nhu cầu về đá ốp lát tự nhiên và đá nung kết Lamar.",
+        "Tìm nhà phân phối sỉ.",
+        "Chào giá, tư vấn các sản phẩm của công ty.",
+        "Lên hợp đồng, xuất kho hàng.",
+        "Báo cáo cuối ngày doanh thu, chi phí."
+      ]
+    }
+  ],
+  "university": "ĐH Khoa học Xã hội và Nhân văn",
+  "major": "Cử nhân địa lý du lịch",
+  "gpa": "Trung bình khá",
+  "certifications": [
+    "Chứng chỉ kế toán Doanh Nghiệp và Khai báo thuế"
+  ]
+}

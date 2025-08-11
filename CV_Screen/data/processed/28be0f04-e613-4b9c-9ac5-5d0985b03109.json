@@ -1,0 +1,78 @@
+﻿{
+  "full_name": "LE THANH TUNG",
+  "applied_position": "Test Leader",
+  "gender": "Male",
+  "dob": "Jan 23, 1993",
+  "email": "",
+  "address": "Hanoi, Vietnam",
+  "phone": "",
+  "skills": [
+    "Smart TV",
+    "Computer",
+    "Powerpoint",
+    "Negotiation"
+  ],
+  "experience": [
+    {
+      "title": "Test lead",
+      "company": "VinID Company",
+      "dates": "July 2019 - Present",
+      "responsibilities": [
+        "Create test plan, sprint report for each sprint",
+        "Test API, mobile, web (iOS, Android, Chrome)",
+        "Review product requirement, UI/UX",
+        "Creating and reviewing test documents (test case, test report, bug)",
+        "Control task, issue, effort for each member",
+        "Discuss with customer, partners about business, issue…",
+        "Raising as well as solving whenever a problem occurs",
+        "Suggest solutions, ideas for PO/BA to resolve issues about product",
+        "Summarizing and reporting to PM and test manager about working status, testing progress, test result, issue for each sprint",
+        "Feature: General trader lending, CASA linking, Wallet, Check out, Group fund, Money transfer"
+      ]
+    },
+    {
+      "title": "Test lead",
+      "company": "FPT Software",
+      "dates": "June 2018 - June 2019",
+      "responsibilities": [
+        "Planning and implementing test activities with different test target",
+        "Managing and monitoring a testing team with 5 members",
+        "Analyzing requirement, creating and reviewing test documents such as: test policy, test design, test case, test report, bug report",
+        "Summarizing and reporting to customer as well as higher leader about working status, testing progress, test result, issue, etc.",
+        "Raising as well as solving whenever a problem occur",
+        "Develop requirement (create test viewpoint, function list, test design, test case and checklist)",
+        "Manage test document, configuration (Network, server, broadcast environment)",
+        "Review test reports, bug lists and log bugs",
+        "Support members when they met issues and find the",
+        "Communicate, discussing with customer about bug, issue or Q&A about requirement",
+        "Product: Smart TV (Android OS)"
+      ]
+    },
+    {
+      "title": "Sub-lead",
+      "company": "FPT Software",
+      "dates": "Sep 2017 - May 2018",
+      "responsibilities": [
+        "Develop requirement for new mobile app (create test design, check list and test case)",
+        "Review test report",
+        "Control execute test progress of test team",
+        "Communicate, discussing with customer, dev team about bug, issue, improve requirement…",
+        "Product: Mobile app"
+      ]
+    },
+    {
+      "title": "Test member",
+      "company": "FPT Software",
+      "dates": "Aug 2015 - Sep 2017",
+      "responsibilities": [
+        "Develop document for new mobile app (create test design, check list and test case)",
+        "Execute test",
+        "Product: Smart TV"
+      ]
+    }
+  ],
+  "university": "FPT University",
+  "major": "Software engineer",
+  "gpa": "6.6/10",
+  "certifications": []
+}

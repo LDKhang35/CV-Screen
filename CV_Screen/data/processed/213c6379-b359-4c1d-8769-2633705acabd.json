@@ -1,0 +1,47 @@
+﻿{
+  "full_name": "ĐINH HƯƠNG LIÊN",
+  "applied_position": "NHÂN VIÊN ĐIỀU PHỐI HÀNG HÓA",
+  "gender": "Nữ",
+  "dob": "21/07/1991",
+  "email": "",
+  "address": "Số 18, ngõ 75, phố Vĩnh Hưng, quận Hoàng Mai, Hà Nội",
+  "phone": "",
+  "skills": [
+    "Kỹ năng quản lý hàng hóa",
+    "Kỹ năng phân tích, xử lý số liệu",
+    "Kỹ năng giao tiếp",
+    "Kỹ năng tổ chức, sắp xếp công việc, quản lý thời gian",
+    "Kỹ năng làm việc, quản lý nhóm"
+  ],
+  "experience": [
+    {
+      "duration": "2016-2019",
+      "position": "Nhân viên quầy hàng thời trang",
+      "company": "Công ty TNHH AEON Việt Nam siêu thị AEON LONG BIÊN",
+      "responsibilities": [
+        "Bán hàng, tư vấn khách hàng",
+        "Nhận hàng, sắp xếp và trưng bày hàng hóa",
+        "Bổ sung tem, bảng giá, hàng hóa lên quầy kệ",
+        "Thực hiện các công việc khác khi quản lý phân công"
+      ]
+    },
+    {
+      "duration": "2019-2024",
+      "position": "Trưởng nhóm quầy hàng thời trang trẻ em siêu thị AEON HÀ ĐÔNG",
+      "company": "Công ty TNHH AEON Việt Nam",
+      "responsibilities": [
+        "Quản lý hàng hóa, sàn bán hàng, kho bãi và các hoạt động dịch vụ khách hàng, thu ngân theo chỉ tiêu công ty đề ra",
+        "Quản lý nhân sự, hướng dẫn, kiểm tra, nhắc nhở nhân viên, PG tuân thủ các quy định công ty",
+        "Hoàn thành các nhiệm vụ khác được giao bởi quản lý cấp trên"
+      ]
+    }
+  ],
+  "university": "Đại học Công Đoàn",
+  "major": "QUẢN TRỊ KINH DOANH",
+  "gpa": "Tốt nghiệp loại Khá (Cao đẳng 2010-2013), Tốt nghiệp loại Giỏi (Liên thông Đại học 2013-2015)",
+  "certifications": [
+    "Chứng chỉ B Tin học văn phòng (Năm 2019)",
+    "Hoàn thành khóa Retail Trainee 1 - Đào tạo trưởng nhóm tương lai (Năm 2019)",
+    "Hoàn thành khóa học Retail Trainee 2 - Đào tạo trưởng quầy tương lai (Năm 2023)"
+  ]
+}

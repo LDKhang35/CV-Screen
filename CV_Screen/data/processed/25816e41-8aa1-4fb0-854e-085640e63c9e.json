@@ -1,0 +1,50 @@
+﻿{
+  "full_name": "NGUYỄN NGUYÊN CƯỜNG",
+  "applied_position": "Marketing Manager/ Marketing Leader",
+  "gender": "Nam",
+  "dob": "16/1/1996",
+  "email": "",
+  "address": "318/2 Điện Biên Phủ P.17 B T",
+  "phone": "",
+  "skills": [
+    "Web-UX/UI",
+    "Quản lý- đào tạo",
+    "Giao tiếp",
+    "Lập kế hoạch",
+    "Chạy quảng cáo/ SEO"
+  ],
+  "experience": [
+    {
+      "company": "Công ty Cổ phần đầu tư Khương Thịnh Miền Nam",
+      "duration": "2/2020 - 9/2020",
+      "position": "Nhân viên kinh doanh BĐS",
+      "description": "- Tư vấn và chăm sóc khách hàng\n- Tạo Google Site, Thiết kế banner, poster chạy quảng cáo\n- Chạy quảng cáo Facebook."
+    },
+    {
+      "company": "Công ty TNHH Haesong Vina (Mỹ phẩm, Nhân sâm Hàn Quốc)",
+      "duration": "11/2020 - 01/2022",
+      "position": "Chuyên viên Marketing - Full Stack (4-2021: Leader)",
+      "description": "- Quản trị Fanpage và Website công ty (nội dung và vận hành)\n- Thiết kế, chỉnh sửa hình ảnh, banner, poster, cho các sản phẩm và sự kiện của công ty.\n- Thiết kế Website, Landing Page, cải thiện UX/UI cho website công ty.\n- Chạy quảng cáo Facebook, Google, Instagram.\n- Làm việc với các đối tác thực hiện các dự án truyền thông quảng bá cho công ty."
+    },
+    {
+      "company": "Công Ty Tnhh Đầu Tư Và Xây Dựng Địa Ốc Vạn Phúc",
+      "duration": "02/2022 - nay",
+      "position": "Trưởng phòng Marketing",
+      "description": "- Quản lý các ấn phẩm tờ rơi, banner, sale kit,..\n- Lập kế hoạch chiến dịch Marketing, phân tích mục tiêu, đo lường kết quả.\n- Phân tích đối thủ, cập nhật xu hướng công nghệ MKT 4.0, social,..\n- Quản lý thương hiệu, xây dựng hình ảnh công ty.\n- Quản lý và đào tạo, đánh giá nhân viên.\n- Giải quyết vấn đề và ra quyết định trong từng giai đoạn của chiến dịch.\n- Tạo không khí tích cực và phát triển cho nhân viên.\n- Quản lý ngân sách và đảm bảo hiệu quả chiến dịch.\n- Tạo mối liên kết chặt chẽ hiệu quả Sale- Marketing.\n- Chịu trách nhiệm và đưa ra giải pháp đối với ban giám đốc."
+    },
+    {
+      "company": "Freelancer",
+      "duration": "09/2021 - nay",
+      "position": "Consultant Digital Marketing",
+      "description": "- Tư vấn chiến lược marketing\n- Tư vấn ứng dụng công nghệ AI và chuyển đổi số.\n- Thực hiện chiến dịch Marketing (sản xuất nội dung, chạy quảng cáo, đo lường)\n- Dựng Website, xây dựng kênh social (Facebook, Youtube, Instagram,..)"
+    }
+  ],
+  "university": "Đại học Luật TPHCM",
+  "major": "Quản trị kinh doanh",
+  "gpa": "",
+  "certifications": [
+    "Toeic 610 (2019)",
+    "Chiến sĩ Mùa Hè Xanh hoàn thành xuất sắc nhiệm vụ",
+    "Cán bộ đoàn hội hoàn xuất sắc (2017-2019)"
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "full_name": "NGUYỄN THỊ HOÀNG HOA",
+  "applied_position": "Sales Admin",
+  "gender": "Nữ",
+  "dob": "25/10/1996",
+  "email": "",
+  "address": "Đông Phong - TP Lai Châu",
+  "phone": "",
+  "skills": [
+    "Tin Học Văn Phòng",
+    "Ứng Xử Giao Tiếp",
+    "Làm Việc Nhóm",
+    "Lập kế hoạch, Quản lý thời gian"
+  ],
+  "experience": [
+    {
+      "company": "Công ty TNHH Johnson Health Tech Việt Nam",
+      "position": "Sales admin Dự Án",
+      "duration": "07/2023-08/2024"
+    },
+    {
+      "company": "Công ty TNHH MTV Thái Kiên",
+      "position": "Sales admin",
+      "duration": "08/2022-06/2023"
+    },
+    {
+      "company": "Công Ty Cổ Phần Dịch Vụ Thương Mại Tổng Hợp Vincommerc",
+      "position": "ALC",
+      "duration": "2021-2022"
+    },
+    {
+      "company": "Công Ty Cổ Phần Dịch Vụ Thương Mại Tổng Hợp Vincommerc",
+      "position": "QC - Quality Control",
+      "duration": "2019-2021"
+    }
+  ],
+  "university": "Trường Đại học Dân lập Phương Đông",
+  "major": "Công Nghệ Sinh Học",
+  "gpa": "3.24",
+  "certifications": []
+}

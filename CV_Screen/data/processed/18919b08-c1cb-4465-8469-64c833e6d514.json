@@ -1,0 +1,37 @@
+﻿{
+  "full_name": "VÕ THỊ THUỲ VÂN",
+  "applied_position": "Tư Vấn Chăm Sóc Khách Hàng - Admin",
+  "gender": "",
+  "dob": "26/08/1993",
+  "email": "",
+  "address": "1104/3B TL10, Tân Tạo, Bình Tân",
+  "phone": "",
+  "skills": [
+    "Tiếng Anh",
+    "Tư vấn bán hàng"
+  ],
+  "experience": [
+    {
+      "position": "TRỢ LÝ GIÁM ĐỐC",
+      "company": "CTY CP HMP TỰ NHIÊN",
+      "duration": "03/2024",
+      "description": "Hỗ trợ Giám Đốc điều hành tất cả các công việc liên quan phòng kinh doanh, tổ chức sự kiện cho cty, quản lý team kinh doanh toàn quốc, quản lý kênh xuất nhập khẩu."
+    },
+    {
+      "position": "SALE ADMIN",
+      "company": "CTY TNHH HUNUFA VIÊT NAM",
+      "duration": "10/2023-12/2023",
+      "description": "Hỗ trợ lên ĐH cho sale đi thị trường, check hàng tồn kho. Liên hệ bộ phận kho điều phối giao hàng cho KH. Check công nợ KH, liên hệ báo giá, thu mua, gửi mẫu cho KH mới. Báo bộ phận kế hoạch sản xuất những mặt hàng đang âm kho."
+    },
+    {
+      "position": "CS DATA",
+      "company": "AVERY DENNISON RIS VN",
+      "duration": "05/2017 -12/2022",
+      "description": "Nhận đơn hàng từ khách hàng qua email, in hard copy theo yêu cầu của khách hàng để nhập lên hệ thống cho bộ phận sản xuất. Báo cáo & thương lượng với khách hàng khi có lỗi từ hệ thống hoặc sản xuất. Tạo ticket khi có lỗi do hệ thống. Báo cáo số lượng đơn hàng mỗi ngày với leader."
+    }
+  ],
+  "university": "TRƯỜNG CAO ĐẲNG KINH TẾ - KỸ THUẬT VINATEX",
+  "major": "QUẢN TRỊ KINH DOANH",
+  "gpa": "Tốt nghiệp loại khá",
+  "certifications": ""
+}

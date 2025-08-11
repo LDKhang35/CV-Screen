@@ -1,0 +1,15 @@
+﻿{
+  "full_name": "Nguyễn Văn A",
+  "applied_position": "",
+  "gender": "Nam",
+  "dob": "15/05/1990",
+  "email": "nva@example.com",
+  "address": "123 Đường ABC, Quận XYZ, TP.HCM",
+  "phone": "0901234567",
+  "skills": "Giao tiếp, làm việc nhóm, giải quyết vấn đề, Python, Java, SQL, Machine Learning",
+  "experience": "1. Lập trình viên tại Công ty Z (01/2018 - Hiện tại): Phát triển ứng dụng web sử dụng Python/Django; Tham gia vào các dự án Machine Learning. 2. Thực tập sinh tại Công ty Y (06/2017 - 12/2017): Hỗ trợ phát triển phần mềm; Kiểm thử sản phẩm.",
+  "university": "Đại học Bách Khoa TP.HCM",
+  "major": "Kỹ thuật phần mềm",
+  "gpa": "3.5/4.0",
+  "certifications": "AWS Certified Solutions Architect – Associate (2022), Tiếng Anh IELTS 7.0 (2021)"
+}

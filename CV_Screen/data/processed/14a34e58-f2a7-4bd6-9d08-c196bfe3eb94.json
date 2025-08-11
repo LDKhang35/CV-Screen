@@ -1,0 +1,38 @@
+﻿{
+  "full_name": "ĐINH THỊ THU TRANG",
+  "applied_position": "KẾ TOÁN VIÊN",
+  "gender": "",
+  "dob": "14/10/1997",
+  "email": "",
+  "address": "Ngõ 79 Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội, Việt Nam",
+  "phone": "",
+  "skills": [
+    "EXCEL",
+    "WORD",
+    "PHẦN MỀM KẾ TOÁN (BRAVO, MISA)",
+    "NGOẠI NGỮ"
+  ],
+  "experience": [
+    {
+      "position": "Kế toán viên",
+      "company": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN SMARTINVEST",
+      "start_date": "Thg 10 2020",
+      "end_date": "Hiện tại",
+      "description": "- Tiếp nhận hóa đơn, chứng từ do các nhà cung cấp hoặc các phòng ban chuyển đến, kiểm tra tính hợp lý, hợp lệ của hóa đơn chứng từ theo quy định về hóa đơn chứng từ và chi phí doanh nghiệp, quy chế chi tiêu của công ty, lập chứng từ thanh toán.\n- Thanh toán các khoản công nợ phải thu, phải trả cho khách hàng và cho nhân viên.\n- Theo dõi các khoản thanh toán có tính chất thường xuyên, các hợp đồng mua bán để thanh toán đúng thời hạn.\n- Lập phiếu thu, phiếu chi tiền mặt và quản lý tài khoản tiền mặt của công ty.\n- Hàng ngày cập nhật các nghiệp vụ thu chi từ sổ phụ vào theo đúng quy định.\n- Làm cập nhật dữ liệu tiền nhà đầu tư đối soát tiền nhà đầu tư với core chứng khoán.\n- Kiểm tra, phát hiện những bất thường, bất hợp lý trong các chi phí thường xuyên.\n- Hạch toán các chứng từ đã thanh toán vào phần mềm kế toán đảm bảo phản ánh đúng và đầy đủ các nghiệp vụ kinh tế phát sinh trong kỳ.\n- Chịu trách nhiệm quản lý và xuất hóa đơn thuế GTGT theo đúng quy định và luật thuế ban hành.\n- Kê khai, quyết toán thuế GTGT, môn bài, Thuế TNDN... hàng tháng, quý, năm gửi cho các cơ quan thuế và các cơ quan quản lý khác.\n- Làm các hồ sơ thay đổi thủ tục ngân hàng, soạn các hồ sơ phục vụ vay ngân hàng.\n- Đi ngân hàng lấy sổ phụ ngân hàng định kỳ.\n- Lấy các đối chiếu xác nhận ngân hàng phục vụ kiểm toán.\n- Theo dõi đối chiếu số dư ngân hàng các khoản vay, tiết kiệm của công ty, dự lãi vay ngân hàng, tiết kiệm ngân hàng vào cuối tháng.\n- Chịu trách nhiệm lưu toàn bộ các chứng từ sổ sách liên quan đến phần hành được giao.\n- Lập báo cáo tài chính hàng quý, năm.\n- Các công việc khác theo phân công của Kế toán trưởng."
+    },
+    {
+      "position": "Nhân viên bán hàng",
+      "company": "BI:EL BOUTIQUE",
+      "start_date": "Thg 08 2017",
+      "end_date": "Thg 01 2020",
+      "description": "- Tư vấn và bán hàng, hỗ trợ khách hàng kiếm size khi thử đồ, canh chỉnh quần áo, chọn size cho khách khi khách đến cửa hàng.\n- Trực trang facebook và zalo của cửa hàng, thực hiện giới thiệu và tư vấn cho khách hàng online, thuyết phục khách hàng đi đến chốt đơn.\n- Trưng bày sản phẩm, luôn đảm bảo kệ, sào được gọn gàng, tươm tất, sản phẩm được xếp ngay ngắn, đẹp mắt, đầy đủ, vệ sinh nơi làm việc, sào kệ và sản phẩm."
+    }
+  ],
+  "university": "Đại học Kinh tế Quốc dân",
+  "major": "Quản lý thuế, Viện Ngân hàng - Tài chính",
+  "gpa": "Tốt nghiệp loại khá",
+  "certifications": [
+    "Chứng chỉ Tiếng Trung HSK4",
+    "Chứng chỉ Kế toán trưởng"
+  ]
+}

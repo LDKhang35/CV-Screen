@@ -1,0 +1,66 @@
+﻿{
+  "full_name": "Tran Thi Thanh Huong",
+  "applied_position": "",
+  "gender": "Female",
+  "dob": "20th February 1981",
+  "email": "",
+  "address": "No.448, Group 8, Thanh To ward, Hai An District, Hai Phong city",
+  "phone": "",
+  "skills": [
+    "English fluency",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "PowerPoint",
+    "Web proficiency",
+    "Interpersonal skills",
+    "Problem-solving",
+    "Responsibility",
+    "Communication",
+    "Carefulness",
+    "Creativity",
+    "Enthusiasm",
+    "Customer Service"
+  ],
+  "experience": [
+    {
+      "period": "2005 - 2010",
+      "position": "Translator",
+      "company": "NASICO",
+      "description": "Shipbuilding company in Hai Phong city.",
+      "location": "Hai Phong city"
+    },
+    {
+      "period": "2011 - 2016",
+      "position": "Customer Service Officer",
+      "company": "BEE Logistics Corporation",
+      "description": "Shipping agent and logistics forwarder in Hai Phong city.",
+      "location": "Hai Phong city"
+    },
+    {
+      "period": "2017 - 2018",
+      "position": "Customer Service Officer",
+      "company": "PEC",
+      "description": "Center of teaching English and studying abroad consultancy in Hai Phong city.",
+      "location": "Hai Phong city"
+    },
+    {
+      "period": "2019 - 06.2024",
+      "position": "Customer Service Officer",
+      "company": "Vietnam Edulinks Education Consultancy JSC (VINEC)",
+      "description": "Company of teaching English and studying abroad consultancy in Hai Phong city.",
+      "location": "Hai Phong city"
+    }
+  ],
+  "university": [
+    "University of Hai Phong Management and Technology",
+    "Foreign Trade University"
+  ],
+  "major": [
+    "English",
+    "International Business Economics"
+  ],
+  "gpa": "",
+  "certifications": [
+    "Certificate of Computer"
+  ]
+}

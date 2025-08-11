@@ -1,0 +1,50 @@
+﻿{
+  "full_name": "Phan Thị Bảo Châu",
+  "applied_position": "",
+  "gender": "Nữ",
+  "dob": "14/09/1988",
+  "email": "",
+  "address": "343/22B10 Tô Hiến Thành, P.12, Quận 10, Thành phố Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "Giao tiếp tốt với khách hàng",
+    "Sắp xếp tổ chức công việc",
+    "Khả năng thích ứng và làm việc trong môi trường áp lực cao",
+    "Làm việc độc lập và làm việc nhóm",
+    "Thông thạo tin học văn phòng",
+    "Tiếng Anh (TOEIC 700)"
+  ],
+  "experience": [
+    {
+      "company": "Công ty Cổ phần Hóa dầu Công nghệ cao HI-PEC",
+      "position": "Nhân viên hỗ trợ Kinh doanh, Phòng Kinh doanh – Thương mại",
+      "duration": "T8/2024 – Hiện nay",
+      "description": "Tiếp nhận đơn hàng, lên đơn hàng thông qua hệ thống Epoint ERP, phối hợp nhân viên kho giao hàng theo yêu cầu của khách. Làm báo giá; soạn thảo công văn gửi các đơn vị liên quan theo triển khai của Ban lãnh đạo Công ty và Trưởng phòng Kinh doanh. Hỗ trợ Trưởng phòng làm hồ sơ dự thầu: chuẩn bị hồ sơ liên quan đến báo cáo tài chính, nhân sự chủ chốt, máy móc thiết bị, các hợp đồng tương tự, hồ sơ xin cấp bảo lãnh dự thầu và cam kết tín dụng từ Ngân hàng; tổng hợp thông tin từ Bộ phận kỹ thuật về giải pháp kỹ thuật, biện pháp tổ chức thi công, an toàn lao động - vệ sinh môi trường, thời gian thi công, biện pháp đảm bảo chất lượng… đáp ứng yêu cầu của hồ sơ mời thầu. Chuẩn bị hồ sơ liên quan đến việc thực hiện công trình: soạn thảo hợp đồng thầu phụ, các công văn liên quan gửi Chủ đầu tư; xuất kho vật tư, máy móc thiết bị, bảo hộ lao động theo kế hoạch thi công công trình, biên bản nghiệm thu vật tư…; báo cáo tiến độ thực hiện công trình định kỳ…"
+    },
+    {
+      "company": "Công ty TNHH MTV Xây dựng và Kinh doanh nhà Phú Nhuận",
+      "position": "Nhân viên Hành chính nhân sự",
+      "duration": "T8/2023 – T7/2024",
+      "description": "Tham mưu xây dựng, cập nhật, chỉnh sửa quy định, quy trình đánh giá kết quả thực hiện công việc theo KPIs đối với các phòng, ban và người lao động Công ty. Tham mưu cho Ban Tổng Giám đốc (TGĐ) thực hiện đánh giá, phân loại lao động Công ty theo đề án tái cơ cấu tổ chức. Theo dõi công tác đào tạo nhân viên của các phòng, ban. Tham dự các cuộc họp được phân công, làm biên bản họp và các báo cáo liên quan. Hỗ trợ Trưởng Phòng chỉnh sửa tài liệu nội bộ, triển khai công việc đến các phòng, ban theo chỉ đạo của Ban TGĐ. Theo dõi, đôn đốc, kiểm tra công việc của các phòng, ban liên quan theo nội dung đã được triển khai."
+    },
+    {
+      "company": "Trung tâm Khai thác Tân Sơn Nhất/ Trung tâm Dịch vụ và Khai thác sân bay - VietnamAirlines",
+      "position": "Chuyên viên Hành chính nhân sự",
+      "duration": "T10/2015 – T6/2023",
+      "description": "Bố trí lịch làm việc theo ca/kíp, lịch đào tạo (gia hạn các chứng chỉ hành nghề) cho gần 100 Cán bộ, Chuyên viên (CBCV) của phòng Dịch vụ hành khách, đảm bảo đủ nhân lực phục vụ chuyến bay đi/ đến của VietnamAirlines tại Sân bay Tân Sơn Nhất (đặc biệt dịp lễ/ tết) và tiết kiệm chi phí nhân công. Chấm công, ghi nhận ngoài giờ và giải quyết phép bù. Thực hiện đánh giá hiệu quả công việc của Chuyên viên hàng tháng theo KPIs. Thực hiện báo cáo các trường hợp thông tin phản hồi nội bộ/ bên ngoài liên quan đến hành khách, chuyến bay và các đơn vị liên quan. Quản lý tài sản, lập kế hoạch phân kỳ, cấp phát văn phòng phẩm phục vụ nội bộ phòng. Tham gia các kỳ đánh giá nội bộ; chỉnh sửa tài liệu nội bộ."
+    },
+    {
+      "company": "Trung tâm Khai thác Tân Sơn Nhất – VietnamAirlines",
+      "position": "Chuyên viên Dịch vụ hành khách",
+      "duration": "T1/2011 – T9/2015",
+      "description": "Là đại diện của VietnamAirlines (VNA) tại Sân bay Tân Sơn Nhất, thay mặt Tổng Công ty giám sát, quản lý chất lượng dịch vụ: thực hiện quản lý chung tất cả các chuyến bay của VNA và các chuyến bay liên danh; xử lý các tình huống bất thường nằm ngoài quy định hay hợp đồng. Kiểm tra, giám sát quá trình phục vụ hành khách, hành lý của các đơn vị cung ứng, đảm bảo chuyến bay đúng giờ, tuân thủ quy định an ninh an toàn, cam kết chất lượng dịch vụ, đạt các mục tiêu chất lượng và quản trị chi phí."
+    }
+  ],
+  "university": "Đại học Ngoại Thương",
+  "major": "Kinh tế đối ngoại",
+  "gpa": "7.93",
+  "certifications": [
+    "Khóa tập huấn: Cách thức và kỹ năng xây dựng thang bảng lương theo phương pháp trả lương 3P, kỹ năng xây dựng KPI để đánh giá hiệu quả công việc (Liên đoàn Thương mại và Công nghiệp Việt Nam - VCCI, T3/2024)",
+    "Khóa đào tạo, bồi dưỡng Nghiệp vụ chuyên môn về Đấu thầu (Trung tâm Hỗ trợ Đấu thầu – Cục Quản lý Đấu thầu, Bộ Kế hoạch và Đầu tư, T7/2024)"
+  ]
+}

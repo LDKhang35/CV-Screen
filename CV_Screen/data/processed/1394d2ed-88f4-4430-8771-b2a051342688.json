@@ -1,0 +1,41 @@
+﻿{
+  "full_name": "LE NGO HOANG DINH",
+  "applied_position": "ADMIN INTERN",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "Pham Hung Street, Binh Chanh District, Ho Chi Minh City",
+  "phone": "",
+  "skills": [
+    "Microsoft Office",
+    "Time management",
+    "Interpersonal Skills",
+    "Problem Solving",
+    "Class management",
+    "Working with foreign speakers",
+    "Solving and reporting problems in class"
+  ],
+  "experience": [
+    {
+      "title": "ADMIN INTERN",
+      "description": "Support admin works to ensure the operation of the Company"
+    },
+    {
+      "title": "TEACHING ASSISTANT",
+      "company": "VUS",
+      "duration": "2020-2022",
+      "responsibilities": [
+        "Class management",
+        "Time management",
+        "Working with foreign speakers in a professional environment",
+        "Solving and reporting problems in class"
+      ]
+    }
+  ],
+  "university": "HO CHI MINH CITY UNIVERSITY OF LAW",
+  "major": "Bachelor of Legal English",
+  "gpa": "",
+  "certifications": [
+    "Top 50 GCI (Global Competitiveness Index) by Today's Voice Contest 2015 - THE CREATION"
+  ]
+}

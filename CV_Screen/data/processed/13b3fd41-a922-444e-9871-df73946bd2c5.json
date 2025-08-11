@@ -1,0 +1,75 @@
+﻿{
+  "full_name": "Tran Phuoc Anh Minh",
+  "applied_position": "Full Stack Developer",
+  "gender": "",
+  "dob": "March-07-1997",
+  "email": "",
+  "address": "Đà Nẵng, Việt Nam",
+  "phone": "",
+  "skills": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Bootstrap",
+    "Antd",
+    "ReactJS",
+    "TypeScript",
+    "NodeJS",
+    "ExpressJS",
+    "NestJS",
+    "Restful API",
+    "MySQL",
+    "Cloudinary",
+    "TypeORM",
+    "Sequelize",
+    "DirectAdmin",
+    "Cpanel",
+    "GIT",
+    "SEO Planning (Content, Offpage)",
+    "Audit Technical",
+    "Audit Onpage",
+    "Keyword Research",
+    "Link Building",
+    "Tracking User",
+    "Google Analytics",
+    "Search Console",
+    "Tag Manager",
+    "Keyword Planner",
+    "Yandex Metrica",
+    "Wordpress",
+    "Plugin"
+  ],
+  "experience": [
+    {
+      "company": "INTERATE CORP",
+      "position": "SEO LEADER",
+      "duration": "11/2021-05/2023",
+      "description": "Implemented 4 projects Affiliate Global SEO: Finance, health, product reviews, promotions. Tasks implemented: SEO Planning (Onpage, Offpage, Content), Keyword Research, Team management, Audit Content, Technical, Offpage, Building Website (Wordpress), Manage hosting & domains."
+    },
+    {
+      "company": "4LIFE ENGLISH CENTER",
+      "position": "SEO LEADER (Freelancer)",
+      "duration": "03/2021-10/2021",
+      "description": "Tasks implemented: SEO Planning (Onpage, Offpage, Content), Keyword Research, Team management, Audit Content, Technical, Offpage, Building Website (Wordpress), Training team."
+    },
+    {
+      "company": "DHV TEAM",
+      "position": "SEO Executive",
+      "duration": "09/2020-10/2021",
+      "description": "Ecommerce Website (Global SEO - Print On Demand Products). Tasks implemented: SEO Planning (Onpage, Offpage, Content), Keyword Research, Team management, Audit Content, Technical, Offpage, Link building."
+    },
+    {
+      "company": "CONANDO",
+      "position": "SEO Intern, SEO Executive & SEO Leader",
+      "duration": "01/2019-09/2020",
+      "description": "Implemented many projects: Furniture, real estate, tourism... Tasks implemented: SEO Planning (Onpage, Offpage, Content), Keyword Research, Team management, Audit Content, Technical, Offpage, Building Website (Wordpress), Link building, Manage hosting & domains."
+    }
+  ],
+  "university": "DUY TAN UNIVERSITY",
+  "major": "Business Administration",
+  "gpa": "3.9/4.0",
+  "certifications": [
+    "TOEIC: 695",
+    "IT Passport Certificate Japan"
+  ]
+}

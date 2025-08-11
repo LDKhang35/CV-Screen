@@ -1,0 +1,52 @@
+﻿{
+  "full_name": "ĐINH PHƯƠNG HUYỀN",
+  "applied_position": "",
+  "gender": "Nữ",
+  "dob": "1999",
+  "email": "",
+  "address": "An Dương, Hải Phòng",
+  "phone": "",
+  "skills": [
+    "Nghiên cứu sản phẩm hóa chất",
+    "Thí nghiệm phân tích đánh giá trực tiếp",
+    "Phân tích kết quả",
+    "Lập báo cáo",
+    "Thao tác vận hành các thiết bị phòng thí nghiệm",
+    "Tin học văn phòng (Word, Excel, PowerPoint)",
+    "Đọc hiểu tài liệu tiếng Anh",
+    "Viết báo cáo và email tiếng Anh cơ bản",
+    "Kỹ năng thích nghi",
+    "Làm việc trong môi trường áp lực",
+    "Giải quyết vấn đề",
+    "Làm việc nhóm",
+    "Quản lý thời gian",
+    "Lập kế hoạch"
+  ],
+  "experience": [
+    {
+      "company": "CÔNG TY TNHH DUNG DỊCH KHOAN VÀ DỊCH VỤ DẦU KHÍ",
+      "position": "Kỹ sư Nghiên cứu và Phát triển sản phẩm mới",
+      "period": "2021 - Hiện nay",
+      "responsibilities": [
+        "Thực hiện tìm kiếm, thu thập, đánh giá, phát triển các sản phẩm hóa chất dầu khí mới, cải thiện chất lượng các sản phẩm sẵn có, giảm giá thành, tăng doanh thu.",
+        "Thực hiện các đề tài nghiên cứu Khoa học Công nghệ cấp Tập đoàn Dầu khí Việt Nam, mang lại doanh thu trên 6 tỷ đồng.",
+        "Thực hiện hợp đồng cung cấp dịch vụ dầu khí và hóa chất khai thác dầu khí, hóa chất dung dịch khoan dầu khí.",
+        "Đảm nhận vị trí Bí thư Đoàn thanh niên, tổ chức các hoạt động tập thể của Công ty."
+      ]
+    },
+    {
+      "company": "PHÒNG LAB HỮU CƠ 2 - Trường ĐH Khoa Học Tự Nhiên",
+      "position": "Nghiên cứu sinh",
+      "period": "2019 - 2021",
+      "responsibilities": [
+        "Thu thập tài liệu, thông tin nghiên cứu liên quan đến hoạt động chống ung thư của hợp chất pyridinocrownophane.",
+        "Nghiên cứu, tổng hợp và phân tách các hợp chất hữu cơ azacrown ether trong phòng thí nghiệm.",
+        "Kiểm tra, phân tích các thông số liên quan đến các hợp chất mới."
+      ]
+    }
+  ],
+  "university": "TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐHQGHN",
+  "major": "Hóa Dược",
+  "gpa": "",
+  "certifications": []
+}

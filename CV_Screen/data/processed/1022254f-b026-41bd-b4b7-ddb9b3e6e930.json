@@ -1,0 +1,98 @@
+﻿{
+  "full_name": "PHẠM CÔNG TRIỂN",
+  "applied_position": "Senior Developer",
+  "gender": "Male",
+  "dob": "27 11 1986",
+  "email": "",
+  "address": "Hồ Chí Minh",
+  "phone": "",
+  "skills": [
+    "C#",
+    "PHP",
+    "API RESTful",
+    "DDD (Domain-Driven Design)",
+    "Application Win",
+    "Service",
+    "Angular",
+    "HTML",
+    "JS (Javascript)",
+    "CSS",
+    "Devexpress",
+    "Blazor",
+    "Winform",
+    "MVC",
+    "Laravel",
+    ".Net Core (6.0, 3.1)",
+    "EF (Entity Framework)",
+    "SQL Server",
+    "MySQL",
+    "Windows OS",
+    "Linux OS",
+    "AD (Active Directory)",
+    "IIS",
+    "Nginx",
+    "Nextcloud",
+    "Apache",
+    "ERP Dynamics NAV",
+    "SOAP",
+    "PBX Asterisk",
+    "English"
+  ],
+  "experience": [
+    {
+      "title": "SENIOR DEVELOPER",
+      "company": "CÔNG TY ĐẦU TƯ VÀ XÂY DỰNG TÂY HỒ",
+      "start_date": "11 2020",
+      "end_date": "06 2023",
+      "responsibilities": [
+        "Backend C#: API RESTful, DDD, tool, application win, service",
+        "Frontend C#, PHP: angular, HTML, JS, CSS, Devexpress, Blazor, Winform",
+        "C#, PHP: MVC, Laravel, Net core 6.0, EF",
+        "Project: Information manager, Operational management, HRM",
+        "System operation: Win, Linux, AD, IIS, Nginx, nextcloud, mysql, sql, apache, php",
+        "DataBase: Sql server, Mysql"
+      ]
+    },
+    {
+      "title": "SENIOR DEVELOPER",
+      "company": "CÔNG TY HOA SEN VIỆT GROUP",
+      "start_date": "12 2018",
+      "end_date": "08 2020",
+      "responsibilities": [
+        "Backend c#, php: app windows, tool, API, service",
+        "Frontend: HTML, JS, CSS",
+        "C#, PHP: MVC, A Laravel, Net Core 3.1, Winform, EF",
+        "System operation: windows, linux",
+        "DataBase: Mysql, SQL server",
+        "ERP Dynamics NAV: system integration tool, web, mini game"
+      ]
+    },
+    {
+      "title": "DEVELOPMENT",
+      "company": "VTC MOBILE",
+      "start_date": "07 2014",
+      "end_date": "06 2018",
+      "responsibilities": [
+        "Backend C#, php: web, wap, app windown, service, tool web",
+        "Frontend C#, php: MVC, A CSS, HTML, JS",
+        "Connecting VAT service with telco, mobile, vina, viettel by API: SOAP or REST",
+        "System operation: pbx asterisk, mysql, sql server, ngnix, windown, linux",
+        "DataBase: sql server, mysql"
+      ]
+    },
+    {
+      "title": "SALESPERSON",
+      "company": "CÔNG TY TIN HỌC VINH KHANG",
+      "start_date": "08 2012",
+      "end_date": "07 2013",
+      "responsibilities": [
+        "Introduction of office equipment and software products",
+        "Support, installation, repair of computer devices, printers"
+      ]
+    }
+  ],
+  "university": "ĐẠI HỌC TÔN ĐỨC THẮNG",
+  "major": "KHOA HỌC MÁY TÍNH",
+  "gpa": "",
+  "certifications": []
+}

@@ -1,0 +1,55 @@
+﻿{
+  "full_name": "NGUYỄN NGỌC THU",
+  "applied_position": "THỦ KHO",
+  "gender": "Nam",
+  "dob": "27/02/1967",
+  "email": "",
+  "address": "Xóm 6 Thôn Thượng Giang, xã Tây Giang, huyện Tây Sơn, tỉnh Bình Định",
+  "phone": "",
+  "skills": [
+    "Anh văn (trình độ A)",
+    "Tin học văn phòng (Word, Excel)",
+    "Sử dụng phần mềm kế toán",
+    "Lập đơn hàng và kế hoạch sản xuất",
+    "Theo dõi, phân bổ, quản lý, điều tiết, lưu trữ hàng hóa xuất nhập tồn kho",
+    "Cập nhật chi tiết và tổng hợp số liệu kế toán",
+    "Lập báo cáo thuế và các báo cáo định kỳ",
+    "Phỏng vấn tuyển dụng nhân sự",
+    "Theo dõi chấm công, tính lương",
+    "Làm bảo hiểm và các chế độ cho công nhân",
+    "Dự trù và lập kế hoạch cấp phát đồng phục, đồ bảo hộ lao động",
+    "Quản lý tài xế, mua sắm vật tư",
+    "Am hiểu nhiều lĩnh vực (kế toán, thủ kho, hành chính nhân sự, kế hoạch sản xuất)",
+    "Trung thực, siêng năng, nhạy bén, nhiệt tình, có trách nhiệm cao, hòa đồng, ham học hỏi"
+  ],
+  "experience": [
+    {
+      "duration": "1986-1987",
+      "position": "Kế toán",
+      "company": "HTXNN Thượng Giang",
+      "responsibilities": ""
+    },
+    {
+      "duration": "Khoảng 1987 - 10/2014",
+      "position": "Kiểm thu viên, Kiểm soát viên thuế",
+      "company": "Chi cục thuế huyện Tây Sơn - Cục thuế tỉnh Bình Định",
+      "responsibilities": "Quản lý thu thuế hộ kinh doanh cá thể, quản lý thu thuế các công ty doanh nghiệp trên địa bàn huyện Tây Sơn, Bình Định; Kiểm tra quyết toán thuế các DNTN, Công ty TNHH trên địa bàn huyện Tây Sơn, Bình Định."
+    },
+    {
+      "duration": "11/2014 - 05/2019",
+      "position": "Kế hoạch sản xuất, Kế toán kho, Quản lý kho, HCNS",
+      "company": "Công ty Khang Việt KCN Tân Đức Long An",
+      "responsibilities": "Tiếp nhận đơn đặt hàng, cập nhật lên đơn hàng, lập kế hoạch cho xưởng sản xuất, theo dõi phân bổ xe vận chuyển đi giao hàng; Phỏng vấn tuyển dụng nhân sự, theo dõi vân tay công nhân ra vào quẹt thẻ, báo cơm trưa và cơm tăng ca, chấm công tính lương, làm bảo hiểm và các chế độ cho công nhân, dự trù và lập kế hoạch cấp phát đồng phục và đồ bảo hộ lao động; Theo dõi hàng hóa xuất nhập tồn."
+    },
+    {
+      "duration": "08/2022 - Hiện tại",
+      "position": "Thủ kho công trình",
+      "company": "Công ty TNHH Xây dựng ĐỒNG THUẬN HÀ",
+      "responsibilities": "Thủ kho công trình, quản lý tài xế, mua sắm vật tư nhỏ lẻ, theo dõi vật tư xuất - nhập - tồn, chấm công cho CBNV toàn công trình."
+    }
+  ],
+  "university": "",
+  "major": "Kế toán doanh nghiệp (Khoa Quản trị kinh doanh)",
+  "gpa": "",
+  "certifications": []
+}

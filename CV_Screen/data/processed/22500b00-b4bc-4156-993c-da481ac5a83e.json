@@ -1,0 +1,56 @@
+﻿{
+  "full_name": "Nguyen Truong Thanh",
+  "applied_position": "Software Engineer",
+  "gender": "",
+  "dob": "",
+  "email": "",
+  "address": "HCM, Vietnam",
+  "phone": "",
+  "skills": [
+    "React-Native",
+    "React-Navigation",
+    "Redux",
+    "Redux-Saga",
+    "React-Hook",
+    "Expo",
+    "Performance",
+    "Mobile UI",
+    "UX",
+    "Responsive Design",
+    "REST API",
+    "FBSDK",
+    "GGSDK",
+    "Notification",
+    "Firebase",
+    "Deploy app (Chplay, Appstore)",
+    "Online payments (Momo, Vnp, Ngan Luong, Stripe)",
+    "Agile - Scrum",
+    "Jira",
+    "Visual Studio",
+    "Android Studio",
+    "Xcode",
+    "TypeScripts",
+    "Redux-Thunk",
+    "Flutter",
+    "React Native Router",
+    "Map (integration)"
+  ],
+  "experience": [
+    {
+      "company": "HDWEBSOFT SOFTWARE SOLUTIONS",
+      "position": "Software Engineer",
+      "duration": "May 2020 - Present",
+      "description": "Improving system quality by identifying issues and common patterns, and developing standard operating procedures. Investigating and using new technologies where relevant. Maintaining and improving existing codebases and peer review code changes."
+    },
+    {
+      "company": "Haravan Company",
+      "position": "Software Engineer",
+      "duration": "Sep 2018 - Apr 2020",
+      "description": "Analyze, design and develop tests and test-automation suites. Design and develop a processing platform using various conﬁguration management technologies. Improving system quality by identifying issues and common patterns, and developing standard operating procedures. Attend Sales Skill Course in the Company. Provide ongoing maintenance, support and enhancements in existing systems and platforms."
+    }
+  ],
+  "university": "FPT Polytechnic college",
+  "major": "Mobile Programming (Android Studio), Cross-platform Programming (React-Native)",
+  "gpa": "",
+  "certifications": ""
+}
